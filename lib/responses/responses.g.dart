@@ -11,7 +11,7 @@ _$ArticleResponseImpl _$$ArticleResponseImplFromJson(
     _$ArticleResponseImpl(
       status: json['status'] as String,
       items: (json['items'] as List<dynamic>)
-          .map((e) => Item.fromJson(e as Map<String, dynamic>))
+          .map((e) => ArticleItem.fromJson(e as Map<String, dynamic>))
           .toList(),
     );
 
@@ -22,7 +22,8 @@ Map<String, dynamic> _$$ArticleResponseImplToJson(
       'items': instance.items,
     };
 
-_$ItemImpl _$$ItemImplFromJson(Map<String, dynamic> json) => _$ItemImpl(
+_$ArticleItemImpl _$$ArticleItemImplFromJson(Map<String, dynamic> json) =>
+    _$ArticleItemImpl(
       title: json['title'] as String,
       snippet: json['snippet'] as String,
       publisher: json['publisher'] as String,
@@ -33,7 +34,7 @@ _$ItemImpl _$$ItemImplFromJson(Map<String, dynamic> json) => _$ItemImpl(
           : Images.fromJson(json['images'] as Map<String, dynamic>),
     );
 
-Map<String, dynamic> _$$ItemImplToJson(_$ItemImpl instance) =>
+Map<String, dynamic> _$$ArticleItemImplToJson(_$ArticleItemImpl instance) =>
     <String, dynamic>{
       'title': instance.title,
       'snippet': instance.snippet,

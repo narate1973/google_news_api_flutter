@@ -19,7 +19,7 @@ class _AppApiImpl implements AppApi {
     // request.headers.addAll({
     //   'User-Agent': 'Mozilla/5.1',
     //   'x-rapidapi-host': 'google-news13.p.rapidapi.com',
-    //   'x-rapidapi-key': '41879b31edmsh4d4bb5bf45cbc43p15f49ejsn45968247a339',
+    //   'x-rapidapi-key': 'd090948b5cmshcfbab20c3ff3f93p11ed25jsne768051e2aff',
     // });
     // final response = await request.send();
     return ArticleResponse.fromJson(test);

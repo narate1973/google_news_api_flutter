@@ -1,0 +1,858 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "title": "Stanley Cup Final Game 1 live updates: Sergei Bobrovsky leads Panthers past Oilers",
+      "snippet": "The Florida Panthers and Sergei Bobrovsky shut out the Edmonton Oilers in Game 1 of the Stanley Cup Final.",
+      "publisher": "USA TODAY",
+      "timestamp": "1717902675000",
+      "newsUrl": "https://www.usatoday.com/story/sports/nhl/2024/06/08/stanley-cup-finals-live-updates-game-1-panthers-oilers-highlights/74023292007/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlXVUpTWWxOSmNDMXVOR3gxVFJEekFoaVVCU2dLTWdhRlFZanRuUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlXVUpTWWxOSmNDMXVOR3gxVFJEekFoaVVCU2dLTWdhRlFZanRuUWs"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Sergei Bobrovsky stymies Oilers as Panthers win Stanley Cup opener",
+          "snippet": "Sergei Bobrovsky recorded 32 saves to help the Panthers defeat the Oilers 3-0 in Game 1 of the Stanley Cup Final on Saturday.",
+          "publisher": "ESPN",
+          "timestamp": "1717902900000",
+          "newsUrl": "https://www.espn.com/nhl/story/_/id/40309205/sergei-bobrovsky-stymies-oilers-panthers-win-stanley-cup-opener",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNhM0V0ZFRjd05GOVRXVGszVFJDb0FSaXNBaWdCTWdZQlE0b0tuZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNhM0V0ZFRjd05GOVRXVGszVFJDb0FSaXNBaWdCTWdZQlE0b0tuZ2s"
+          }
+        },
+        {
+          "title": "Stanley Cup finals Game 1: Sergei Bobrovsky guides Panthers to 3-0 win",
+          "snippet": "SUNRISE, Fla. — In their previous two appearances in the Stanley Cup finals, the Florida Panthers never led by more than one goal.",
+          "publisher": "The Washington Post",
+          "timestamp": "1717906168000",
+          "newsUrl": "https://www.washingtonpost.com/sports/2024/06/08/sergei-bobrovsky-stanley-cup-finals-game-1-panthers-oilers/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURSR3A0Y2xWVFEwMUNjVTFFVFJDZkF4ampCU2dLTWdZTkFJUndIUUk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURSR3A0Y2xWVFEwMUNjVTFFVFJDZkF4ampCU2dLTWdZTkFJUndIUUk"
+          }
+        },
+        {
+          "title": "How to watch the Edmonton Oilers vs. Florida Panthers NHL Stanley Cup Finals Game 1 tonight: Livestream options",
+          "snippet": "The 2024 NHL Stanley Cup Finals have arrived as the Edmonton Oilers face the Florida Panthers in Game 1 tonight.",
+          "publisher": "CBS News",
+          "timestamp": "1717842625000",
+          "newsUrl": "https://www.cbsnews.com/essentials/how-to-watch-the-edmonton-oilers-vs-florida-panthers-nhl-stanley-cup-finals-game-1-tonight/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpaVE5XVlVwdVRHcHJiSGxRVFJEVUF4aVBCU2dLTWdZUklvNEptUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpaVE5XVlVwdVRHcHJiSGxRVFJEVUF4aVBCU2dLTWdZUklvNEptUWc"
+          }
+        },
+        {
+          "title": "Oilers vs. Panthers score, highlights: Florida takes Game 1 of Stanley Cup Final with shutout of Edmonton",
+          "snippet": "The Florida Panthers have struck first in the Stanley Cup Final. With Sergei Bobrovsky's spectacular goaltending on full display, the Panthers gritted out a ...",
+          "publisher": "CBS Sports",
+          "timestamp": "1717902554000",
+          "newsUrl": "https://www.cbssports.com/nhl/news/oilers-vs-panthers-score-highlights-florida-takes-game-1-of-stanley-cup-final-with-shutout-of-edmonton/live/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNURhRmg1Vm5oZmJVUTBhbkJNVFJDb0FSaXNBaWdCTWdtVlFZWnBJV2ROamdF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNURhRmg1Vm5oZmJVUTBhbkJNVFJDb0FSaXNBaWdCTWdtVlFZWnBJV2ROamdF"
+          }
+        },
+        {
+          "title": "Stanley Cup Final: Oilers can't solve Sergei Bobrovsky as Panthers take Game 1",
+          "snippet": "The Edmonton Oilers did everything they could to solve Sergei Bobrovsky in Game 1 of the Stanley Cup Final, but the Florida Panthers netminder put on a show ...",
+          "publisher": "Yahoo Sports",
+          "timestamp": "1717904400000",
+          "newsUrl": "https://sports.yahoo.com/stanley-cup-final-oilers-cant-solve-sergei-bobrovsky-as-panthers-take-game-1-030231316.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9hVzk0T0dNeWMyeGFiR1UzVFJEQUF4aUFCU2dLTWdhWllvSVB4UU0=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9hVzk0T0dNeWMyeGFiR1UzVFJEQUF4aUFCU2dLTWdhWllvSVB4UU0"
+          }
+        },
+        {
+          "title": "How to Watch the Stanley Cup Finals Online: Livestream Oilers vs. Panthers for Free Without Cable",
+          "snippet": "Watch the Edmonton Oilers vs. Florida Panthers Stanley Cup final hockey game live feed online without cable. Livestream the NHL finals online free.",
+          "publisher": "Variety",
+          "timestamp": "1717869120000",
+          "newsUrl": "https://variety.com/2024/shopping/athletes/watch-2024-stanley-cup-finals-live-stream-oilers-panthers-online-free-1236026748/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW5NMnRCUlZaellYSnVWak5DVFJERUF4aW1CU2dLTWdtRk1wSm1JYW1wN3dF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNW5NMnRCUlZaellYSnVWak5DVFJERUF4aW1CU2dLTWdtRk1wSm1JYW1wN3dF"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dornoch, ex-MLB star Werth's colt, upsets Belmont at Saratoga",
+      "snippet": "Dornoch, who is owned in part by former MLB All-Star Jayson Werth, pulled off a 17-1 upset in the Belmont Stakes held at Saratoga on Saturday.",
+      "publisher": "ESPN",
+      "timestamp": "1717887540000",
+      "newsUrl": "https://www.espn.com/horse-racing/story/_/id/40307580/dornoch-ex-mlb-star-werth-colt-wins-belmont-saratoga",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVVR0k1UVc1d1VIbGxNamRXVFJDb0FSaXNBaWdCTWdZQkFJVk5VUU0=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVVR0k1UVc1d1VIbGxNamRXVFJDb0FSaXNBaWdCTWdZQkFJVk5VUU0"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Belmont Stakes: Dornoch crosses finish line first at Belmont Stakes",
+          "snippet": "Dornoch won the Belmont Stakes at Saratoga Race Course on Saturday.",
+          "publisher": "WABC-TV",
+          "timestamp": "1717886924000",
+          "newsUrl": "https://abc7ny.com/post/belmont-stakes-horse-racing-history-kinds-being-made/14926141/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNaamx1VTJVeWFqSXhPRlpUVFJDZkF4ampCU2dLTWdZTk00NXBuZ28=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVNaamx1VTJVeWFqSXhPRlpUVFJDZkF4ampCU2dLTWdZTk00NXBuZ28"
+          }
+        },
+        {
+          "title": "Dornoch wins the Belmont Stakes, beating Derby and Preakness winners",
+          "snippet": "Dornoch won the Belmont Stakes Saturday evening, with the race held for the first time in New York's Saratoga Springs, 200 miles north of Belmont Park, ...",
+          "publisher": "Yahoo Sports",
+          "timestamp": "1717890536000",
+          "newsUrl": "https://sports.yahoo.com/belmont-stakes-watch-two-champions-110016528.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVabk0wYjB4SWJtVlRaMFZzVFJDZkF4ampCU2dLTWdZQk5KS3JHUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVabk0wYjB4SWJtVlRaMFZzVFJDZkF4ampCU2dLTWdZQk5KS3JHUWs"
+          }
+        },
+        {
+          "title": "Belmont Stakes 2024 predictions, odds, field: Win, place, show, trifecta, plus superfecta expert picks",
+          "snippet": "Sierra Leone, Mindframe, Mystik Dan, and Seize the Grey are the 2024 Belmont Stakes favorites, but does our expert think they can win?",
+          "publisher": "CBS Sports",
+          "timestamp": "1717902783000",
+          "newsUrl": "https://www.cbssports.com/general/news/belmont-stakes-2024-predictions-odds-field-win-place-show-trifecta-plus-superfecta-expert-picks/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRSblV5V0haSVNuTnJPSGRuVFJDZkF4ampCU2dLTWdhbEZJYXVFUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRSblV5V0haSVNuTnJPSGRuVFJDZkF4ampCU2dLTWdhbEZJYXVFUWM"
+          }
+        },
+        {
+          "title": "Dornoch wins 156th Belmont Stakes at Saratoga",
+          "snippet": "Dornoch won the 156th running of the Belmont Stakes Saturday afternoon at Saratoga Race Course in New York due to renovations at Belmont Park.",
+          "publisher": "Fox News",
+          "timestamp": "1717886880000",
+          "newsUrl": "https://www.foxnews.com/sports/156th-belmont-stakes-winner",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFVRVo2TlU5RFQwSmFaM1pCVFJDZkF4ampCU2dLTWdhQkU0eEpGUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTFVRVo2TlU5RFQwSmFaM1pCVFJDZkF4ampCU2dLTWdhQkU0eEpGUW8"
+          }
+        },
+        {
+          "title": "See Photos From Inside the 2024 Belmont Stakes",
+          "snippet": "The Belmont Stakes arrives at Saratoga Race Course.",
+          "publisher": "The New York Times",
+          "timestamp": "1717896434000",
+          "newsUrl": "https://www.nytimes.com/2024/06/08/business/saratoga-belmont-stakes.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWlWWFZ2Y0dRMWVVZG1iMFJhVFJDUUF4allCQ2dLTWdNQllCSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWlWWFZ2Y0dRMWVVZG1iMFJhVFJDUUF4allCQ2dLTWdNQllCSQ"
+          }
+        }
+      ]
+    },
+    {
+      "title": "USMNT gets 'wake-up call' in 5-1 rout by Colombia",
+      "snippet": "Coach Gregg Berhalter said the U.S. men's national soccer team got a \"wake-up call\" ahead of this summer's Copa America in Saturday's 5-1 humbling by ...",
+      "publisher": "ESPN",
+      "timestamp": "1717897920000",
+      "newsUrl": "https://www.espn.com/soccer/story/_/id/40308374/usa-colombia-friendly-copa-america-berhalter",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJTMmRMVEdKemNrRllaWGd5VFJDb0FSaXNBaWdCTWdZWkY0b3FFZ2s=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUJTMmRMVEdKemNrRllaWGd5VFJDb0FSaXNBaWdCTWdZWkY0b3FFZ2s"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Thumped by Colombia, the USMNT gets a 'wake-up call' that shouldn't be necessary",
+          "snippet": "LANDOVER, Md. — The U.S. men's national team kicked off its most consequential summer in a decade surrounded by expectations and buzz, by 55,494 fans here ...",
+          "publisher": "Yahoo Sports",
+          "timestamp": "1717899360000",
+          "newsUrl": "https://sports.yahoo.com/thumped-by-colombia-the-usmnt-gets-a-wake-up-call-that-shouldnt-be-necessary-233247417.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhabkJEWkhwQ1RuZGZWbXhPVFJDckF4aUFCU2dLTWdZWlFwb0tIZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhabkJEWkhwQ1RuZGZWbXhPVFJDckF4aUFCU2dLTWdZWlFwb0tIZ2s"
+          }
+        },
+        {
+          "title": "USMNT vs. Colombia: Match Preview | U.S. Soccer Official Website",
+          "snippet": "LANDOVER (June 7, 2024) — The U.S. Men's National Team's preparation for the 2024 Copa América in the United States continues this Saturday, June 8, ...",
+          "publisher": "U.S. Soccer",
+          "timestamp": "1717796700000",
+          "newsUrl": "https://www.ussoccer.com/stories/2024/06/usmnt-vs-colombia-match-preview-game-notes-start-time-6-8-24",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJhRmg2VUMxc1ltTnJlbGhRVFJDb0FSaXNBaWdCTWdZbEJvanNrUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJhRmg2VUMxc1ltTnJlbGhRVFJDb0FSaXNBaWdCTWdZbEJvanNrUW8"
+          }
+        },
+        {
+          "title": "Fans Call for Gregg Berhalter's Job After Colombia Routs United States in Friendly",
+          "snippet": "The United States men's national soccer team played an international friendly against Colombia on Saturday as both teams prepare for Copa America and the ...",
+          "publisher": "Sports Illustrated",
+          "timestamp": "1717892241000",
+          "newsUrl": "https://www.si.com/soccer/fans-call-for-gregg-berhalter-s-job-after-colombia-routs-united-states-friendly",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdWelpmTW1aRmNGbFBXQzFsVFJDVkF4alFCU2dLTWdhcFFvTHNJUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdWelpmTW1aRmNGbFBXQzFsVFJDVkF4alFCU2dLTWdhcFFvTHNJUWc"
+          }
+        },
+        {
+          "title": "USMNT unravels against Colombia in Copa América tune-up",
+          "snippet": "The 5-1 defeat in a Copa América tuneup at Commanders Field was the U.S. team's worst since 2016.",
+          "publisher": "The Washington Post",
+          "timestamp": "1717903591000",
+          "newsUrl": "https://www.washingtonpost.com/sports/2024/06/08/usmnt-colombia-commanders-field/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhlRmhrU2xGUFJYQk1UVkZDVFJESUFSaXNBaWdLTWdZaDBJaUx6QU0=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhlRmhrU2xGUFJYQk1UVkZDVFJESUFSaXNBaWdLTWdZaDBJaUx6QU0"
+          }
+        },
+        {
+          "title": "USMNT vs. Colombia prediction, odds, time: 2024 international friendly picks, June 8 bets by proven expert",
+          "snippet": "Martin Green has locked in his picks, predictions, and best bets for Saturday's Colombia vs. USMNT international friendly.",
+          "publisher": "CBS Sports",
+          "timestamp": "1717873247000",
+          "newsUrl": "https://www.cbssports.com/soccer/news/usmnt-vs-colombia-prediction-odds-time-2024-international-friendly-picks-june-8-bets-by-proven-expert/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtiV1ZpWDA1WmVHZG1jVGRWVFJDZkF4ampCU2dLTWdhOUE0Z3lFUXM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtiV1ZpWDA1WmVHZG1jVGRWVFJDZkF4ampCU2dLTWdhOUE0Z3lFUXM"
+          }
+        },
+        {
+          "title": "USMNT overpowered by Colombia in Copa America warmup match",
+          "snippet": "Colombia scored three goals in an 11-minute span late in the second half to rout a sloppy United States 5-1 on Saturday in a Copa America warmup match.",
+          "publisher": "New York Post ",
+          "timestamp": "1717898400000",
+          "newsUrl": "https://nypost.com/2024/06/08/sports/colombia-overpowers-us-in-copa-america-warmup-match/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhhRXBqUTA5RlVVTlVWR1pRVFJERUF4aW5CU2dLTWdZRkFZekZGQW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhhRXBqUTA5RlVVTlVWR1pRVFJERUF4aW5CU2dLTWdZRkFZekZGQW8"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hamilton's data helped Russell snatch Montreal F1 pole",
+      "snippet": "Hamilton had looked well on top of things in final practice in Montreal, as he ended Saturday morning's session nearly fourth tenths clear of Red Bull's Max ...",
+      "publisher": "Motorsport.com",
+      "timestamp": "1717886606000",
+      "newsUrl": "https://www.motorsport.com/f1/news/hamilton-data-russell-snatch-montreal-pole/10621247/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDRWWHBmVDIwMUxWaG1PRGc1VFJERUF4aW1CU2dLTWdrQkFaYkNsbW84U0FJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDRWWHBmVDIwMUxWaG1PRGc1VFJERUF4aW1CU2dLTWdrQkFaYkNsbW84U0FJ"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Russell clinches pole in Canada with same time as Verstappen",
+          "snippet": "George Russell has taken pole position for the Canadian Grand Prix in an impressive session for the Mercedes driver, with the Briton beating Max Verstappen ...",
+          "publisher": "Formula 1",
+          "timestamp": "1717881989000",
+          "newsUrl": "https://www.formula1.com/en/latest/article/russell-clinches-pole-position-in-canada-with-identical-time-to-verstappen.2Pv0IDXhWAfq2wJwCyqPqf",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUViMGhvTlhSRFNuTldlVkJ6VFJDZkF4ampCU2dLTWdrQkFKU1BCT3RiYWdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUViMGhvTlhSRFNuTldlVkJ6VFJDZkF4ampCU2dLTWdrQkFKU1BCT3RiYWdJ"
+          }
+        },
+        {
+          "title": "Mark Hughes: Why Mercedes is F1's fastest car in Canada",
+          "snippet": "Time will tell if Mercedes is definitively back in contention, but make no mistake about it: it's realistically the fastest F1 car at the Canadian GP.",
+          "publisher": "The Race",
+          "timestamp": "1717894643000",
+          "newsUrl": "https://www.the-race.com/formula-1/mark-hughes-why-mercedes-is-fastest-in-canada-f1/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUlNMlpLWWpGc1NYVkNSVEpSVFJERUF4aW1CU2dLTWdzQkFJcUhJT1hJZzdxYVBR=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNUlNMlpLWWpGc1NYVkNSVEpSVFJERUF4aW1CU2dLTWdzQkFJcUhJT1hJZzdxYVBR"
+          }
+        },
+        {
+          "title": "George Russell claims Canadian F1 GP pole for Mercedes",
+          "snippet": "George Russell will start the F1 Canadian Grand Prix on pole position, ahead of Max Verstappen who exactly matched his qualifying time.",
+          "publisher": "The Guardian",
+          "timestamp": "1717896600000",
+          "newsUrl": "https://www.theguardian.com/sport/article/2024/jun/08/george-russell-claims-canadian-f1-gp-pole-for-mercedes",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZOMjUzVUVWVlFqQXlURVUxVFJDUkF4ajhCU2dLTWdZcEJZcXVrUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZOMjUzVUVWVlFqQXlURVUxVFJDUkF4ajhCU2dLTWdZcEJZcXVrUW8"
+          }
+        },
+        {
+          "title": "Russell: We can beat Verstappen in Canada GP",
+          "snippet": "MONTREAL, Canada -- George Russell is confident he can hold off Max Verstappen to secure Mercedes' first victory since 2022 at Sunday's Canadian Grand Prix.",
+          "publisher": "ESPN",
+          "timestamp": "1717888200000",
+          "newsUrl": "https://www.espn.com/f1/story/_/id/40307763/russell-beat-verstappen-canada-gp",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhVa3BWTkRCV1Uzb3liVEo1VFJDb0FSaXJBaWdCTWdhcE5Jek5xUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhVa3BWTkRCV1Uzb3liVEo1VFJDb0FSaXJBaWdCTWdhcE5Jek5xUVk"
+          }
+        },
+        {
+          "title": "Russell beats Verstappen to pole in a Canadian dead heat",
+          "snippet": "George Russell took a shock pole position at the Canadian Grand Prix in a dead heat with Max Verstappen after both Ferrari drivers bombed out of qualifying ...",
+          "publisher": "RACER",
+          "timestamp": "1717882676000",
+          "newsUrl": "https://racer.com/2024/06/08/russell-beats-verstappen-to-pole-in-a-canadian-dead-heat/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVZbmM1VEZFd1NWTmhlbXhPVFJDdEF4akxCU2dLTWdZRllaQk1yUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVZbmM1VEZFd1NWTmhlbXhPVFJDdEF4akxCU2dLTWdZRllaQk1yUVk"
+          }
+        },
+        {
+          "title": "2024 F1 Canadian Grand Prix - Qualifying results",
+          "snippet": "Check out the results from Qualifying at the Circuit Gilles Villeneuve ahead of the 2024 F1 Canadian Grand Prix!",
+          "publisher": "Racingnews365.com",
+          "timestamp": "1717880801000",
+          "newsUrl": "https://racingnews365.com/2024-f1-canadian-grand-prix-qualifying-results",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNlVmh5VUdwcmVYQTRVbm8zVFJDeEFSaWNBaWdCTWdZQm9ZN2x3QVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNlVmh5VUdwcmVYQTRVbm8zVFJDeEFSaWNBaWdCTWdZQm9ZN2x3QVk"
+          }
+        }
+      ]
+    },
+    {
+      "title": "UFC Louisville Results: Cannonier vs. Imavov",
+      "snippet": "MMA Fighting has UFC Louisville results for the Cannonier vs. Imanov fight card, a live blog for the main event, and more from the KFC Yum!",
+      "publisher": "MMA Fighting",
+      "timestamp": "1717893968000",
+      "newsUrl": "https://www.mmafighting.com/2024/6/8/24173652/ufc-louisville-results-cannonier-vs-imavov",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTJia3cyZFVGQ1JHbFJiazFuVFJERUF4aW1CU2dLTWdrQklKeWtHT3JJTFFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTJia3cyZFVGQ1JHbFJiazFuVFJERUF4aW1CU2dLTWdrQklKeWtHT3JJTFFJ"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Nassourdine Imavov stops Jared Cannonier in UFC main event",
+          "snippet": "Nassourdine Imavov scored a career-best win Saturday night with a fourth-round TKO of former title challenger Jared Cannonier.",
+          "publisher": "ESPN",
+          "timestamp": "1717904040000",
+          "newsUrl": "https://www.espn.com/mma/story/_/id/40309336/nassourdine-imavov-stops-jared-cannonier-ufc-main-event",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRYMFk0UTBseVdqVkllRmxZVFJDb0FSaXNBaWdCTWdZZEI0UktrZ28=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRYMFk0UTBseVdqVkllRmxZVFJDb0FSaXNBaWdCTWdZZEI0UktrZ28"
+          }
+        },
+        {
+          "title": "Louisville's UFC Fight Night arrives to KFC Yum! Center Saturday",
+          "snippet": "For the first time since 2011, Louisville hosted UFC Fight Night Saturday at the KFC Yum! Center. See photos from the event.",
+          "publisher": "Courier Journal",
+          "timestamp": "1717904996000",
+          "newsUrl": "https://www.courier-journal.com/picture-gallery/sports/2024/06/08/ufc-fight-night-in-louisville-cannonier-imavov/74030030007/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhkRjh0ZFRKRFgzbG9NRjk0VFJERUF4aW1CU2dLTWdZUk1wWm5uZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhkRjh0ZFRKRFgzbG9NRjk0VFJERUF4aW1CU2dLTWdZUk1wWm5uZ2s"
+          }
+        },
+        {
+          "title": "UFC Fight Night odds, picks: Uncanny MMA analyst releases picks for Cannonier vs. Imavov and other matchups for June 8 showcase",
+          "snippet": "Ranked middleweights meet Saturday in the main event of UFC Fight Night as No. 4-ranked Jared Cannonier meets No. 7-ranked Nassourdine Imavov. Th...",
+          "publisher": "SportsLine",
+          "timestamp": "1717884300000",
+          "newsUrl": "https://www.sportsline.com/insiders/ufc-fight-night-odds-picks-uncanny-mma-analyst-releases-picks-for-cannonier-vs-imavov-and-other-matchups-for-june-8-showcase/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTZSazlvYXpsWGNVUlVVekJZVFJDc0FoaTBCaWdLTWdtUklwYUhGaXBGSmdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTZSazlvYXpsWGNVUlVVekJZVFJDc0FoaTBCaWdLTWdtUklwYUhGaXBGSmdJ"
+          }
+        },
+        {
+          "title": "The Real Winners and Losers From UFC on ESPN 57",
+          "snippet": "On Saturday night, the UFC visited Louisville, Kentucky for a second time — and the first time since way back in 2011. The Louisville fans in the building,…",
+          "publisher": "Bleacher Report",
+          "timestamp": "1717904322000",
+          "newsUrl": "https://bleacherreport.com/articles/10124102-the-real-winners-and-losers-from-ufc-on-espn-57",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWpjVWh6WjNrelFYSllhMlp0VFJERUF4aW1CU2dLTWdrQklKeWtHT3JJTFFJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWpjVWh6WjNrelFYSllhMlp0VFJERUF4aW1CU2dLTWdrQklKeWtHT3JJTFFJ"
+          }
+        },
+        {
+          "title": "UFC on ESPN 57 live results: Play-by-play of every Louisville fight",
+          "snippet": "UFC on ESPN 57 takes place Saturday, and you can join us for live play-by-play and official results. UFC on ESPN 57 (ESPN/ESPN+) takes place at KFC Yum!",
+          "publisher": "MMA Junkie",
+          "timestamp": "1717894500000",
+          "newsUrl": "https://mmajunkie.usatoday.com/2024/06/ufc-on-espn-57-louisville-live-updates-results",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZTM1JUVFZsUGVIRjJjVEl3VFJDdEF4akxCU2dLTWdhTlFaZ05wUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZTM1JUVFZsUGVIRjJjVEl3VFJDdEF4akxCU2dLTWdhTlFaZ05wUWc"
+          }
+        },
+        {
+          "title": "UFC on ESPN 57 ‘Cannonier vs. Imavov’ Play-by-Play, Results & Round Scoring",
+          "snippet": "Sherdog's live UFC on ESPN 57 coverage will begin Saturday at 5 p.m. ET.",
+          "publisher": "Sherdog.com",
+          "timestamp": "1717902000000",
+          "newsUrl": "https://www.sherdog.com/news/news/UFC-on-ESPN-57-Cannonier-vs-Imavov-PlaybyPlay-Results-Round-Scoring-193953",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJRVFEwVWxCb1VXNW1VekEzVFJDdUFSaWlBaWdCTWdhVlE0UklwUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJRVFEwVWxCb1VXNW1VekEzVFJDdUFSaWlBaWdCTWdhVlE0UklwUWs"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Kidd tries to create distraction, Celtics simply focused on ‘best' team",
+      "snippet": "Jason Kidd tried to create a distraction for the Celtics on Saturday, but Boston is simply focused on its primary goal of winning a title, writes Chris...",
+      "publisher": "NBC Sports Boston",
+      "timestamp": "1717895383000",
+      "newsUrl": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-mavericks-jason-kidd-jayson-tatum-jaylen-brown/619767/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJWSHBPZWpaTlEwRlROSFl6VFJDZkF4ampCU2dLTWdhbE5JeVBtUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJWSHBPZWpaTlEwRlROSFl6VFJDZkF4ampCU2dLTWdhbE5JeVBtUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Caitlin Clark left off Team USA roster for Paris Olympics",
+      "snippet": "USA Basketball's roster for the women's Olympic basketball team that will chase gold in Paris this summer will not include WNBA rookie sensation Caitlin ...",
+      "publisher": "CNN",
+      "timestamp": "1717888320000",
+      "newsUrl": "https://www.cnn.com/2024/06/08/sport/caitlin-clark-basketball-olympics/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxhbUpHTVZSMGFVOVFWSFJrVFJDZkF4amlCU2dLTWdheEZJWndrUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxhbUpHTVZSMGFVOVFWSFJrVFJDZkF4amlCU2dLTWdheEZJWndrUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Kyrie Irving Admits He 'Failed Miserably' During Celtics Tenure, Discusses Struggles",
+      "snippet": "Dallas Mavericks guard Kyrie Irving told reporters that he \"failed miserably\" during his two-year tenure (2017-2019) with the Boston Celtics but added some…",
+      "publisher": "Bleacher Report",
+      "timestamp": "1717888955000",
+      "newsUrl": "https://bleacherreport.com/articles/10124095-kyrie-irving-admits-he-failed-miserably-during-celtics-tenure-discusses-struggles",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdOVWhUVHpscmFqSjJkVWhqVFJERUF4aW1CU2dLTWdaRkVvd1VGUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVdOVWhUVHpscmFqSjJkVWhqVFJERUF4aW1CU2dLTWdaRkVvd1VGUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Late Rally Comes Up Just Short in 10-8 Loss to #16 Evansville - University of Tennessee Athletics",
+      "snippet": "KNOXVILLE, Tenn. – A furious ninth-inning rally came up just short as No. 1/1 Tennessee dropped game two of the NCAA Knoxville Super Regional by a score of ...",
+      "publisher": "University of Tennessee Athletics",
+      "timestamp": "1717891425000",
+      "newsUrl": "https://utsports.com/news/2024/6/8/baseball-late-rally-comes-up-just-short-in-10-8-loss-to-16-evansville.aspx",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFNRTlDT1dWWFVFZDVabmhJVFJDb0FSaXNBaWdCTWdZVldKQkpwZ2M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXFNRTlDT1dWWFVFZDVabmhJVFJDb0FSaXNBaWdCTWdZVldKQkpwZ2M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Bryce Harper and Phillies slide past Mets 7-2 in London opener as Ranger Suárez gets 10th victory",
+      "snippet": "Bryce Harper celebrated with a soccer slide after his tying home run, Ranger Suárez became the season's first 10-game winner and the Philadelphia Phillies ...",
+      "publisher": "The Associated Press",
+      "timestamp": "1717884660000",
+      "newsUrl": "https://apnews.com/article/phillies-mets-score-london-0aa63c18d001d9eb2a5b451ee084a0a5",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVdTRnAyWHpCc2RERjZMV3N5VFJDUEF4alhCQ2dLTWdtVklKUzBNQ2VLaFFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVdTRnAyWHpCc2RERjZMV3N5VFJDUEF4alhCQ2dLTWdtVklKUzBNQ2VLaFFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Bad breaks can't stop Scottie Scheffler from adding to Memorial lead",
+      "snippet": "Entering Sunday, Scheffler leads by four shots despite a water ball, out-of-bounds tee shot and closing three-putt on Saturday.",
+      "publisher": "NBC Sports",
+      "timestamp": "1717893123000",
+      "newsUrl": "https://www.nbcsports.com/golf/news/bad-breaks-cant-stop-scottie-scheffler-from-adding-to-memorial-lead",
+      "hasSubnews": false
+    },
+    {
+      "title": "Clutch Two-Out Hitting Sends UVA Back to College World Series",
+      "snippet": "For the second consecutive game, Virginia (46-15) used timely two-out hitting Saturday (May 8) to complete its Super Regional sweep of Kansas State (35-26) ...",
+      "publisher": "Virginia University",
+      "timestamp": "1717887879000",
+      "newsUrl": "https://virginiasports.com/news/2024/06/08/clutch-two-out-hitting-sends-uva-back-to-college-world-series/",
+      "hasSubnews": false
+    },
+    {
+      "title": "CLEMSON SUPER REGIONAL: Gators 10, Clemson 7 — Caglianone's Blast Opens Door to Big Win",
+      "snippet": "WHAT HAPPENED: The visiting Gators overcame an early deficit to beat Clemson in front of a raucous crowd at Kingsmore Stadium, 10-7, on Saturday afternoon ...",
+      "publisher": "Florida Gators",
+      "timestamp": "1717892919000",
+      "newsUrl": "https://floridagators.com/news/2024/6/8/baseball-clemson-super-regional-gators-vs-clemson-kingsmore-stadium-ncaa-tournament.aspx",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxXVTVTWTNSb1NsaEdURGsyVFJDb0FSaXNBaWdCTWdZQk1Jck5sUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxXVTVTWTNSb1NsaEdURGsyVFJDb0FSaXNBaWdCTWdZQk1Jck5sUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Enhanced Box Score: Reds 4, Cubs 3 - June 8, 2024",
+      "snippet": "Another one-run loss for the Cubs, though I didn't see any of it. The kids have performances this weekend, so I was watching them dance and jump and do all ...",
+      "publisher": "Bleacher Nation",
+      "timestamp": "1717889475000",
+      "newsUrl": "https://www.bleachernation.com/cubs/2024/06/08/enhanced-box-score-reds-4-cubs-3-june-8-2024/",
+      "hasSubnews": false
+    },
+    {
+      "title": "French Open 2024: From stress to serenity - how Iga Swiatek won 'surreal' fifth major",
+      "snippet": "French Open winner Iga Swiatek's aura at Roland Garros is becoming so great that she is being dubbed the 'Queen of Clay' - and tipped for a career Grand ...",
+      "publisher": "BBC.com",
+      "timestamp": "1717876943000",
+      "newsUrl": "https://www.bbc.com/sport/tennis/articles/c4nn48816j1o",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVpRbEV6YVhoTGNtZG5YMGRQVFJDZkF4ampCU2dLTWdtSkVwYkZscWxNWmdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVpRbEV6YVhoTGNtZG5YMGRQVFJDZkF4ampCU2dLTWdtSkVwYkZscWxNWmdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Seven-time NBA All-Star Chet Walker dies at age of 84",
+      "snippet": "Hall of Fame forward Chet Walker, a seven-time NBA All-Star known as \"The Jet\" for his speed, has died at the age of 84, the National Basketball Players ...",
+      "publisher": "ESPN",
+      "timestamp": "1717894260000",
+      "newsUrl": "https://www.espn.com/nba/story/_/id/40308232/seven-nba-all-star-chet-walker-dies-age-84",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVSRjlYY0UxNVNEWjJWemsyVFJDb0FSaXNBaWdCTWdhdFJZek9KUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVSRjlYY0UxNVNEWjJWemsyVFJDb0FSaXNBaWdCTWdhdFJZek9KUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Kristaps Porzingis praises Celtics fans for ‘insane’ ‘WWE style’ entrance to Game 1",
+      "snippet": "Kristaps Porzingis was pumped up by a wild reception at TD Garden ahead of Game 1, which he compared to a WWE crowd.",
+      "publisher": "Boston.com",
+      "timestamp": "1717885140000",
+      "newsUrl": "https://www.boston.com/sports/boston-celtics/2024/06/08/kristaps-porzingis-praises-celtics-fans-for-insane-wwe-style-entrance-to-game-1/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXdZWHA1YWxCUlJYcHhhSE5xVFJERUF4aW1CU2dLTWdrQmNJaE92S09DTFFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXdZWHA1YWxCUlJYcHhhSE5xVFJERUF4aW1CU2dLTWdrQmNJaE92S09DTFFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "MLB avoids disaster with Yankees-Dodgers streaming decision",
+      "snippet": "MLB on Friday night was forced to show the Dodgers-Yankees to the nation's two largest TV markets on both YES and L.A.'s cable network, as well as on a ...",
+      "publisher": "New York Post ",
+      "timestamp": "1717882380000",
+      "newsUrl": "https://nypost.com/2024/06/08/sports/mlb-avoids-disaster-with-yankees-dodgers-streaming-decision/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVRNVFJXUzA1UGEwVXdiV1p0VFJERUF4aW5CU2dLTWdrTk1wTFVHQ3FhaGdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVRNVFJXUzA1UGEwVXdiV1p0VFJERUF4aW5CU2dLTWdrTk1wTFVHQ3FhaGdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rick Pitino, Magic Johnson, JR Smith and more chime in on UConn's Dan Hurley and Lakers' coaching job",
+      "snippet": "With Dan Hurley's decision – whether he leaves UConn to be the head coach of the Los Angeles Lakers – expected to come sooner rather than later, ...",
+      "publisher": "Hartford Courant",
+      "timestamp": "1717882229000",
+      "newsUrl": "https://www.courant.com/2024/06/08/uconn-coach-dan-hurley-remains-mum-on-lakers-decision-but-thats-not-stopping-others-from-weighing-in/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBaREJZYkZkSWRWVnVVM013VFJEZUFoaU5CQ2dLTWdhaEZwNExrZ28=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBaREJZYkZkSWRWVnVVM013VFJEZUFoaU5CQ2dLTWdhaEZwNExrZ28"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Matt Corral boosts Birmingham Stallions to berth in UFL Championship",
+      "snippet": "For the second time this year, a team from Michigan had a double-digit lead on the road in a conference championship game and lost.",
+      "publisher": "NBC Sports",
+      "timestamp": "1717894554000",
+      "newsUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-corral-boosts-birmingham-stallions-to-berth-in-ufl-championship",
+      "hasSubnews": false
+    },
+    {
+      "title": "AL East Notes: Soto, Kremer, Tiedemann",
+      "snippet": "Yankees fans received an update regarding the status of superstar outfielder Juan Soto today after he underwent imaging on his forearm yesterday.",
+      "publisher": "MLB Trade Rumors",
+      "timestamp": "1717885857000",
+      "newsUrl": "https://www.mlbtraderumors.com/2024/06/al-east-notes-soto-kremer-tiedemann.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJhMmhKYUVKbGJuQjBRVk4xVFJERUF4aW1CU2dLTWdhcEZaRE9sUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJhMmhKYUVKbGJuQjBRVk4xVFJERUF4aW1CU2dLTWdhcEZaRE9sUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Negotiations between PGA TOUR Enterprises, PIF continue to progress",
+      "snippet": "Negotiations between PGA TOUR Enterprises and the PIF continue to progress after an in-person meeting Friday between Enterprises' Transactions Subcommittee ...",
+      "publisher": "PGA TOUR",
+      "timestamp": "1717857394000",
+      "newsUrl": "https://www.pgatour.com/article/news/latest/2024/06/08/pga-tour-enterprises-transaction-subcommittee-releases-statement-on-negotiations-with-pif",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1TWE52Y0hGRmQyOHlORWhqVFJDb0FSaXNBaWdCTWdZbGxZek90UVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU1TWE52Y0hGRmQyOHlORWhqVFJDb0FSaXNBaWdCTWdZbGxZek90UVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Pack bats come to play in 18-1 drubbing of Georgia in Game 1 of Athens Super Regional",
+      "snippet": "Every NC State batter that stepped to the plate on Saturday in Athens recorded a hit with seven of those Wolfpack hitters recording multiple hit efforts.",
+      "publisher": "Backing The Pack",
+      "timestamp": "1717878183000",
+      "newsUrl": "https://www.backingthepack.com/nc-state-baseball/2024/6/8/24174427/nc-state-wolfpack-bats-come-to-play-18-1-drubbing-georgia-bulldogs-2024-game-1-athens-super-regional",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDNSVEJoV21oaVVqTjBjMTlKVFJERUF4aW1CU2dLTWdrUk1wRDBIQ21paHdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDNSVEJoV21oaVVqTjBjMTlKVFJERUF4aW1CU2dLTWdrUk1wRDBIQ21paHdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Home Plate Angle of Dodgers' Yoshinobu Yamamoto Pitching vs. Yankees Was Frightening",
+      "snippet": "A home plate angle of Los Angeles Dodgers starter Yoshinobu Yamamoto pitching vs. the New York Yankees was frightening, especially during a pitch that broke ...",
+      "publisher": "Sports Illustrated",
+      "timestamp": "1717865537000",
+      "newsUrl": "https://www.si.com/mlb/home-plate-angle-of-dodgers-yoshinobu-yamamoto-pitching-vs-yankees-was-frightening",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtjbFJTUVhCWk56UlZTMEo2VFJDVkF4alFCU2dLTWdZWkJwQktqZ28=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUtjbFJTUVhCWk56UlZTMEo2VFJDVkF4alFCU2dLTWdZWkJwQktqZ28"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Former LSU player Josh Maravich, son of Pete, dead at age 42",
+      "snippet": "Former LSU basketball player Josh Maravich, son of late Hall of Fame basketball player Pete Maravich, has died at age 42, the university announced Saturday ...",
+      "publisher": "ESPN",
+      "timestamp": "1717896120000",
+      "newsUrl": "https://www.espn.com/mens-college-basketball/story/_/id/40308337/former-lsu-player-josh-maravich-son-pete-dead-age-42",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXVlV3cyTUdSQ1lYZHdUREpOVFJDb0FSaXNBaWdCTWdrRklKYVhHS3F4cUFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXVlV3cyTUdSQ1lYZHdUREpOVFJDb0FSaXNBaWdCTWdrRklKYVhHS3F4cUFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rewinding Oregon State’s 10-0 loss to Kentucky in Lexington Super Regional Game 1",
+      "snippet": "Kentucky blasted Oregon State in every way possible, holding the Beavers to a season-low one hit in a 10-0 win Saturday night in Game 1 of the Lexington ...",
+      "publisher": "OregonLive",
+      "timestamp": "1717870860000",
+      "newsUrl": "https://www.oregonlive.com/beavers/2024/06/oregon-state-baseball-vs-kentucky-wildcats-live-updates-preview-how-to-watch-lexington-super-regional.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXRkRXR6V1hkSmIyaGpNbmRXVFJERUF4aW1CU2dLTWdrRlFJcFlMS2g1aUFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXRkRXR6V1hkSmIyaGpNbmRXVFJERUF4aW1CU2dLTWdrRlFJcFlMS2g1aUFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Pop and power: Travis Kelce wins home run hitting contest as girlfriend Taylor Swift tours in Europe",
+      "snippet": "Travis Kelce's power extends beyond the football field or dating one of the world's most famous women.",
+      "publisher": "The Associated Press",
+      "timestamp": "1717881660000",
+      "newsUrl": "https://apnews.com/article/travis-kelce-taylor-swift-93304a720fbbbb207158a5e9cac420ff",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZZVTFHTlRNNFpIWkJPRXRXVFJDUEF4alhCQ2dLTWdhQklaWnhrUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZZVTFHTlRNNFpIWkJPRXRXVFJDUEF4alhCQ2dLTWdhQklaWnhrUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Harrison Butker played vital role in saving BJ Thompson during seizure and cardiac arrest, Chiefs staffer says",
+      "snippet": "When BJ Thompson had a seizure and went into cardiac arrest during a team meeting, Harrison Butker alerted medical staff, a Chiefs employee says.",
+      "publisher": "Fox News",
+      "timestamp": "1717799880000",
+      "newsUrl": "https://www.foxnews.com/sports/harrison-butker-played-vital-role-saving-bj-thompson-during-seizure-cardiac-arrest-chiefs-staffer-says",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRObXcwVm5kcFlVTktNa010VFJDZkF4ampCU2dLTWdhaFpvUUxxZ1k=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRObXcwVm5kcFlVTktNa010VFJDZkF4ampCU2dLTWdhaFpvUUxxZ1k"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "FSU's Elite Camp is set to be loaded with elite talent yet again",
+      "snippet": "The Seminoles are hosting their most talent-rich prospect camp of the summer tomorrow. Here's the preview:",
+      "publisher": "247Sports",
+      "timestamp": "1717887582000",
+      "newsUrl": "https://247sports.com/college/florida-state/longformarticle/fsu-football-recruiting-fsus-elite-camp-is-set-to-be-loaded-with-talent-yet-again-232668611/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNDFkMlZ0U2paU1gxVmpOakZyVFJDZkF4amlCU2dLTWd1SkFJd3BuV2E1cFlwTnNR=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNDFkMlZ0U2paU1gxVmpOakZyVFJDZkF4amlCU2dLTWd1SkFJd3BuV2E1cFlwTnNR"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Luke Stevenson Reconciles Early Mistake, Leads UNC Comeback",
+      "snippet": "The freshman catcher tied Friday's game with a homer in the top of the ninth.",
+      "publisher": "247Sports",
+      "timestamp": "1717861251000",
+      "newsUrl": "https://247sports.com/college/north-carolina/article/luke-stevenson-reconciles-early-mistake-leads-unc-comeback-ncaa-tournament-super-regional-232647489/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZRMDlGYmpod1NGaHlhWGhSVFJDT0F4aURCaWdLTWdhZEJJQ09qUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZRMDlGYmpod1NGaHlhWGhSVFJDT0F4aURCaWdLTWdhZEJJQ09qUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Jon Rahm Withdraws From LIV Golf Houston Event",
+      "snippet": "Jon Rahm, who has struggled in the major championships so far this year, withdrew from the LIV Golf Houston event on Saturday afternoon due to a foot injury ...",
+      "publisher": "Sports Illustrated",
+      "timestamp": "1717875030000",
+      "newsUrl": "https://www.si.com/golf/jon-rahm-withdraws-from-liv-golf-houston-event",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBUMlp3WDJGNExUTnJjRFpNVFJDVkF4alFCU2dLTWdhZE5wSXFuZ2c=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBUMlp3WDJGNExUTnJjRFpNVFJDVkF4alFCU2dLTWdhZE5wSXFuZ2c"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Hurston Waldrep called up by the Braves",
+      "snippet": "WASHINGTON -- The Braves knew they had something special after they selected Hurston Waldrep with the 24th overall selection in last summer's MLB Draft.",
+      "publisher": "MLB.com",
+      "timestamp": "1717877510000",
+      "newsUrl": "https://www.mlb.com/news/hurston-waldrep-called-up-by-the-braves",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJSV1JsTlRJNVRrVkRURWw2VFJDZkF4ampCU2dLTWdZQk5ZNkhtZ2s=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJSV1JsTlRJNVRrVkRURWw2VFJDZkF4ampCU2dLTWdZQk5ZNkhtZ2s"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Florida men, Arkansas women win 2024 DI outdoor track and field championships",
+      "snippet": "The Razorbacks finished the team title race with 63 points for the national championship. It's the team's first national title since 2019, and the first ...",
+      "publisher": "NCAA.com",
+      "timestamp": "1717896086000",
+      "newsUrl": "https://www.ncaa.com/live-updates/trackfield-outdoor-women/d1/florida-men-arkansas-women-win-2024-di-outdoor-track-and-field-championships",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlNa3N3VG5WdmJtUk9OM2R5VFJDb0FSaXNBaWdCTWdZQkVKQVNFQW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlNa3N3VG5WdmJtUk9OM2R5VFJDb0FSaXNBaWdCTWdZQkVKQVNFQW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "2024 NBA Finals: Celtics coach Joe Mazzulla's unwillingness to discuss race a complicated issue",
+      "snippet": "For the first time since 1975, the NBA Finals has a Black head coach on each sideline, with Dallas' Jason Kidd facing off against Boston's Joe Mazzulla, ...",
+      "publisher": "Yahoo Sports",
+      "timestamp": "1717891800000",
+      "newsUrl": "https://sports.yahoo.com/2024-nba-finals-celtics-coach-joe-mazzullas-unwillingness-to-discuss-race-a-complicated-issue-001049409.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZTMEp6VTIxNVZYTXdNRk5OVFJDckF4aUFCU2dLTWdZMU01WlJuUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZTMEp6VTIxNVZYTXdNRk5OVFJDckF4aUFCU2dLTWdZMU01WlJuUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Caitlin Clark enjoys record-equaling night as Indiana Fever beat Washington Mystics in Commissioner’s Cup",
+      "snippet": "Caitlin Clark became the second rookie in WNBA history to score seven three-pointers in a game and equaled a career-high 30 points in the league on a night ...",
+      "publisher": "CNN",
+      "timestamp": "1717850820000",
+      "newsUrl": "https://www.cnn.com/2024/06/08/sport/caitlin-clark-fever-mystics-spt-intl/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhRM294YkVKWlVsWnhTSE5EVFJDZkF4amlCU2dLTWdZaEJJcU5qUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhRM294YkVKWlVsWnhTSE5EVFJDZkF4amlCU2dLTWdZaEJJcU5qUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Chiefs' Rice vows to 'mature' after off-field issues",
+      "snippet": "Chiefs wide receiver Rashee Rice said he is trying to stay positive and focus on the future amid a tumultuous offseason.",
+      "publisher": "ESPN",
+      "timestamp": "1717896540000",
+      "newsUrl": "https://www.espn.com/nfl/story/_/id/40308439/chiefs-rashee-rice-vows-mature-field-issues",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURVMjFDTUZsWGEzbEhYMFZOVFJDb0FSaXNBaWdCTWdhcE5JYk9JUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURVMjFDTUZsWGEzbEhYMFZOVFJDb0FSaXNBaWdCTWdhcE5JYk9JUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Why the Seattle Seahawks won’t trade star receiver DK Metcalf",
+      "snippet": "The end of the first offseason of the Mike Macdonald era for the Seattle Seahawks is quickly approaching, with just mandatory minicamp remaining ahead of a ...",
+      "publisher": "Field Gulls",
+      "timestamp": "1717874100000",
+      "newsUrl": "https://www.fieldgulls.com/2024/6/8/24173188/no-the-seattle-seahawks-arent-trading-dk-metcalf-wr-market-aj-brown",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZXa1F5WTIxSmRtbFZhbWhvVFJDcUJCaXFCQ2dLTWdhZEE0cXRFUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZXa1F5WTIxSmRtbFZhbWhvVFJDcUJCaXFCQ2dLTWdhZEE0cXRFUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Saturday schedule at Sonoma Raceway for NASCAR Cup, Xfinity Series",
+      "snippet": "The Xfinity Series races Saturday on the Sonoma road course.",
+      "publisher": "NBC Sports",
+      "timestamp": "1717844510000",
+      "newsUrl": "https://www.nbcsports.com/nascar/news/saturday-schedule-at-sonoma-raceway-for-nascar-cup-xfinity-series",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVOMlY0VFVZM2VrdGxaVWxyVFJDM0FSaVRBaWdCTWdhQlE0QlFtUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVOMlY0VFVZM2VrdGxaVWxyVFJDM0FSaVRBaWdCTWdhQlE0QlFtUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Bill Maher calls out Caitlin Clark's teammates not rushing to defend her: 'Women are catty'",
+      "snippet": "HBO's Bill Maher took swipes against the teammates of Indiana Fever superstar Caitlin Clark for not rushing to help her following the controversial foul ...",
+      "publisher": "Fox News",
+      "timestamp": "1717860300000",
+      "newsUrl": "https://www.foxnews.com/media/maher-calls-out-caitlin-clarks-teammates-women-catty",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWZPVGxxVGpkVk0yaDJUM1ZNVFJDZkF4ampCU2dLTWdtUlVaTFZvT2lweXdF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWZPVGxxVGpkVk0yaDJUM1ZNVFJDZkF4ampCU2dLTWdtUlVaTFZvT2lweXdF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "NHL, union address 4 Nations, salary cap, LTIR at Cup Final",
+      "snippet": "SUNRISE, Fla. -- The 4 Nations Face-Off tournament winner will be crowned at TD Garden in Boston next February. The NHL and NHL Players' Association ...",
+      "publisher": "ESPN",
+      "timestamp": "1717895580000",
+      "newsUrl": "https://www.espn.com/nhl/story/_/id/40308368/nhl-union-address-4-nations-salary-cap-ltir-cup-final",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhaSEptVldKVFZXOUxOMVJ6VFJDb0FSaXNBaWdCTWdZWkJKNXFEUXM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUhaSEptVldKVFZXOUxOMVJ6VFJDb0FSaXNBaWdCTWdZWkJKNXFEUXM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "PWHL confirms Natalie Darwitz is out as Minnesota GM: 'There wasn't a path forward'",
+      "snippet": "The PWHL has made Natalie Darwitz's exit as Minnesota's GM official.",
+      "publisher": "The New York Times",
+      "timestamp": "1717853181000",
+      "newsUrl": "https://www.nytimes.com/athletic/5550722/2024/06/08/natalie-darwitz-pwhl-minnesota-departure/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9SVzVvVEVwMlZVUjZhRUZwVFJDcUJCaXFCQ2dLTWdZSkY1Q0hFZ28=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9SVzVvVEVwMlZVUjZhRUZwVFJDcUJCaXFCQ2dLTWdZSkY1Q0hFZ28"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "F1 News: Disaster For Max Verstappen As Practice Ends In Flames - Issue Revealed",
+      "snippet": "Max Verstappen's practice session in Canada came to an abrupt end when his Red Bull car, the RB20, began to emit signs of serious trouble.",
+      "publisher": "Sports Illustrated",
+      "timestamp": "1717797083000",
+      "newsUrl": "https://www.si.com/fannation/racing/f1briefings/news/f1-news-disaster-for-max-verstappen-as-practice-ends-in-flames-issue-revealed-01hztajcb6bt",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNW9UR3BTWTJSa2IxaFNlbVYyVFJDVkF4alFCU2dLTWdzQk1KQ0NMQ2N0cHlxb1pB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNW9UR3BTWTJSa2IxaFNlbVYyVFJDVkF4alFCU2dLTWdzQk1KQ0NMQ2N0cHlxb1pB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Recapping the biggest storylines from Detroit Lions minicamp",
+      "snippet": "We break down the biggest things we learned from Detroit Lions minicamp.",
+      "publisher": "Pride Of Detroit",
+      "timestamp": "1717856404000",
+      "newsUrl": "https://www.prideofdetroit.com/2024/6/8/24174214/recapping-biggest-storylines-detroit-lions-minicamp",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJkV3hqV0VSMGNGSnllV1ZaVFJDSEF4aVBCaWdLTWdZSk00ak5IUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJkV3hqV0VSMGNGSnllV1ZaVFJDSEF4aVBCaWdLTWdZSk00ak5IUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "2024 NCAA baseball bracket: Men's College World Series scores, schedule",
+      "snippet": "The 2024 DI baseball championship continues through the Men's College World Series. Here is the full tournament schedule, bracket and scores.",
+      "publisher": "NCAA.com",
+      "timestamp": "1717904782000",
+      "newsUrl": "https://www.ncaa.com/news/baseball/article/2024-06-08/2024-ncaa-baseball-bracket-mens-college-world-series-scores-schedule",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXljMGRpVlhWS01EaHJSV3R3VFJDZkF4ampCU2dLTWdNSlpBWQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXljMGRpVlhWS01EaHJSV3R3VFJDZkF4ampCU2dLTWdNSlpBWQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "'No panic' for Mavericks ahead of G2 vs. Celtics",
+      "snippet": "Despite a blowout loss in Game 1 of the NBA Finals, Mavericks coach Jason Kidd says there's \"no panic\" for his club ahead of Game 2 Sunday against the ...",
+      "publisher": "ESPN",
+      "timestamp": "1717872480000",
+      "newsUrl": "https://www.espn.com/nba/story/_/id/40306162/no-panic-mavericks-ahead-g2-nba-finals-vs-celtics",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVOMjB6UlRrdE1IaEJXWGxIVFJDb0FSaXNBaWdCTWdhbFZaRHNwUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVOMjB6UlRrdE1IaEJXWGxIVFJDb0FSaXNBaWdCTWdhbFZaRHNwUWM"
+      },
+      "hasSubnews": false
+    }
+  ]
+}

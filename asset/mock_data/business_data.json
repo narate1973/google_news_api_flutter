@@ -1,0 +1,905 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "Roaring Kitty's GME shares hit $1B, BTC open interest soars, and other news: Hodler's Digest, June 2-8",
+            "snippet": "GameStop trader Roaring Kitty sees his GME stake rise to $1 billion, Bitcoin open interest spikes and new U.S. laws target digital assets.",
+            "publisher": "Cointelegraph",
+            "timestamp": "1717879008000",
+            "newsUrl": "https://cointelegraph.com/magazine/roaring-kittys-shares-1b-gme-rally-btc-open-interest-soars-hodlers-digest-june-2-8/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdNams1Wm1KS01HNVZTa1ZLVFJDZkF4ampCU2dLTWdhQk1ZakNTZ1E=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdNams1Wm1KS01HNVZTa1ZLVFJDZkF4ampCU2dLTWdhQk1ZakNTZ1E"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Wall Street is putting its foot down as ‘Roaring Kitty’ strikes again",
+                    "snippet": "Keith Gill, the “Roaring Kitty” meme stock investor, revealed in a Reddit post on Sunday that he had bought nearly $116 million worth of GameStop stock.",
+                    "publisher": "CNN",
+                    "timestamp": "1717775460000",
+                    "newsUrl": "https://www.cnn.com/2024/06/07/investing/premarket-stocks-trading-roaring-kitty-keith-gill/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTBjVUp1Ym1wM05raFVSSGhPVFJDZkF4amlCU2dLTWdNRkVnUQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTBjVUp1Ym1wM05raFVSSGhPVFJDZkF4amlCU2dLTWdNRkVnUQ"
+                    }
+                },
+                {
+                    "title": "GameStop Tumbles 40% as Trading Icon Roaring Kitty Returns to Livestream",
+                    "snippet": "Retail trading legend Keith Gill, otherwise known as Roaring Kitty or DeepF*ckingValue aliases on social media, returned to his livesteam for the first time ...",
+                    "publisher": "CoinDesk",
+                    "timestamp": "1717780500000",
+                    "newsUrl": "https://www.coindesk.com/markets/2024/06/07/gamestop-tumbles-40-as-trading-icon-roaring-kitty-returns-to-livestream/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpZMWczWms5c1pYcDFTRGhDVFJDUUF4ai1CU2dLTWdhZEpvWUxtZ2s=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUpZMWczWms5c1pYcDFTRGhDVFJDUUF4ai1CU2dLTWdhZEpvWUxtZ2s"
+                    }
+                },
+                {
+                    "title": "Risk Appetites Roaring Anew in Wall Street's Unflappable Markets",
+                    "snippet": "To get a sense of the speculative euphoria in risky assets right now, consider Friday's trading action. A slew of investing pros was transfixed by a ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1717792641000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-07/risk-appetites-roaring-anew-in-wall-street-s-unflappable-markets",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhUa3RETUhkSlNYVmpVSE41VFJERUF4aW1CU2dLTWdZNUFvQXlxUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhUa3RETUhkSlNYVmpVSE41VFJERUF4aW1CU2dLTWdZNUFvQXlxUWM"
+                    }
+                },
+                {
+                    "title": "Roaring Kitty was poised to become a freshly minted billionaire until GameStop threw a monkey wrench in the plan",
+                    "snippet": "Keith Gill, a.k.a. investor-influencer Roaring Kitty, planned a spectacular livestream to celebrate becoming a freshly minted GameStop billionaire in real ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1717766908000",
+                    "newsUrl": "https://finance.yahoo.com/news/roaring-kitty-poised-become-freshly-132828959.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNVJaVWhUYzNBdGRWOVlOM2RuVFJDckF4aUFCU2dLTWc0QkFJQkFES3RMTHdpc29nSWJPZw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iNkNnNVJaVWhUYzNBdGRWOVlOM2RuVFJDckF4aUFCU2dLTWc0QkFJQkFES3RMTHdpc29nSWJPZw"
+                    }
+                },
+                {
+                    "title": "Keith Gill's Riotous Return to YouTube Had Beer, Charts and a GameStop Pep Talk",
+                    "snippet": "Keith Gill's livestream Friday had many of the same ingredients as the 2021 videos that made him a legend to scores of everyday investors eager to strike it ...",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1717799040000",
+                    "newsUrl": "https://www.wsj.com/finance/stocks/keith-gills-riotous-return-to-youtube-had-beer-charts-and-a-gamestop-pep-talk-46a8958a",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1RV0ZOWXpScGFuVk9URUpDVFJDZkF4ampCU2dLTWdZQnhZYkRSZ1E=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1RV0ZOWXpScGFuVk9URUpDVFJDZkF4ampCU2dLTWdZQnhZYkRSZ1E"
+                    }
+                },
+                {
+                    "title": "GameStop tumbles 40% as 'Roaring Kitty' trader says little new about retailer on livestream",
+                    "snippet": "Keith Gill, better known as \"Roaring Kitty,\" is slated to host his first livestream since the meme stock craze that took place three years ago.",
+                    "publisher": "CNBC",
+                    "timestamp": "1717781850000",
+                    "newsUrl": "https://www.cnbc.com/2024/06/07/following-gamestop-action-during-roaring-kitty-livestream.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBXVGx3Wm5aWk1tUmtiMHRJVFJDZkF4ampCU2dLTWdZWlo1QXFLZ2M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBXVGx3Wm5aWk1tUmtiMHRJVFJDZkF4ampCU2dLTWdZWlo1QXFLZ2M"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Norwegian wealth fund to vote against Elon Musk's Tesla pay package",
+            "snippet": "Norway's sovereign wealth fund managed by Norges Bank Investment Management said Saturday it will vote against Elon Musk's hefty CEO compensation package ...",
+            "publisher": "ABC News",
+            "timestamp": "1717859840000",
+            "newsUrl": "https://abcnews.go.com/US/wireStory/norwegian-wealth-fund-vote-elon-musks-tesla-pay-110954403",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5TMVJEU1ZSRmFrVmFhR3BRVFJDb0FSaXNBaWdCTWdhbGRZYk1OUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5TMVJEU1ZSRmFrVmFhR3BRVFJDb0FSaXNBaWdCTWdhbGRZYk1OUVU"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Tesla chair warns Musk could take work 'other places'",
+                    "snippet": "Elon Musk has no shortage of ideas and places he could build them, Tesla board chair Robyn Denholm told shareholders.",
+                    "publisher": "Business Insider",
+                    "timestamp": "1717774620000",
+                    "newsUrl": "https://www.businessinsider.com/tesla-chair-hints-elon-musk-could-take-work-other-places-2024-6",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUliRFIyTVc4MVdUWnFaRlUxVFJEZ0F4aUFCU2dLTWdhZFpvNEtLZ2M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUliRFIyTVc4MVdUWnFaRlUxVFJEZ0F4aUFCU2dLTWdhZFpvNEtLZ2M"
+                    }
+                },
+                {
+                    "title": "Norway wealth fund to vote against Musk's $56 billion Tesla pay package",
+                    "snippet": "Norway's $1.7 trillion sovereign wealth fund said on Saturday it will vote against ratifying Tesla CEO Elon Musk's $56 billion pay package, which is up for ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1717840181000",
+                    "newsUrl": "https://www.cnbc.com/2024/06/08/norway-wealth-fund-to-vote-against-musks-56-billion-tesla-pay-package-.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNhMWhyVXpOV2NqQnJMVUZMVFJDZkF4ampCU2dLTWdhQmhZck50UVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNhMWhyVXpOV2NqQnJMVUZMVFJDZkF4ampCU2dLTWdhQmhZck50UVU"
+                    }
+                },
+                {
+                    "title": "Tesla objects to $5.6 billion payout for lawyers who voided Musk's pay",
+                    "snippet": "WILMINGTON, Delaware, June 7 (Reuters) - The legal team that voided Elon Musk's record Tesla pay package deserves a tiny fraction of the $5.6 billion legal ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1717779600000",
+                    "newsUrl": "https://www.reuters.com/business/autos-transportation/tesla-objects-56-billion-payout-lawyers-who-voided-musks-pay-2024-06-07/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhla1JZY1V4SkxWZ3dOVkUyVFJERUF4aW1CU2dLTWdZQko2SkVFZ3M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhla1JZY1V4SkxWZ3dOVkUyVFJERUF4aW1CU2dLTWdZQko2SkVFZ3M"
+                    }
+                },
+                {
+                    "title": "Tesla Shareholders Will Vote on Elon Musk's Big Payday. What Happens Then?",
+                    "snippet": "The company has lobbied to reinstate the package awarded to Musk six years ago — now worth about $56 billion — after a Delaware judge voided it.",
+                    "publisher": "The New York Times",
+                    "timestamp": "1717848002000",
+                    "newsUrl": "https://www.nytimes.com/2024/06/08/business/dealbook/tesla-elon-musk-pay.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDVaamN5ZDNGVGVERnhhSGRLVFJDUUF4allCQ2dLTWdrRlJaU3RuU25KN2dF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDVaamN5ZDNGVGVERnhhSGRLVFJDUUF4allCQ2dLTWdrRlJaU3RuU25KN2dF"
+                    }
+                },
+                {
+                    "title": "Tesla shareholders' vote on Elon Musk's record $56 billion pay deal could be his 'last stand' as CEO, experts warn",
+                    "snippet": "The vote to ratify Elon Musk's record $56 billion pay deal is likely just a prologue for even more drama to come.",
+                    "publisher": "Fortune",
+                    "timestamp": "1717772400000",
+                    "newsUrl": "https://fortune.com/2024/06/07/elon-musk-tesla-pay-deal-shareholder-meeting-vote/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVjbkY0U0V0SFQxOU1PWHBzVFJERUF4aW1CU2dLTWdhWlo0eEpLZ2M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVjbkY0U0V0SFQxOU1PWHBzVFJERUF4aW1CU2dLTWdhWlo0eEpLZ2M"
+                    }
+                },
+                {
+                    "title": "Musk's $56 Billion Tesla Pay Deal Opposed by Norway Wealth Fund",
+                    "snippet": "Norway's $1.7 trillion sovereign wealth fund said it would vote against the $56 billion pay package for Tesla Inc. Chief Executive Officer Elon Musk, ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1717835280000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-08/musk-s-56-billion-tesla-pay-deal-opposed-by-norway-wealth-fund",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZYMFpQZFZaMk1GQTNRVFJFVFJERUF4aW1CU2dLTWdhbFJZVHNJUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZYMFpQZFZaMk1GQTNRVFJFVFJERUF4aW1CU2dLTWdhbFJZVHNJUWs"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Why the Dow brushed off surging Treasury yields after a hot May jobs report",
+            "snippet": "Treasury yields are jumping, but stock-market investors appear unfazed by a hot May jobs report.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1717864080000",
+            "newsUrl": "https://finance.yahoo.com/news/why-dow-brushing-off-surging-174600005.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9OV2RsWDIxbFRYRjZPVlV4VFJDckF4aUFCU2dLTWdZQllwSVFNUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9OV2RsWDIxbFRYRjZPVlV4VFJDckF4aUFCU2dLTWdZQllwSVFNUVk"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Here’s where the jobs are for May 2024 — in one chart",
+                    "snippet": "The U.S. economy added 272,000 jobs for the month, coming out significantly higher than the Dow Jones consensus estimate of 190,000.",
+                    "publisher": "CNBC",
+                    "timestamp": "1717768862000",
+                    "newsUrl": "https://www.cnbc.com/2024/06/07/heres-where-the-jobs-are-for-may-2024-in-one-chart.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUpUVlZEVDBsTWNqRllTakJhVFJDZkF4ampCU2dLTWdtVk01QW9IdWxyQ3dJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUpUVlZEVDBsTWNqRllTakJhVFJDZkF4ampCU2dLTWdtVk01QW9IdWxyQ3dJ"
+                    }
+                },
+                {
+                    "title": "Economic Data Paint a Picture of Two Americas",
+                    "snippet": "The U.S. economy keeps throwing up surprises, making it difficult to get a read on what's happening for everyone from ordinary investors to the Federal ...",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1717839000000",
+                    "newsUrl": "https://www.wsj.com/economy/consumers/economic-data-paint-a-picture-of-two-americas-fb10e908",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRSMGN3YVdsdExUWnlObmsyVFJERUF4aW5CU2dLTWdhZE00Yk9UUU0=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRSMGN3YVdsdExUWnlObmsyVFJERUF4aW5CU2dLTWdhZE00Yk9UUU0"
+                    }
+                },
+                {
+                    "title": "LARRY KUDLOW: 'Look under the hood' of Biden's May jobs report and you'll see the problem",
+                    "snippet": "FOX Business host Larry Kudlow shares details on the May jobs report revealing a shrinking labor force and slightly falling employment-to-population ratio ...",
+                    "publisher": "Fox Business",
+                    "timestamp": "1717802460000",
+                    "newsUrl": "https://www.foxbusiness.com/media/larry-kudlow-look-under-hood-bidens-may-jobs-report-youll-see-problem",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJOQzFGZVVWNk1XVlFaWGxTVFJDZkF4ampCU2dLTWdZdFpZYXZLUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUJOQzFGZVVWNk1XVlFaWGxTVFJDZkF4ampCU2dLTWdZdFpZYXZLUWM"
+                    }
+                },
+                {
+                    "title": "Frost lauds White House for positive jobs report: ‘The president is really landing this’",
+                    "snippet": "Rep. Maxwell Frost (D-Fla.) praised the White House for a positive jobs report released Friday, saying, “The president is really landing this.",
+                    "publisher": "The Hill",
+                    "timestamp": "1717857060000",
+                    "newsUrl": "https://thehill.com/business/4711640-maxwell-frost-joe-biden-white-house-may-jobs-report/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVUVE5HZDBJelVVZE5ZazVIVFJDZkF4ampCU2dLTWdhZFZaRHNLUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUVUVE5HZDBJelVVZE5ZazVIVFJDZkF4ampCU2dLTWdhZFZaRHNLUWM"
+                    }
+                },
+                {
+                    "title": "Next interest-rate cut won't happen in July after blowout jobs report",
+                    "snippet": "The latest jobs report has all but confirmed the Federal Reserve won't cut interest rates in July. While the highest-probability scenario coming into the ...",
+                    "publisher": "Business Insider",
+                    "timestamp": "1717772160000",
+                    "newsUrl": "https://www.businessinsider.com/next-interest-rate-cut-jobs-report-july-september-forecast-outlook-2024-6",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5WVTFJT0hOSVlUTlRRWEpUVFJEZ0F4aUFCU2dLTWdhNVE0WlJJUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5WVTFJT0hOSVlUTlRRWEpUVFJEZ0F4aUFCU2dLTWdhNVE0WlJJUWs"
+                    }
+                },
+                {
+                    "title": "US Jobs Data to Reignite Fed Debate Over Rate Policy Impact on Economy",
+                    "snippet": "Friday's eye-popping jobs number is likely to energize a debate already dividing Federal Reserve officials over whether their policy setting is slowing the ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1717780130000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-07/jobs-surge-to-reignite-fed-debate-over-how-restrictive-rates-are",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJZbGh0TTNsb2FITktWRU51VFJDb0FSaXNBaWdCTWdZcFJKYXVJUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJZbGh0TTNsb2FITktWRU51VFJDb0FSaXNBaWdCTWdZcFJKYXVJUWs"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Starbucks: Is trouble brewing at the coffee giant?",
+            "snippet": "The coffee giant is suffering as customers \"lose it\" over price hikes and other controversies.",
+            "publisher": "BBC.com",
+            "timestamp": "1717817820000",
+            "newsUrl": "https://www.bbc.com/news/articles/c5115lgd592o",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZXWFpRVjNndFpsUlBiRkZ3VFJDZkF4ampCU2dLTWdhMVZJcVFxUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZXWFpRVjNndFpsUlBiRkZ3VFJDZkF4ampCU2dLTWdhMVZJcVFxUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Virgin Galactic conducts final VSS Unity commercial suborbital spaceflight",
+            "snippet": "Virgin Galactic's VSS Unity spaceplane conducted its final commercial suborbital mission June 8, carrying a Turkish researcher and three private astronauts.",
+            "publisher": "SpaceNews",
+            "timestamp": "1717866101000",
+            "newsUrl": "https://spacenews.com/virgin-galactic-conducts-final-vss-unity-commercial-suborbital-spaceflight/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZka05SVTFKNWJqUldSaTFVVFJDMEF4aV9CU2dLTWdhWkFJbE4wUU0=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZka05SVTFKNWJqUldSaTFVVFJDMEF4aV9CU2dLTWdhWkFJbE4wUU0"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Virgin Galactic launches VSS Unity space plane on final suborbital spaceflight with crew of 6 (photos)",
+                    "snippet": "Virgin Galactic launched its seventh commercial spaceflight mission on June 8 during the final flight of its VSS Unity suborbital spaceplane.",
+                    "publisher": "Space.com",
+                    "timestamp": "1717881574000",
+                    "newsUrl": "https://www.space.com/virgin-galactic-07-final-vss-unity-commercial-spaceflight",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZZalJUTWxGS2IxVXpiVkJrVFJDekFSakFBaWdLTWdZRmNJZ0Z4Z1E=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZZalJUTWxGS2IxVXpiVkJrVFJDekFSakFBaWdLTWdZRmNJZ0Z4Z1E"
+                    }
+                },
+                {
+                    "title": "Virgin Galactic Completes 12th Successful Spaceflight",
+                    "snippet": "ORANGE COUNTY, Calif. – (June XX, 2024) – Virgin Galactic Holdings, Inc. (NYSE: SPCE) (“Virgin Galactic” or the “Company”) today announced the completion of ...",
+                    "publisher": "Virgin Galactic",
+                    "timestamp": "1717862937000",
+                    "newsUrl": "https://www.virgingalactic.com/news/virgin-galactic-completes-12th-successful-spaceflight",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUphelp1UjJ0VlNsbDBNbXBuVFJDb0FSaXNBaWdCTWdrWk1JWU9RU1ExQ2dJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUphelp1UjJ0VlNsbDBNbXBuVFJDb0FSaXNBaWdCTWdrWk1JWU9RU1ExQ2dJ"
+                    }
+                },
+                {
+                    "title": "Virgin Galactic launches VSS Unity to edge of space before retiring vessel",
+                    "snippet": "Virgin Galactic's seventh commercial research mission took off out of New Mexico on Saturday, its last before the company retires its VSS Unity spaceplane.",
+                    "publisher": "New York Post ",
+                    "timestamp": "1717875960000",
+                    "newsUrl": "https://nypost.com/2024/06/08/us-news/virgin-galactic-launches-astronauts-to-edge-of-space-in-vss-unitys-final-mission/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTVkMjF4U3pjdFFUVk1VVGRHVFJERUF4aW5CU2dLTWdtQmNZalZ6S09hS2dJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTVkMjF4U3pjdFFUVk1VVGRHVFJERUF4aW5CU2dLTWdtQmNZalZ6S09hS2dJ"
+                    }
+                },
+                {
+                    "title": "3 private citizens launched to space and back on Virgin Galactic’s Unity spacecraft",
+                    "snippet": "Three private citizens launched into space and landed safely back on Virgin Galactic's VSS Unity spacecraft, completing the company's second spaceflight of ...",
+                    "publisher": "The Hill",
+                    "timestamp": "1717882740000",
+                    "newsUrl": "https://thehill.com/homenews/space/4712024-3-private-citizens-space-virgin-galactics-unity-spacecraft/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURiV1JmZUZwcGVISnZXa05zVFJDaEF4amZCU2dLTWdhaFZJck5yUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURiV1JmZUZwcGVISnZXa05zVFJDaEF4amZCU2dLTWdhaFZJck5yUVU"
+                    }
+                },
+                {
+                    "title": "Virgin Galactic spaceplane takes tourists on flight",
+                    "snippet": "(Reuters) - Virgin Galactic flew four tourists to the edge of space and back aboard its spaceplane, marking the second flight this year, the Richard ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1717874151000",
+                    "newsUrl": "https://finance.yahoo.com/news/virgin-galactic-spaceplane-takes-tourists-172215142.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWphMDE1VTJocFoxUkpWVlpNVFJERUF4aW5CU2dLTWdZRk1KcG1sZ28=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWphMDE1VTJocFoxUkpWVlpNVFJERUF4aW5CU2dLTWdZRk1KcG1sZ28"
+                    }
+                },
+                {
+                    "title": "Spaceport America hosts seventh Virgin Galactic flight, boosts university opportunities",
+                    "snippet": "Spaceport America will host the launching of Virgin Galactic's seventh commercial spaceflight Saturday.",
+                    "publisher": "KFOX El Paso",
+                    "timestamp": "1717766416000",
+                    "newsUrl": "https://kfoxtv.com/news/local/spaceport-america-hosts-seventh-virgin-galactic-flight-boosts-university-opportunities-commercial-spaceflight-astronauts-funding-administration",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdjWGt6TTFsRk5ta3llWEZLVFJDZkF4amlCU2dLTWdZRkFJZkdWQVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdjWGt6TTFsRk5ta3llWEZLVFJDZkF4amlCU2dLTWdZRkFJZkdWQVE"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "National Donut Day 2024: Here's where to save some 'dough' on donuts",
+            "snippet": "On National Donut Day 2024, here's a look at some of the places around the country where a person can save some dough on the purchase of a donut.",
+            "publisher": "Fox Business",
+            "timestamp": "1717743600000",
+            "newsUrl": "https://www.foxbusiness.com/lifestyle/national-donut-day-2024-heres-where-save-dough-donuts",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWxabVZqWTFrdFNUUXpUMGxtVFJDZkF4ampCU2dLTWdtZEZJU0tsV3A3MUFB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWxabVZqWTFrdFNUUXpUMGxtVFJDZkF4ampCU2dLTWdtZEZJU0tsV3A3MUFB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "National Doughnut Day: Free doughnuts from Krispy Kreme, Dunkin’ and other chains",
+                    "snippet": "It's National Doughnut Day, and there are a ton of sweet deals. For businesses, it's an easy way to cash in. Fast food historically has been a low-profit ...",
+                    "publisher": "CNN",
+                    "timestamp": "1717766640000",
+                    "newsUrl": "https://www.cnn.com/2024/06/07/food/national-doughnut-day-free-donuts/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVRSSGxyYWtsM2FXWnljMlpMVFJDZkF4amlCU2dLTWdrQkFJU21sT1E3WXdN=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVRSSGxyYWtsM2FXWnljMlpMVFJDZkF4amlCU2dLTWdrQkFJU21sT1E3WXdN"
+                    }
+                },
+                {
+                    "title": "National Donut Day 2024 deals: Get free food at Dunkin', Krispy Kreme, Duck Donuts, Sheetz",
+                    "snippet": "Friday is National Donut Day and you can get free treats at Dunkin', Duck Donuts, Krispy Kreme and Casey's convenience stores.",
+                    "publisher": "USA TODAY",
+                    "timestamp": "1717668563000",
+                    "newsUrl": "https://www.usatoday.com/story/money/food/2024/06/06/national-donut-day-2024-deals/73970392007/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHllalZuWTJ4S2RFaFFaakF4VFJDZUFoajhBeWdLTWdZUkk0aXNwUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHllalZuWTJ4S2RFaFFaakF4VFJDZUFoajhBeWdLTWdZUkk0aXNwUVk"
+                    }
+                },
+                {
+                    "title": "National Doughnut Day: Where to get deals and freebies across Chicago area",
+                    "snippet": "National Doughnut Day got its start in Chicago, so it stands to reason that there is no shortage of delicious deals to enjoy the day.",
+                    "publisher": "NBC Chicago",
+                    "timestamp": "1717778477000",
+                    "newsUrl": "https://www.nbcchicago.com/news/local/national-doughnut-day-where-to-get-deals-and-freebies-across-chicago-area/3457699/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iOkNnNTBSV2MwZVZvNVlVdExielpqVFJDZkF4ampCU2dLTWhFQkFJYkdES2ZRSXF1aVZKb1p1cHFzQnc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iOkNnNTBSV2MwZVZvNVlVdExielpqVFJDZkF4ampCU2dLTWhFQkFJYkdES2ZRSXF1aVZKb1p1cHFzQnc"
+                    }
+                },
+                {
+                    "title": "'Donuts Do Good': Salvation Army continues sweet tradition",
+                    "snippet": "KINGSFORD — National Donut Day is celebrated annually — a day tied to the Salvation Army dating back to close to a century. The Salvation Army of Dicki.",
+                    "publisher": "Iron Mountain Daily News",
+                    "timestamp": "1717829775000",
+                    "newsUrl": "https://www.ironmountaindailynews.com/news/local-news/2024/06/donuts-do-good-salvation-army-continues-sweet-tradition/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpOSEpZT0RabVZETk5XbmxpVFJDQkJCaldCQ2dLTWdZQkFKeGlFQXM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpOSEpZT0RabVZETk5XbmxpVFJDQkJCaldCQ2dLTWdZQkFKeGlFQXM"
+                    }
+                },
+                {
+                    "title": "Krispy Kreme Is Giving Out One Free Donut (Any Kind!) — Plus a Dozen Is $2 on National Doughnut Day",
+                    "snippet": "National Doughnut Day is on Friday, June 7 — and Krispy Kreme is celebrating with a free donut of choice, no purchase necessary.",
+                    "publisher": "PEOPLE",
+                    "timestamp": "1717405200000",
+                    "newsUrl": "https://people.com/krispy-kreme-giving-out-free-donut-any-kind-plus-dozen-2-dollars-national-doughnut-day-8656941",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpkMk5aTW5wbU56TkxVMUpuVFJERUF4aW1CU2dLTWdZTkFJYW9IZ3M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVpkMk5aTW5wbU56TkxVMUpuVFJERUF4aW1CU2dLTWdZTkFJYW9IZ3M"
+                    }
+                },
+                {
+                    "title": "When is National Donut Day 2024? Here are doughnut deals in Des Moines",
+                    "snippet": "Finish off your work week with a treat because National Donut Day is just around the corner and so are some sweet deals.",
+                    "publisher": "Des Moines Register",
+                    "timestamp": "1717668800000",
+                    "newsUrl": "https://www.desmoinesregister.com/story/entertainment/dining/2024/06/06/national-donut-day-2024-donuts-doughnuts-near-me-free-deals/73971787007/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXZiMEZqWlU0eE0wbEpVa05EVFJEbkFoak9CU2dLTWdrQkVJSkVHZVl0RXdF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXZiMEZqWlU0eE0wbEpVa05EVFJEbkFoak9CU2dLTWdrQkVJSkVHZVl0RXdF"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Fed decision and inflation reports will rock markets",
+            "snippet": "Investors will pay attention to the central bank's readings of the economy, two big inflation reports. Plus Elon Musk's pay vote.",
+            "publisher": "TheStreet",
+            "timestamp": "1717899375000",
+            "newsUrl": "https://www.thestreet.com/investing/fed-decision-and-inflation-reports-will-rock-markets",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBiMlpYUW5WRFRWYzBaVTlwVFJDUUF4ai1CU2dLTWdZSkFZeU5EUXM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBiMlpYUW5WRFRWYzBaVTlwVFJDUUF4ai1CU2dLTWdZSkFZeU5EUXM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Saudis Said to Hand About 60% of Aramco Offer to Foreign Funds",
+            "snippet": "Foreign investors are set to be allocated about 60% of the shares on offer in Saudi Aramco's $11.2 billion stock sale, people familiar with the matter said, ...",
+            "publisher": "Bloomberg",
+            "timestamp": "1717851877000",
+            "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-08/saudis-said-to-hand-about-60-of-aramco-offer-to-foreign-funds",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNOVk5TTTFSTFIzQnhVRWhpVFJERUF4aW1CU2dLTWdZWllJNVpvQWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNOVk5TTTFSTFIzQnhVRWhpVFJERUF4aW1CU2dLTWdZWllJNVpvQWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "RH's CEO holds 10-hour 'adventures' with execs and says 'I don't yell at people—I yell at the problem'",
+            "snippet": "RH CEO Gary Friedman has long been known for his soaring rhetoric in the luxury furniture retailer's quarterly earnings reports and more recently for his ...",
+            "publisher": "Fortune",
+            "timestamp": "1717872840000",
+            "newsUrl": "https://fortune.com/2024/06/08/rh-ceo-gary-friedman-management-leadership-restoration-hardware-housing-market/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZObGR2VTFScWRWUnBlazFNVFJERUF4aW1CU2dLTWdhbFlwQ09xUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZObGR2VTFScWRWUnBlazFNVFJERUF4aW1CU2dLTWdhbFlwQ09xUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Fed Seen Curbing Rate-Cutting Plans With Inflation Staying High",
+            "snippet": "(Bloomberg) -- Economists are divided over how many interest-rate cuts Federal Reserve officials will signal for 2024 at their policy meeting next week, ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1717855200000",
+            "newsUrl": "https://finance.yahoo.com/news/fed-seen-curbing-rate-cutting-140000685.html",
+            "hasSubnews": false
+        },
+        {
+            "title": "Tesla's latest product: A $450 bottle of mescal. What it tastes like.",
+            "snippet": "Tesla Tequila was the first booze from Elon Musk's electric vehicle and solar power brand. Now there's Tesla Mezcal, going for $450 a bottle.",
+            "publisher": "USA TODAY",
+            "timestamp": "1717845134000",
+            "newsUrl": "https://www.usatoday.com/story/money/2024/06/08/tesla-mezcal/74015209007/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlibkkzVjBoTE0xSlRSRlIwVFJEX0JCamdBeWdLTWdhaFpKRE5LUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlibkkzVjBoTE0xSlRSRlIwVFJEX0JCamdBeWdLTWdhaFpKRE5LUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Kia Recalls Telluride SUV Over Fire Risk; Urging Owners to Park Outside",
+            "snippet": "The automotive company Kia issued a recall on Friday of certain Telluride SUVs from the years 2020 through 2024 and urged the owners of the vehicles to park ...",
+            "publisher": "The New York Times",
+            "timestamp": "1717892613000",
+            "newsUrl": "https://www.nytimes.com/2024/06/08/automobiles/kia-recall-fire-telluride.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXNhRVp6UmxaTlUxWjNjbDlJVFJDSkF4allCQ2dLTWdtTlVZNG1LV1o2eUFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXNhRVp6UmxaTlUxWjNjbDlJVFJDSkF4allCQ2dLTWdtTlVZNG1LV1o2eUFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "New luxury airline for dogs faces lawsuit shortly after its first flight",
+            "snippet": "BARK Air, a new airline that caters to dogs and flies to Los Angeles and London, has been sued by Westchester County, New York, for reportedly violating ...",
+            "publisher": "Fox Business",
+            "timestamp": "1717877700000",
+            "newsUrl": "https://www.foxbusiness.com/lifestyle/new-luxury-airline-dogs-faces-lawsuit-shortly-first-flight",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNWZhRk10YTI5SlNISkZUblozVFJDZkF4ampCU2dLTWdzQlFJVDBVQ0t4emVrY2tn=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNWZhRk10YTI5SlNISkZUblozVFJDZkF4ampCU2dLTWdzQlFJVDBVQ0t4emVrY2tn"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "U.S. regulator launches loosened fuel economy standards",
+            "snippet": "The top U.S. safety regulator has officially launched more relaxed fuel economy standards, following a similar move from the EPA made a few...",
+            "publisher": "TESLARATI",
+            "timestamp": "1717869248000",
+            "newsUrl": "https://www.teslarati.com/us-regulator-loosened-fuel-economy/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdWR2RKY1VWMVpqVkdNRVJWVFJERUF4aW1CU2dLTWdZQmNKSkpyUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXdWR2RKY1VWMVpqVkdNRVJWVFJERUF4aW1CU2dLTWdZQmNKSkpyUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Caltrain service between San Francisco and San Jose suspended this weekend",
+            "snippet": "All rail service between San Francisco and San Jose is suspended on Saturday and Sunday to clear the lines for electric train testing, Caltrain said.",
+            "publisher": "KGO-TV",
+            "timestamp": "1717866775000",
+            "newsUrl": "https://abc7news.com/post/caltrain-service-between-san-francisco-san-jose-suspended/14925704/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDFRMjFwZW05WFQwWm1TRmh0VFJDZkF4ampCU2dLTWdNQmNnbw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNDFRMjFwZW05WFQwWm1TRmh0VFJDZkF4ampCU2dLTWdNQmNnbw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Credit card delinquencies are rising. Here's what to do if you're at risk",
+            "snippet": "Seriously overdue credit card debt is at the highest level in more than a decade, and people 35 and under are struggling more than other age groups to pay ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1717865520000",
+            "newsUrl": "https://apnews.com/article/credit-card-delinquency-nonprofit-counselor-c8197a70d38a3c5605f40fc1f4f775bb",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUxhakJtWTJ0R2F6azJlVU5vVFJEVkFSakFBaWdLTWdzQlFvUWxNU05NaW5vUGN3=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNUxhakJtWTJ0R2F6azJlVU5vVFJEVkFSakFBaWdLTWdzQlFvUWxNU05NaW5vUGN3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Why you should open a CD in mid-June",
+            "snippet": "The middle of this June could be an opportune time for savers to open a CD account. Here's why.",
+            "publisher": "CBS News",
+            "timestamp": "1717773335000",
+            "newsUrl": "https://www.cbsnews.com/news/why-you-should-open-a-cd-in-mid-june/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHllWEpxWmxkV2IyWXlaMnBXVFJDckF4aUFCU2dLTWdZQkk0UEQyUUk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHllWEpxWmxkV2IyWXlaMnBXVFJDckF4aUFCU2dLTWdZQkk0UEQyUUk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Google's $2.3 million check helped the company get a trial by judge instead of jury",
+            "snippet": "Google's lawyers avoided the government's attempt to have an antitrust lawsuit over its alleged online advertising monopoly heard by a jury.",
+            "publisher": "The Verge",
+            "timestamp": "1717798324000",
+            "newsUrl": "https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVZemxyVUhOelVGRXhVVmx4VFJDUUF4ai1CU2dLTWdZaFJJeU90UVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVZemxyVUhOelVGRXhVVmx4VFJDUUF4ai1CU2dLTWdZaFJJeU90UVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Nvidia hits $3 trillion, making CEO Jensen Huang richer than Michael Dell",
+            "snippet": "Nvidia Corp.'s Jensen Huang has steadily climbed the ranks of the world's wealthiest as the market value of his computer-chip maker touches $3 trillion.",
+            "publisher": "Fortune",
+            "timestamp": "1717806180000",
+            "newsUrl": "https://fortune.com/2024/06/07/nvidia-hits-3-trillion-jensen-huang-billionaire-dell/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1RelpqVVdoVldGcHhUMU15VFJERUF4aW1CU2dLTWdZQmhZeXRyUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1RelpqVVdoVldGcHhUMU15VFJERUF4aW1CU2dLTWdZQmhZeXRyUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "T.J.Maxx Just Announced a Controversial Change & Shoppers Are Not Happy",
+            "snippet": "T.J.Maxx is making a major in-store change. During an earnings call in late May, TJX, which heads T.J.Maxx, Marshalls, and HomeGoods, said that security ...",
+            "publisher": "Yahoo! Voices",
+            "timestamp": "1717875900000",
+            "newsUrl": "https://www.yahoo.com/news/t-j-maxx-just-announced-194500509.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlTRkpwUkd0UFZIRnZXRmRpVFJDcUF4al9CQ2dLTWdhUk02Sm9tUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlTRkpwUkd0UFZIRnZXRmRpVFJDcUF4al9CQ2dLTWdhUk02Sm9tUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PowerSchool to be Acquired by Bain Capital in $5.6 Billion Transaction",
+            "snippet": "PowerSchool Holdings, Inc. (NYSE: PWSC) (“PowerSchool” or “the Company”), a leading provider of cloud-based software for K-12 education, announced tod.",
+            "publisher": "Business Wire",
+            "timestamp": "1717760700000",
+            "newsUrl": "https://www.businesswire.com/news/home/20240607770171/en/PowerSchool-to-be-Acquired-by-Bain-Capital-in-5.6-Billion-Transaction",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9ORTVKVjNJNVZERkdVVll6VFJDZkFSaS1BaWdCTWdZcGhaQ3N0UVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9ORTVKVjNJNVZERkdVVll6VFJDZkFSaS1BaWdCTWdZcGhaQ3N0UVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The Texas Stock Exchange has its work cut out for it",
+            "snippet": "The Texas Stock Exchange, unveiled this week with $120 million in funding from BlackRock, Citadel Securities and others, wants to challenge the NYSE and the ...",
+            "publisher": "Axios",
+            "timestamp": "1717852852000",
+            "newsUrl": "https://www.axios.com/2024/06/08/texas-stock-exchange-txse",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBkVnBLYTJWc2JtTjVkR3RQVFJDZkF4ampCU2dLTWdhOWdZclZOQVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBkVnBLYTJWc2JtTjVkR3RQVFJDZkF4ampCU2dLTWdhOWdZclZOQVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The S&P 500 is reshuffling: Here are the stocks joining the index—and the stocks getting booted",
+            "snippet": "The changes to the broad stock market index are set to go into effect prior to the open of trading on Monday, June 24.",
+            "publisher": "Fortune",
+            "timestamp": "1717884480000",
+            "newsUrl": "https://fortune.com/2024/06/08/sp500-rebalance-stock-index-kkr-crowdstrike-godaddy-comerica-illumina-robert-half/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZPVWxVV21ac1NXUkNjazAxVFJERUF4aW1CU2dLTWdhWmdKS3p0QVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVZPVWxVV21ac1NXUkNjazAxVFJERUF4aW1CU2dLTWdhWmdKS3p0QVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Sam Altman is the biggest 'personality hire.' AI is full of them.",
+            "snippet": "AI is a field where hype is everything, and the personality hire reigns supreme. Just look at OpenAI's Sam Altman. He's the ultimate hype man.",
+            "publisher": "Business Insider",
+            "timestamp": "1717837620000",
+            "newsUrl": "https://www.businessinsider.com/sam-altman-personality-hire-openai-ai-chatgpt-why-2024-6",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVpRMWs1T1ZGaVJqYzRiVEV6VFJEZ0F4aUFCU2dLTWdhUlk0aG5LZ2M=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVpRMWs1T1ZGaVJqYzRiVEV6VFJEZ0F4aUFCU2dLTWdhUlk0aG5LZ2M"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Red Lobster could close these 8 Ohio locations amid bankruptcy",
+            "snippet": "(WJW) — Red Lobster plans to close eight Ohio locations, including three in Northeast Ohio, amid its Chapter 11 bankruptcy restructuring, court filings show ...",
+            "publisher": "WKBN.com",
+            "timestamp": "1717851743000",
+            "newsUrl": "https://www.wkbn.com/news/ohio/red-lobster-could-close-these-8-ohio-locations-amid-bankruptcy/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFWbmxJZDI1T2FHRlBjMUZHVFJDZkF4ampCU2dLTWdZaFlwSXNLUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXFWbmxJZDI1T2FHRlBjMUZHVFJDZkF4ampCU2dLTWdZaFlwSXNLUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Mortgage rates fall but only slightly as home prices continue rising",
+            "snippet": "Home prices may still be up, but mortgage rates dipped down to just below 7% this week.",
+            "publisher": "Fox Business",
+            "timestamp": "1717774475000",
+            "newsUrl": "https://www.foxbusiness.com/personal-finance/mortgage-rates-fall-slightly",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXZORk42WmpReWJYaHRSbUZRVFJDZkF4ampCU2dLTWdrSklJSlhFS3V4U3dF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXZORk42WmpReWJYaHRSbUZRVFJDZkF4ampCU2dLTWdrSklJSlhFS3V4U3dF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "35 luxury Father’s Day gifts that are worth the splurge",
+            "snippet": "These top-of-the-line products make excellent luxury Father's Day gifts for even the most discerning dad or father figure in your life.",
+            "publisher": "CNN Underscored",
+            "timestamp": "1717769640000",
+            "newsUrl": "https://www.cnn.com/cnn-underscored/gifts/best-luxury-fathers-day-gifts",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWZlRWRCTlV0SFJYRnpkREYxVFJDZkF4amlCU2dLTWdtSk1JcGxuaXBzVVFF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWZlRWRCTlV0SFJYRnpkREYxVFJDZkF4amlCU2dLTWdtSk1JcGxuaXBzVVFF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Boeing jet engine seen spewing fire on Air Canada flight: 'Heart in mouth moment'",
+            "snippet": "An Air Canada departing Toronto en route to Paris, France, made an emergency landing after fire appeared to spew from its engine, video shows.",
+            "publisher": "Fox Business",
+            "timestamp": "1717896660000",
+            "newsUrl": "https://www.foxbusiness.com/lifestyle/boeing-jet-engine-spewing-fire-air-canada-flight-heart-mouth-moment",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUxRM3BJVmpoR1lWZFZUakpaVFJDZkF4ampCU2dLTWdrUmdaQzJzR1dLendF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUxRM3BJVmpoR1lWZFZUakpaVFJDZkF4ampCU2dLTWdrUmdaQzJzR1dLendF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Nvidia's Stock Split: Will It Replace Intel in the Dow Jones Industrial Average?",
+            "snippet": "Rumors are building that Nvidia could join the Dow after its stock split.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1717842600000",
+            "newsUrl": "https://finance.yahoo.com/news/nvidias-stock-split-replace-intel-103000256.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXhSMVUxYUVOM05WZExTR3RsVFJDckF4aUFCU2dLTWdPQk13dw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXhSMVUxYUVOM05WZExTR3RsVFJDckF4aUFCU2dLTWdPQk13dw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Beloved Mexican restaurant becomes the latest to shut its doors in California - after iconic chain closed 48 r",
+            "snippet": "A popular Mexican restaurant is closing its doors for good in California, becoming only the latest business to shutter after the state's high minimum wage.",
+            "publisher": "Daily Mail",
+            "timestamp": "1717888420000",
+            "newsUrl": "https://www.dailymail.co.uk/news/article-13509521/Gavin-Newsom-California-Taco-Minimum-Wage.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVlR1JKUmxWUVVWUnpWVXhHVFJDZkF4ampCU2dLTWdZQlVZaXRJUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVlR1JKUmxWUVVWUnpWVXhHVFJDZkF4ampCU2dLTWdZQlVZaXRJUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The forgotten racial history of Red Lobster",
+            "snippet": "Communities around the country are losing cheddar bay biscuits and all-you-can-eat seafood deals as troubled Red Lobster closes around 100 US restaurants, ...",
+            "publisher": "CNN",
+            "timestamp": "1717872060000",
+            "newsUrl": "https://www.cnn.com/2024/06/08/business/red-lobster-black-history/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHpWM2xFVEcxS1V6bFRVRWxOVFJDZkF4ampCU2dLTWdrRllKS21MT2VocVFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHpWM2xFVEcxS1V6bFRVRWxOVFJDZkF4ampCU2dLTWdrRllKS21MT2VocVFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "XRP, SEC, and disclosures – Here’s what this court’s ruling means",
+            "snippet": "In a recent filing, the SEC adopted a rule to enhance the regulation of private fund advisers to protect investors and prevent fraud...",
+            "publisher": "AMBCrypto News",
+            "timestamp": "1717837405000",
+            "newsUrl": "https://ambcrypto.com/xrp-sec-and-disclosures-heres-what-this-courts-ruling-means/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlkVmR2Y3pkUmJVMXFXa0pTVFJDaUF4amRCU2dLTWdZQmdJNHF0UVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWlkVmR2Y3pkUmJVMXFXa0pTVFJDaUF4amRCU2dLTWdZQmdJNHF0UVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Stocks Hit Record Highs, Central Banks Cut Rates, Tight US Jobs Report Dampens Fed Easing Hopes: This Wee",
+            "snippet": "The stock market extended its bull market rally for another week, with fresh record highs for both the S&P 500 and the tech-heavy Nasdaq 100 indices.",
+            "publisher": "Benzinga",
+            "timestamp": "1717791932000",
+            "newsUrl": "https://www.benzinga.com/markets/equities/24/06/39236384/stocks-hit-record-highs-central-banks-cut-rates-tight-us-jobs-report-dampens-fed-easing-hopes-th",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRiMjV2VkVKQ1ZteFlaMjAyVFJERUF4aW1CU2dLTWdZUmtZS3NOUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRiMjV2VkVKQ1ZteFlaMjAyVFJERUF4aW1CU2dLTWdZUmtZS3NOUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "3 Unstoppable Artificial Intelligence (AI) Stocks to Buy and Hold for Decades",
+            "snippet": "Don't get too cute: The best AI stocks have already risen to the top of Wall Street.",
+            "publisher": "The Motley Fool",
+            "timestamp": "1717832280000",
+            "newsUrl": "https://www.fool.com/investing/2024/06/08/unstoppable-artificial-intelligence-ai-stocks-buy/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdYMDExVFUxd1pVaEdSM1Y2VFJDN0F4aTFCU2dLTWdhZGtwQk50UVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVdYMDExVFUxd1pVaEdSM1Y2VFJDN0F4aTFCU2dLTWdhZGtwQk50UVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The FDA tells Covid-19 vaccine makers to update shot to target the variant currently in circulation",
+            "snippet": "The US Food and Drug Administration announced Friday that it had advised the makers of the Covid-19 vaccines to formulate their new shots to be a better ...",
+            "publisher": "CNN",
+            "timestamp": "1717800480000",
+            "newsUrl": "https://www.cnn.com/2024/06/07/health/fda-updated-covid-vaccine-for-fall/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVZVWhyZWt0ZlpXRnJjM1F0VFJERUF4aW1CU2dLTWdZQkFwNzBnQXc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUVZVWhyZWt0ZlpXRnJjM1F0VFJERUF4aW1CU2dLTWdZQkFwNzBnQXc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "As US plugs Asean trade loophole, China's solar panel makers face dilemma",
+            "snippet": "US has opened investigations into solar panel products from Southeast Asia to block a well-trodden tariff workaround used by Chinese manufacturers.",
+            "publisher": "South China Morning Post",
+            "timestamp": "1717844410000",
+            "newsUrl": "https://www.scmp.com/economy/global-economy/article/3265839/chinese-solar-panel-makers-face-dilemma-us-plugs-trade-loophole-southeast-asia",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTNMWGh2WlZGamNGSnRTSEl6VFJDcUJCaXFCQ2dLTWdrQkVJQ3FvS1UwQmdN=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTNMWGh2WlZGamNGSnRTSEl6VFJDcUJCaXFCQ2dLTWdrQkVJQ3FvS1UwQmdN"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Is Geron Stock a Buy Following Its First New Drug Approval?",
+            "snippet": "Find out if the high-flying biotech stock can keep on climbing higher.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1717843020000",
+            "newsUrl": "https://finance.yahoo.com/news/geron-stock-buy-following-first-103700072.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdOVVJQVmtOWFVHMVVZV2RtVFJDckF4aUFCU2dLTWdaQk1JejBIQWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdOVVJQVmtOWFVHMVVZV2RtVFJDckF4aUFCU2dLTWdaQk1JejBIQWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "These San Diego-area cities are among ‘hottest housing markets’ in US, according to Realtor.com",
+            "snippet": "SAN DIEGO (FOX 5/KUSI) — Some California towns are experiencing fast moving supply and rising demand when it comes to the housing market, according to a ...",
+            "publisher": "FOX 5 San Diego",
+            "timestamp": "1717863179000",
+            "newsUrl": "https://fox5sandiego.com/news/local-news/these-california-cities-are-among-hottest-housing-markets-in-us-according-to-realtor-com/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtibnBVYzNocWFYbFphMnh3VFJERUF4aW1CU2dLTWdZQmtKSXdQUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUtibnBVYzNocWFYbFphMnh3VFJERUF4aW1CU2dLTWdZQmtKSXdQUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "What Snowflake isn't saying about its customer data breaches",
+            "snippet": "As another Snowflake customer confirms a data breach, the cloud data company says its position \"remains unchanged.\"",
+            "publisher": "TechCrunch",
+            "timestamp": "1717810855000",
+            "newsUrl": "https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRWSFZvUmpKaFptNDBWMmRPVFJDZkF4ampCU2dLTWdZcFk0eFFxUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRWSFZvUmpKaFptNDBWMmRPVFJDZkF4ampCU2dLTWdZcFk0eFFxUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Tillamook cheese sold at Costco recalled for plastic contamination",
+            "snippet": "The brand notified customers in a letter of the issue, stating it was doing so out of an abundance of caution.",
+            "publisher": "Scripps News",
+            "timestamp": "1717801525000",
+            "newsUrl": "https://www.scrippsnews.com/life/recalls/tillamook-cheese-sold-at-costco-recalled-for-plastic-contamination",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBkVE5MUW00M1JWVnpVVVkyVFJDb0FSaXNBaWdCTWdZVlk1SXJLUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBkVE5MUW00M1JWVnpVVVkyVFJDb0FSaXNBaWdCTWdZVlk1SXJLUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Donald Trump Policies 'Risk' Big Mortgage Rate Increase, Economist Warns",
+            "snippet": "Former President Donald Trump's policies \"risk\" a big mortgage rate increase, economist Lawrence Summers recently warned. Trump, the presumptive GOP ...",
+            "publisher": "Newsweek",
+            "timestamp": "1717864449000",
+            "newsUrl": "https://www.newsweek.com/donald-trump-economic-polices-inflation-mortgage-rate-1910027",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRjV3RZU1U1aFNGRlJaRWhEVFJERUF4aW1CU2dLTWdZaFpvRHNLUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRjV3RZU1U1aFNGRlJaRWhEVFJERUF4aW1CU2dLTWdZaFpvRHNLUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Soda recall 2024: Drinks recalled over chemicals, dye linked to cancer",
+            "snippet": "Sodas sold in US restaurants by the Charles Boggini Company are being voluntary recalled over cancer-causing chemicals and dye, the FDA says.",
+            "publisher": "USA TODAY",
+            "timestamp": "1717778794000",
+            "newsUrl": "https://www.usatoday.com/story/money/food/2024/06/07/soda-recall-2024-dye-cancer-fda/74013721007/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlOM2MxVURkV2RuTkxXRzFUVFJEekFoaVVCU2dLTWdZVlJKREtLUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlOM2MxVURkV2RuTkxXRzFUVFJEekFoaVVCU2dLTWdZVlJKREtLUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Restaurant chain files for bankruptcy days after closing 48 locations",
+            "snippet": "The company said it filed for bankruptcy to facilitate the sale of the business.",
+            "publisher": "PennLive",
+            "timestamp": "1717786020000",
+            "newsUrl": "https://www.pennlive.com/nation-world/2024/06/restaurant-chain-files-for-bankruptcy-days-after-closing-48-locations.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRSR2x4TW5SUldIUldWME52VFJERUF4aW1CU2dLTWdZZEFKenhHQW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRSR2x4TW5SUldIUldWME52VFJERUF4aW1CU2dLTWdZZEFKenhHQW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Fox News AI Newsletter: Southern city lands Musk supercomputer",
+            "snippet": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "publisher": "Fox News",
+            "timestamp": "1717849856000",
+            "newsUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-southern-city-lands-musk-supercomputer",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDVVbmxYZUhSV0xXTmlYMGRIVFJDZkF4ampCU2dLTWdNQmNBSQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNDVVbmxYZUhSV0xXTmlYMGRIVFJDZkF4ampCU2dLTWdNQmNBSQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NY woman brings class action suit against Cold Stone over lack of pistachios in ice cream",
+            "snippet": "A federal judge in New York has given the go-ahead to a Long Island woman's class action lawsuit that claims consumers are being duped by Cold Stone ...",
+            "publisher": "NBC New York",
+            "timestamp": "1717876414000",
+            "newsUrl": "https://www.nbcnewyork.com/news/local/cold-stone-pistachio-lawsuit/5487951/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXdZVlJmVVU5UU5WaGxVR3hmVFJERUF4aW1CU2dLTWdrQlVJWUFKR01adXdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXdZVlJmVVU5UU5WaGxVR3hmVFJERUF4aW1CU2dLTWdrQlVJWUFKR01adXdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Solana’s DeFi activity could be good news for SOL’s price – Here’s why",
+            "snippet": "Unique Active Wallets (UAWs) on Solana [SOL] recorded an incredible surge in the last 24 hours, according to DappRadar. Decentralized applications including ...",
+            "publisher": "AMBCrypto News",
+            "timestamp": "1717902179000",
+            "newsUrl": "https://ambcrypto.com/solanas-defi-activity-could-be-good-news-for-sols-price-heres-why/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXViRzVEYlUxTGJ6TlVjRU5WVFJDaUF4amRCU2dLTWdtSklZQXRIU09iMFFB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXViRzVEYlUxTGJ6TlVjRU5WVFJDaUF4amRCU2dLTWdtSklZQXRIU09iMFFB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Major lithium discovery in fracking wastewater leaves the left facing EV 'irony'",
+            "snippet": "The discovery of the potential for thousands of tons of lithium to be extracted annually from wastewater generated by fracking in the Marcellus Shale leaves ...",
+            "publisher": "Yahoo! Voices",
+            "timestamp": "1717833628000",
+            "newsUrl": "https://www.yahoo.com/news/major-lithium-discovery-fracking-wastewater-080028818.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9OV2RzWDFWRmQxOXJkMk5IVFJDZkF4ampCU2dLTWdhbGdZaHVPUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9OV2RzWDFWRmQxOXJkMk5IVFJDZkF4ampCU2dLTWdhbGdZaHVPUVk"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

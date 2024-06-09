@@ -12,15 +12,15 @@ String articleResponseToJson(ArticleResponse data) => json.encode(data.toJson())
 class ArticleResponse with _$ArticleResponse {
   const factory ArticleResponse({
     required String status,
-    required List<Item> items,
+    required List<ArticleItem> items,
   }) = _ArticleResponse;
 
   factory ArticleResponse.fromJson(Map<String, dynamic> json) => _$ArticleResponseFromJson(json);
 }
 
 @freezed
-class Item with _$Item {
-  const factory Item({
+class ArticleItem with _$ArticleItem {
+  const factory ArticleItem({
     required String title,
     required String snippet,
     required String publisher,
@@ -29,9 +29,9 @@ class Item with _$Item {
     required Images? images,
     // required bool hasSubnews,
     // required List<Item> subnews,
-  }) = _Item;
+  }) = _ArticleItem;
 
-  factory Item.fromJson(Map<String, dynamic> json) => _$ItemFromJson(json);
+  factory ArticleItem.fromJson(Map<String, dynamic> json) => _$ArticleItemFromJson(json);
 }
 
 @freezed

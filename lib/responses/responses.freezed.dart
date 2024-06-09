@@ -21,7 +21,7 @@ ArticleResponse _$ArticleResponseFromJson(Map<String, dynamic> json) {
 /// @nodoc
 mixin _$ArticleResponse {
   String get status => throw _privateConstructorUsedError;
-  List<Item> get items => throw _privateConstructorUsedError;
+  List<ArticleItem> get items => throw _privateConstructorUsedError;
 
   Map<String, dynamic> toJson() => throw _privateConstructorUsedError;
   @JsonKey(ignore: true)
@@ -35,7 +35,7 @@ abstract class $ArticleResponseCopyWith<$Res> {
           ArticleResponse value, $Res Function(ArticleResponse) then) =
       _$ArticleResponseCopyWithImpl<$Res, ArticleResponse>;
   @useResult
-  $Res call({String status, List<Item> items});
+  $Res call({String status, List<ArticleItem> items});
 }
 
 /// @nodoc
@@ -62,7 +62,7 @@ class _$ArticleResponseCopyWithImpl<$Res, $Val extends ArticleResponse>
       items: null == items
           ? _value.items
           : items // ignore: cast_nullable_to_non_nullable
-              as List<Item>,
+              as List<ArticleItem>,
     ) as $Val);
   }
 }
@@ -75,7 +75,7 @@ abstract class _$$ArticleResponseImplCopyWith<$Res>
       __$$ArticleResponseImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({String status, List<Item> items});
+  $Res call({String status, List<ArticleItem> items});
 }
 
 /// @nodoc
@@ -100,7 +100,7 @@ class __$$ArticleResponseImplCopyWithImpl<$Res>
       items: null == items
           ? _value._items
           : items // ignore: cast_nullable_to_non_nullable
-              as List<Item>,
+              as List<ArticleItem>,
     ));
   }
 }
@@ -109,7 +109,7 @@ class __$$ArticleResponseImplCopyWithImpl<$Res>
 @JsonSerializable()
 class _$ArticleResponseImpl implements _ArticleResponse {
   const _$ArticleResponseImpl(
-      {required this.status, required final List<Item> items})
+      {required this.status, required final List<ArticleItem> items})
       : _items = items;
 
   factory _$ArticleResponseImpl.fromJson(Map<String, dynamic> json) =>
@@ -117,9 +117,9 @@ class _$ArticleResponseImpl implements _ArticleResponse {
 
   @override
   final String status;
-  final List<Item> _items;
+  final List<ArticleItem> _items;
   @override
-  List<Item> get items {
+  List<ArticleItem> get items {
     if (_items is EqualUnmodifiableListView) return _items;
     // ignore: implicit_dynamic_type
     return EqualUnmodifiableListView(_items);
@@ -162,7 +162,7 @@ class _$ArticleResponseImpl implements _ArticleResponse {
 abstract class _ArticleResponse implements ArticleResponse {
   const factory _ArticleResponse(
       {required final String status,
-      required final List<Item> items}) = _$ArticleResponseImpl;
+      required final List<ArticleItem> items}) = _$ArticleResponseImpl;
 
   factory _ArticleResponse.fromJson(Map<String, dynamic> json) =
       _$ArticleResponseImpl.fromJson;
@@ -170,19 +170,19 @@ abstract class _ArticleResponse implements ArticleResponse {
   @override
   String get status;
   @override
-  List<Item> get items;
+  List<ArticleItem> get items;
   @override
   @JsonKey(ignore: true)
   _$$ArticleResponseImplCopyWith<_$ArticleResponseImpl> get copyWith =>
       throw _privateConstructorUsedError;
 }
 
-Item _$ItemFromJson(Map<String, dynamic> json) {
-  return _Item.fromJson(json);
+ArticleItem _$ArticleItemFromJson(Map<String, dynamic> json) {
+  return _ArticleItem.fromJson(json);
 }
 
 /// @nodoc
-mixin _$Item {
+mixin _$ArticleItem {
   String get title => throw _privateConstructorUsedError;
   String get snippet => throw _privateConstructorUsedError;
   String get publisher => throw _privateConstructorUsedError;
@@ -192,13 +192,15 @@ mixin _$Item {
 
   Map<String, dynamic> toJson() => throw _privateConstructorUsedError;
   @JsonKey(ignore: true)
-  $ItemCopyWith<Item> get copyWith => throw _privateConstructorUsedError;
+  $ArticleItemCopyWith<ArticleItem> get copyWith =>
+      throw _privateConstructorUsedError;
 }
 
 /// @nodoc
-abstract class $ItemCopyWith<$Res> {
-  factory $ItemCopyWith(Item value, $Res Function(Item) then) =
-      _$ItemCopyWithImpl<$Res, Item>;
+abstract class $ArticleItemCopyWith<$Res> {
+  factory $ArticleItemCopyWith(
+          ArticleItem value, $Res Function(ArticleItem) then) =
+      _$ArticleItemCopyWithImpl<$Res, ArticleItem>;
   @useResult
   $Res call(
       {String title,
@@ -212,9 +214,9 @@ abstract class $ItemCopyWith<$Res> {
 }
 
 /// @nodoc
-class _$ItemCopyWithImpl<$Res, $Val extends Item>
-    implements $ItemCopyWith<$Res> {
-  _$ItemCopyWithImpl(this._value, this._then);
+class _$ArticleItemCopyWithImpl<$Res, $Val extends ArticleItem>
+    implements $ArticleItemCopyWith<$Res> {
+  _$ArticleItemCopyWithImpl(this._value, this._then);
 
   // ignore: unused_field
   final $Val _value;
@@ -273,10 +275,11 @@ class _$ItemCopyWithImpl<$Res, $Val extends Item>
 }
 
 /// @nodoc
-abstract class _$$ItemImplCopyWith<$Res> implements $ItemCopyWith<$Res> {
-  factory _$$ItemImplCopyWith(
-          _$ItemImpl value, $Res Function(_$ItemImpl) then) =
-      __$$ItemImplCopyWithImpl<$Res>;
+abstract class _$$ArticleItemImplCopyWith<$Res>
+    implements $ArticleItemCopyWith<$Res> {
+  factory _$$ArticleItemImplCopyWith(
+          _$ArticleItemImpl value, $Res Function(_$ArticleItemImpl) then) =
+      __$$ArticleItemImplCopyWithImpl<$Res>;
   @override
   @useResult
   $Res call(
@@ -292,10 +295,11 @@ abstract class _$$ItemImplCopyWith<$Res> implements $ItemCopyWith<$Res> {
 }
 
 /// @nodoc
-class __$$ItemImplCopyWithImpl<$Res>
-    extends _$ItemCopyWithImpl<$Res, _$ItemImpl>
-    implements _$$ItemImplCopyWith<$Res> {
-  __$$ItemImplCopyWithImpl(_$ItemImpl _value, $Res Function(_$ItemImpl) _then)
+class __$$ArticleItemImplCopyWithImpl<$Res>
+    extends _$ArticleItemCopyWithImpl<$Res, _$ArticleItemImpl>
+    implements _$$ArticleItemImplCopyWith<$Res> {
+  __$$ArticleItemImplCopyWithImpl(
+      _$ArticleItemImpl _value, $Res Function(_$ArticleItemImpl) _then)
       : super(_value, _then);
 
   @pragma('vm:prefer-inline')
@@ -308,7 +312,7 @@ class __$$ItemImplCopyWithImpl<$Res>
     Object? newsUrl = null,
     Object? images = freezed,
   }) {
-    return _then(_$ItemImpl(
+    return _then(_$ArticleItemImpl(
       title: null == title
           ? _value.title
           : title // ignore: cast_nullable_to_non_nullable
@@ -339,8 +343,8 @@ class __$$ItemImplCopyWithImpl<$Res>
 
 /// @nodoc
 @JsonSerializable()
-class _$ItemImpl implements _Item {
-  const _$ItemImpl(
+class _$ArticleItemImpl implements _ArticleItem {
+  const _$ArticleItemImpl(
       {required this.title,
       required this.snippet,
       required this.publisher,
@@ -348,8 +352,8 @@ class _$ItemImpl implements _Item {
       required this.newsUrl,
       required this.images});
 
-  factory _$ItemImpl.fromJson(Map<String, dynamic> json) =>
-      _$$ItemImplFromJson(json);
+  factory _$ArticleItemImpl.fromJson(Map<String, dynamic> json) =>
+      _$$ArticleItemImplFromJson(json);
 
   @override
   final String title;
@@ -366,14 +370,14 @@ class _$ItemImpl implements _Item {
 
   @override
   String toString() {
-    return 'Item(title: $title, snippet: $snippet, publisher: $publisher, timestamp: $timestamp, newsUrl: $newsUrl, images: $images)';
+    return 'ArticleItem(title: $title, snippet: $snippet, publisher: $publisher, timestamp: $timestamp, newsUrl: $newsUrl, images: $images)';
   }
 
   @override
   bool operator ==(Object other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
-            other is _$ItemImpl &&
+            other is _$ArticleItemImpl &&
             (identical(other.title, title) || other.title == title) &&
             (identical(other.snippet, snippet) || other.snippet == snippet) &&
             (identical(other.publisher, publisher) ||
@@ -392,27 +396,28 @@ class _$ItemImpl implements _Item {
   @JsonKey(ignore: true)
   @override
   @pragma('vm:prefer-inline')
-  _$$ItemImplCopyWith<_$ItemImpl> get copyWith =>
-      __$$ItemImplCopyWithImpl<_$ItemImpl>(this, _$identity);
+  _$$ArticleItemImplCopyWith<_$ArticleItemImpl> get copyWith =>
+      __$$ArticleItemImplCopyWithImpl<_$ArticleItemImpl>(this, _$identity);
 
   @override
   Map<String, dynamic> toJson() {
-    return _$$ItemImplToJson(
+    return _$$ArticleItemImplToJson(
       this,
     );
   }
 }
 
-abstract class _Item implements Item {
-  const factory _Item(
+abstract class _ArticleItem implements ArticleItem {
+  const factory _ArticleItem(
       {required final String title,
       required final String snippet,
       required final String publisher,
       required final String timestamp,
       required final String newsUrl,
-      required final Images? images}) = _$ItemImpl;
+      required final Images? images}) = _$ArticleItemImpl;
 
-  factory _Item.fromJson(Map<String, dynamic> json) = _$ItemImpl.fromJson;
+  factory _ArticleItem.fromJson(Map<String, dynamic> json) =
+      _$ArticleItemImpl.fromJson;
 
   @override
   String get title;
@@ -428,7 +433,7 @@ abstract class _Item implements Item {
   Images? get images;
   @override
   @JsonKey(ignore: true)
-  _$$ItemImplCopyWith<_$ItemImpl> get copyWith =>
+  _$$ArticleItemImplCopyWith<_$ArticleItemImpl> get copyWith =>
       throw _privateConstructorUsedError;
 }
 

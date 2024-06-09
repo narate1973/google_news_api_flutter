@@ -1,0 +1,1123 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "title": "Diet, exercise may slow decline in some Alzheimer’s patients: Study",
+      "snippet": "A healthy diet and consistent exercise may slow decline in some early-stage Alzheimer's disease patients, according to research published Friday.",
+      "publisher": "The Hill",
+      "timestamp": "1717808220000",
+      "newsUrl": "https://thehill.com/policy/healthcare/4711200-diet-exercise-may-slow-decline-in-some-alzheimers-patients-study/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9VMGRTWldOclZFMDNOM1k1VFJDZkF4ampCU2dLTWdhbFU1Sk1KUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9VMGRTWldOclZFMDNOM1k1VFJDZkF4ampCU2dLTWdhbFU1Sk1KUWc"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Alzheimer's disease may be slowed by vegetarian diet and exercise",
+          "snippet": "People with early-stage Alzheimer's disease may be able to slow their cognitive decline through diet and exercise, according to a new study.",
+          "publisher": "USA TODAY",
+          "timestamp": "1717754798000",
+          "newsUrl": "https://www.usatoday.com/story/news/health/2024/06/07/vegetarian-diet-exercise-slows-alzheimers/73964271007/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXFYMlJqZVY5R0xWUnFRblJqVFJEekFoaVVCU2dLTWdrQllKS2xzcWR6YWdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXFYMlJqZVY5R0xWUnFRblJqVFJEekFoaVVCU2dLTWdrQllKS2xzcWR6YWdJ"
+          }
+        },
+        {
+          "title": "How lifestyle changes could improve Alzheimer's symptoms",
+          "snippet": "Researchers are trying to determine if lifestyle interventions show cognitive improvement in people with mild cognitive impairment or early dementia due to ...",
+          "publisher": "CTV News",
+          "timestamp": "1717883333000",
+          "newsUrl": "https://www.ctvnews.ca/health/a-study-to-give-us-hope-lifestyle-changes-improve-alzheimer-s-symptoms-for-some-1.6919339",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDNaMjlDZGtseVpFeExRa2w1VFJDb0FSaXJBaWdCTWdtRk1KU1hsR214YUFJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDNaMjlDZGtseVpFeExRa2w1VFJDb0FSaXJBaWdCTWdtRk1KU1hsR214YUFJ"
+          }
+        },
+        {
+          "title": "Alzheimer's disease may be improved with these 5 lifestyle changes",
+          "snippet": "A study gives \"new hope and new choices\" for people with Alzheimer's disease.",
+          "publisher": "Fortune",
+          "timestamp": "1717779900000",
+          "newsUrl": "https://fortune.com/well/2024/06/07/alzheimers-lifestyle-habit-changes-improved-brain-function/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpXbWd3WkUxVlgwa3lSR2x6VFJERUF4aW1CU2dLTWdheFk0cFNwUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpXbWd3WkUxVlgwa3lSR2x6VFJERUF4aW1CU2dLTWdheFk0cFNwUWc"
+          }
+        },
+        {
+          "title": "Can a Vegan Diet and Exercise Improve Alzheimer's?",
+          "snippet": "A recent study showed that patients who stuck with a mix of aerobic exercise, a plant-based diet and meditation slowed cognitive decline. Learn more.",
+          "publisher": "AARP",
+          "timestamp": "1717776950000",
+          "newsUrl": "https://www.aarp.org/health/brain-health/info-2024/diet-exercise-meditation-improve-alzheimers.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5kMk5XTTIxalJFbEtiR2RSVFJDcUFSaW9BaWdCTWdZQk1JaGlvZ1U=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5kMk5XTTIxalJFbEtiR2RSVFJDcUFSaW9BaWdCTWdZQk1JaGlvZ1U"
+          }
+        },
+        {
+          "title": "Lifestyle changes may slow or prevent Alzheimer's in people at high risk",
+          "snippet": "New research shows that a set of healthy lifestyle habits can help preserve brain function in folks with mild cognitive impairment or early dementia.",
+          "publisher": "Medical Xpress",
+          "timestamp": "1717777202000",
+          "newsUrl": "https://medicalxpress.com/news/2024-06-lifestyle-alzheimer-people-high.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRNazlNTmpaNGNVc3lja3RwVFJERUF4aW1CU2dLTWdhVlJvcEpvZ2c=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRNazlNTmpaNGNVc3lja3RwVFJERUF4aW1CU2dLTWdhVlJvcEpvZ2c"
+          }
+        },
+        {
+          "title": "Incredible new research reveals how five lifestyle changes may REVERSE Alzheimer's disease",
+          "snippet": "Alzheimer's disease could be halted by making radical lifestyle changes, a new trial suggests. People diagnosed with Alzheimer's or a precursor to dementia ...",
+          "publisher": "Daily Mail",
+          "timestamp": "1717780163000",
+          "newsUrl": "https://www.dailymail.co.uk/health/article-13505943/new-research-reveals-two-daily-habits-reverse-alzheimers-disease.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTZiM0YzWlRGSVdFazFZMDV6VFJDZkF4ampCU2dLTWdrWlpZUXBRdVJyeXdF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTZiM0YzWlRGSVdFazFZMDV6VFJDZkF4ampCU2dLTWdrWlpZUXBRdVJyeXdF"
+          }
+        }
+      ]
+    },
+    {
+      "title": "MOV Health Department cautions public about bad drug batch",
+      "snippet": "Amy Phelps from the ...",
+      "publisher": "WTAP",
+      "timestamp": "1717805400000",
+      "newsUrl": "https://www.wtap.com/2024/06/08/mov-health-department-cautions-public-about-bad-drug-batch/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNURUMmR2UmtJMlNXbGpaVEp6VFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNURUMmR2UmtJMlNXbGpaVEp6VFJDSEF4aVBCaWdLTWdB"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Midwest health departments warn of new deadly animal tranquilizer’s emergence",
+          "snippet": "Health departments in the Midwest are warning of the emergence of a new deadly animal tranquilizer that's linked to overdose deaths. The drug, medetomidine ...",
+          "publisher": "The Hill",
+          "timestamp": "1717794720000",
+          "newsUrl": "https://thehill.com/policy/healthcare/4710809-midwest-health-departments-warn-of-new-deadly-animal-tranquilizers-emergence/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUZjREpGY1VWV1luUXdSbXhNVFJDZkF4amlCU2dLTWdPQklRNA=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUZjREpGY1VWV1luUXdSbXhNVFJDZkF4amlCU2dLTWdPQklRNA"
+          }
+        },
+        {
+          "title": "Michigan health officials warn about drug linked to overdose deaths",
+          "snippet": "Michigan Department of Health and Human Services, or MDHHS, is warning people about a potentially dangerous drug called \"medetomidine.",
+          "publisher": "WWMT-TV",
+          "timestamp": "1717799311000",
+          "newsUrl": "https://wwmt.com/news/local/health-officials-warning-medetomidine-linked-overdose-deaths-michigan-tranquilizer-xylazine-injection-pill-powder-street-drugs-mdhhs-animal-practical-narcan-heart-rate-health-safety",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNW9SV3huUVhveE9YbDZVVlJCVFJDZkF4amlCU2dLTWdNaEJSZw=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNW9SV3huUVhveE9YbDZVVlJCVFJDZkF4amlCU2dLTWdNaEJSZw"
+          }
+        },
+        {
+          "title": "Overdoses in Wayne County, around Michigan linked to new animal tranquillizer",
+          "snippet": "Medetomidine has been detected in at least three overdoses since March. The tranquilizer is more potent than other similar animal sedatives - and can't be ...",
+          "publisher": "FOX 2 Detroit",
+          "timestamp": "1717703727000",
+          "newsUrl": "https://www.fox2detroit.com/news/overdoses-wayne-county-around-michigan-linked-new-animal-tranquillizer",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZXbDloT0cxMGFuazFhVWRzVFJDZkF4ampCU2dLTWdZNVlJTHhNQUk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZXbDloT0cxMGFuazFhVWRzVFJDZkF4ampCU2dLTWdZNVlJTHhNQUk"
+          }
+        },
+        {
+          "title": "New drug claims three Michigan lives",
+          "snippet": "A new drug has been ...",
+          "publisher": "WILX",
+          "timestamp": "1717814220000",
+          "newsUrl": "https://www.wilx.com/2024/06/08/new-drug-claims-three-michigan-lives/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXZaWFI1VWw5aFFqQjBOekk0VFJDSEF4aVBCaWdLTWdraEFJVHVHQ09iMEFB=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXZaWFI1VWw5aFFqQjBOekk0VFJDSEF4aVBCaWdLTWdraEFJVHVHQ09iMEFB"
+          }
+        },
+        {
+          "title": "DEA warns of emerging sedative being found in drugs across Marion County",
+          "snippet": "Medetomidine is a non-opioid sedative used on animals, but officials say it's being mixed with drugs like fentanyl, heroin and xylazine.",
+          "publisher": "WRTV Indianapolis",
+          "timestamp": "1717716036000",
+          "newsUrl": "https://www.wrtv.com/news/local-news/dea-warns-of-emerging-sedative-being-found-in-drugs-across-marion-county",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlURTV1UkVkWWMwUlBNMWgyVFJDakFSaTJBaWdCTWdhcEpZanRKUVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlURTV1UkVkWWMwUlBNMWgyVFJDakFSaTJBaWdCTWdhcEpZanRKUVU"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pfizer's Paxlovid fails as 15-day treatment for long COVID, study finds",
+      "snippet": "A 15-day course of Pfizer's COVID-19 antiviral treatment Paxlovid did not relieve symptoms of long COVID, according a study by Stanford University ...",
+      "publisher": "Reuters",
+      "timestamp": "1717787460000",
+      "newsUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizers-paxlovid-fails-15-day-treatment-long-covid-study-finds-2024-06-07/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdSR1pXVjBGS1lWRldZM3BaVFJDd0F4akdCU2dLTWdhcFFaUU5uUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXdSR1pXVjBGS1lWRldZM3BaVFJDd0F4akdCU2dLTWdhcFFaUU5uUWM"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Paxlovid Doesn't Cure Long COVID",
+          "snippet": "A new study finds that taking the antiviral Paxlovid doesn't treat Long COVID symptoms better than a placebo.",
+          "publisher": "TIME",
+          "timestamp": "1717787150000",
+          "newsUrl": "https://time.com/6986441/paxlovid-does-not-treat-long-covid/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFhV1JTYW1sUFlrNWhiamh0VFJDM0FSaVRBaWdCTWdZTllvNHBMUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTFhV1JTYW1sUFlrNWhiamh0VFJDM0FSaVRBaWdCTWdZTllvNHBMUVk"
+          }
+        },
+        {
+          "title": "Stanford Medicine trial: 15-day Paxlovid regimen safe but adds no clear long-COVID benefit",
+          "snippet": "Paxlovid, effective in preventing severe COVID-19, didn't appear to help long-COVID patients in this single-center study. But further research may show ...",
+          "publisher": "Stanford Medical Center Report",
+          "timestamp": "1717787181000",
+          "newsUrl": "https://med.stanford.edu/news/all-news/2024/06/paxlovid-covid.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNPVmxMZFdrNVkwSjFZMnd4VFJDM0FSaVRBaWdCTWdZZEJKQXJqZ3M=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNPVmxMZFdrNVkwSjFZMnd4VFJDM0FSaVRBaWdCTWdZZEJKQXJqZ3M"
+          }
+        },
+        {
+          "title": "Paxlovid fails to improve long COVID symptoms in small study",
+          "snippet": "Using the popular COVID antiviral Paxlovid failed to significantly improve symptoms in 155 patients experiencing moderate to severe long COVID, according to ...",
+          "publisher": "University of Minnesota Twin Cities",
+          "timestamp": "1717789418000",
+          "newsUrl": "https://www.cidrap.umn.edu/covid-19/paxlovid-fails-improve-long-covid-symptoms-small-study",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFNbnA1YUROT2JUZFVVVXQxVFJDM0FSaVRBaWdCTWdZZGc1U05zUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFNbnA1YUROT2JUZFVVVXQxVFJDM0FSaVRBaWdCTWdZZGc1U05zUWM"
+          }
+        },
+        {
+          "title": "Paxlovid Fails to Quell Long Covid Symptoms in Stanford Study",
+          "snippet": "A 15-day course of Pfizer Inc.'s antiviral Paxlovid didn't provide significant relief for long Covid patients, researchers at Stanford University found.",
+          "publisher": "Bloomberg",
+          "timestamp": "1717809420000",
+          "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-07/paxlovid-fails-to-quell-long-covid-symptoms-in-stanford-study",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUpaRzkzZVRGVGJuTnFZakpuVFJERUF4aW1CU2dLTWdreEk0WXlGYXBNMVFB=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUpaRzkzZVRGVGJuTnFZakpuVFJERUF4aW1CU2dLTWdreEk0WXlGYXBNMVFB"
+          }
+        },
+        {
+          "title": "Paxlovid Fails First Test in Long COVID",
+          "snippet": "A 15-day course of the antiviral nirmatrelvir-ritonavir (Paxlovid) didn't improve symptoms of long COVID, according to a randomized controlled trial that ...",
+          "publisher": "Medpage Today",
+          "timestamp": "1717786845000",
+          "newsUrl": "https://www.medpagetoday.com/infectiousdisease/longcovid/110544",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXVWbkZuWlhKcVUwZHNaV1Z3VFJDZkF4ampCU2dLTWdrSk00Z3BNbVpVaHdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXVWbkZuWlhKcVUwZHNaV1Z3VFJDZkF4ampCU2dLTWdrSk00Z3BNbVpVaHdJ"
+          }
+        },
+        {
+          "title": "Extended Course of Paxlovid Adds No Benefit for Those With Long COVID",
+          "snippet": "Paxlovid doesn't appear to help people with Long COVID. Patients prescribed 15 days of Paxlovid had no significant improvement in their symptoms compared to ...",
+          "publisher": "The Anniston Star",
+          "timestamp": "1717786800000",
+          "newsUrl": "https://www.annistonstar.com/features/trending/extended-course-of-paxlovid-adds-no-benefit-for-those-with-long-covid/article_4a7eeafd-b4a0-5c18-aedb-2dd13c31c88f.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5ObkZNU1hoQmJHVndhR3BPVFJERUF4aW1CU2dLTWdZQlFKQU52UVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5ObkZNU1hoQmJHVndhR3BPVFJERUF4aW1CU2dLTWdZQlFKQU52UVU"
+          }
+        }
+      ]
+    },
+    {
+      "title": "With So Much Bird Flu Around, Are Eggs, Chicken, and Milk Still Safe to Consume?",
+      "snippet": "A food microbiologist explains why you shouldn't worry about consuming poultry or dairy—so long as you take the right precautions.",
+      "publisher": "WIRED",
+      "timestamp": "1717846200000",
+      "newsUrl": "https://www.wired.com/story/bird-flu-how-safe-are-eggs-chicken-milk-h5n1-h5n2/",
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "The bird flu outbreak has spread to humans — are we too late to prevent the next pandemic?",
+          "snippet": "We learned on May 30 of a third human case of H5N1 infection, commonly known as bird flu, in the United States. This case was on a different farm than ...",
+          "publisher": "The Hill",
+          "timestamp": "1717851600000",
+          "newsUrl": "https://thehill.com/opinion/healthcare/4708130-bird-flu-outbreak-h5n1-pandemic/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVhkV3BGZVRSbU1pMDRNMnBIVFJEUkF4aVVCU2dLTWdtcFVZYk5JU2hjOEFB=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVhkV3BGZVRSbU1pMDRNMnBIVFJEUkF4aVVCU2dLTWdtcFVZYk5JU2hjOEFB"
+          }
+        },
+        {
+          "title": "Avian Influenza A (H5N1) - Australia",
+          "snippet": "On 22 May 2024, the World Health Organization (WHO) was notified of a laboratory-confirmed case of human infection with avian influenza A(H5N1) virus (clade ...",
+          "publisher": "World Health Organization (WHO)",
+          "timestamp": "1717787875000",
+          "newsUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON519"
+        },
+        {
+          "title": "Bird flu: Why the latest H5N1 case in Michigan is a real cause for concern.",
+          "snippet": "The latest case in Michigan is more serious, and it might be spreading undetected to other states.",
+          "publisher": "Slate",
+          "timestamp": "1717753200000",
+          "newsUrl": "https://slate.com/technology/2024/06/bird-flu-michigan-infection-h5n1-respiratory-cough-cows.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFORUp6Y0hOaFJtRkRWalJvVFJERUF4aW1CU2dLTWdZQllKSkdMUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTFORUp6Y0hOaFJtRkRWalJvVFJERUF4aW1CU2dLTWdZQllKSkdMUWM"
+          }
+        },
+        {
+          "title": "Exclusive: Cows infected with bird flu have died in five US states",
+          "snippet": "June 6 (Reuters) - Dairy cows infected with avian flu in five U.S. states have died or been slaughtered by farmers because they did not recover, ...",
+          "publisher": "Reuters",
+          "timestamp": "1717683360000",
+          "newsUrl": "https://www.reuters.com/world/us/cows-infected-with-bird-flu-have-died-five-us-states-2024-06-06/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpPR0pMUjNWTU56UjViMVpFVFJEUEF4aVdCU2dLTWdZTkY0Um1rZ2c=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpPR0pMUjNWTU56UjViMVpFVFJEUEF4aVdCU2dLTWdZTkY0Um1rZ2c"
+          }
+        },
+        {
+          "title": "Opinion | Why the New Human Case of Bird Flu Is So Alarming",
+          "snippet": "The third human case of H5N1, reported on Thursday in a farmworker in Michigan who was experiencing respiratory symptoms, tells us that the current bird flu ...",
+          "publisher": "The New York Times",
+          "timestamp": "1717322408000",
+          "newsUrl": "https://www.nytimes.com/2024/06/02/opinion/bird-flu-case-respiratory.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXJkREo2T1RGaVUyRlBhMlZGVFJDUUF4allCQ2dLTWdrQkVKQ3BIU2RWaGdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXJkREo2T1RGaVUyRlBhMlZGVFJDUUF4allCQ2dLTWdrQkVKQ3BIU2RWaGdJ"
+          }
+        },
+        {
+          "title": "H5N1 Bird Flu Isn't a Human Pandemic—Yet",
+          "snippet": "Americans don't like being told what to do, and many don't trust government. These stubborn attitudes might turn H5N1 bird flu into a pandemic.",
+          "publisher": "Scientific American",
+          "timestamp": "1717585338000",
+          "newsUrl": "https://www.scientificamerican.com/article/h5n1-bird-flu-isnt-a-human-pandemic-yet/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlXR2g2UjFsMFluWXhlbkphVFJDUUF4allCQ2dLTWdhdFpJN09yUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlXR2g2UjFsMFluWXhlbkphVFJDUUF4allCQ2dLTWdhdFpJN09yUWM"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Warning: Popular Sugar-Free Sweetener Linked to Heart Attacks and Strokes",
+      "snippet": "High xylitol levels may increase cardiovascular risks by promoting clotting, according to Cleveland Clinic research. Xylitol is a common zero-calorie ...",
+      "publisher": "SciTechDaily",
+      "timestamp": "1717860482000",
+      "newsUrl": "https://scitechdaily.com/warning-popular-sugar-free-sweetener-linked-to-heart-attacks-and-strokes/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlRMHR2TUd0SWRFdE1hbU53VFJERUF4aW1CU2dLTWdZaEZKaU5JUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlRMHR2TUd0SWRFdE1hbU53VFJERUF4aW1CU2dLTWdZaEZKaU5JUWc"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Heart health: Sugar substitute xylitol linked to higher risk of stroke",
+          "snippet": "Researchers say there appears to be links between the artificial sweetener xylitol, a type of sugar alcohol, and an increased risk of heart attack and ...",
+          "publisher": "Medical News Today",
+          "timestamp": "1717787176000",
+          "newsUrl": "https://www.medicalnewstoday.com/articles/sugar-substitute-xylitol-linked-to-higher-risk-of-heart-attack-stroke",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9Yemh4UlVwRFpIVjVkVWhYVFJDZkF4ampCU2dLTWdZbEJJcXVtUVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9Yemh4UlVwRFpIVjVkVWhYVFJDZkF4ampCU2dLTWdZbEJJcXVtUVU"
+          }
+        },
+        {
+          "title": "Another popular low-calorie sweetener increases risk of heart attacks and strokes, Cleveland Clinic researche",
+          "snippet": "CLEVELAND, Ohio — Consuming products sweetened with the sugar substitute xylitol increases the risk of cardiovascular events like heart attacks and strokes, ...",
+          "publisher": "cleveland.com",
+          "timestamp": "1717705440000",
+          "newsUrl": "https://www.cleveland.com/news/2024/06/another-popular-low-calorie-sweetener-increases-risk-of-heart-attacks-and-strokes-cleveland-clinic-researchers-find.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU9ZamMwVEZoNlUxOVRiRTVoVFJDd0JCaWtCQ2dLTWdrVkE0eXNHZVdocGdJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU9ZamMwVEZoNlUxOVRiRTVoVFJDd0JCaWtCQ2dLTWdrVkE0eXNHZVdocGdJ"
+          }
+        },
+        {
+          "title": "Xylitol Increases Heart-Health Risks",
+          "snippet": "Losing weight is one the best ways to lower your risk of heart disease, and cutting back on sugar can contribute to that. But sweeteners that mimic the ...",
+          "publisher": "TIME",
+          "timestamp": "1717672500000",
+          "newsUrl": "https://time.com/6985904/xylitol-heart-health-risks/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJZeTExWTJ4TFZEVkZaMWxhVFJDM0FSaVRBaWdCTWdZbFFwQ05MUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUJZeTExWTJ4TFZEVkZaMWxhVFJDM0FSaVRBaWdCTWdZbFFwQ05MUWM"
+          }
+        },
+        {
+          "title": "Sugar Substitute Linked to Heart, Thrombotic Risk",
+          "snippet": "The popular low-calorie sweetener xylitol was linked to increased cardiovascular and thrombotic risk, a series of experiments showed.",
+          "publisher": "Medpage Today",
+          "timestamp": "1717789731000",
+          "newsUrl": "https://www.medpagetoday.com/cardiology/prevention/110554",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUhkVXh3YmxKNGFFbERVRTlRVFJDZkF4ampCU2dLTWdtUkFvUXpqU3M5dHdB=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUhkVXh3YmxKNGFFbERVRTlRVFJDZkF4ampCU2dLTWdtUkFvUXpqU3M5dHdB"
+          }
+        },
+        {
+          "title": "Health Risks and Dangers of Xylitol in Food",
+          "snippet": "Research suggests that xylitol, a sugar alcohol found in some sugar-free desserts and candies, can increase your risk for heart attack and stroke.",
+          "publisher": "Health Essentials",
+          "timestamp": "1717679623000",
+          "newsUrl": "https://health.clevelandclinic.org/dangers-of-xylitol",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlOVzVXUjFkM1p6UlFWVWhXVFJDb0FSaXNBaWdCTWdZUklJb0xsZ28=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlOVzVXUjFkM1p6UlFWVWhXVFJDb0FSaXNBaWdCTWdZUklJb0xsZ28"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New COVID variant KP.3 is on the rise: Here's what to know",
+      "snippet": "The Centers for Disease Control and Prevention data shows that the KP.3 variant is now the dominant variant making up 25% of COVID cases.",
+      "publisher": "USA TODAY",
+      "timestamp": "1717892347000",
+      "newsUrl": "https://www.usatoday.com/story/news/health/2024/06/08/new-covid-variant-kp-3/74028807007/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJXalI0UTFseVVXaGhjQzAzVFJEekFoaVVCU2dLTWdhQllZUW95Z0U=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJXalI0UTFseVVXaGhjQzAzVFJEekFoaVVCU2dLTWdhQllZUW95Z0U"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mexico says bird flu patient died of chronic disease, not virus",
+      "snippet": "MEXICO CITY, June 7 (Reuters) - A man who contracted bird flu in Mexico died due to chronic diseases and not the virus, Mexico's health ministry said on ...",
+      "publisher": "Reuters Canada",
+      "timestamp": "1717775700000",
+      "newsUrl": "https://www.reuters.com/world/americas/mexico-health-ministry-bird-flu-patient-died-chronic-disease-not-virus-2024-06-07/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXljM2w1TTAxblNHTmxRMnM1VFJERUF4aW1CU2dLTWdrTnNZWUlRZVpFTkFF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXljM2w1TTAxblNHTmxRMnM1VFJERUF4aW1CU2dLTWdrTnNZWUlRZVpFTkFF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Health leaders warn of COVID-19 spike in Hawaii hospitals",
+      "snippet": "HONOLULU (Island News) -- Hawaii health officials are sounding the alarm. There's a major spike in COVID-19 in the islands, as indicated by hospitalization ...",
+      "publisher": "KITV Honolulu",
+      "timestamp": "1717809446000",
+      "newsUrl": "https://www.kitv.com/news/health-leaders-warn-of-covid-19-spike-in-hawaii-hospitals/article_a74f4dac-2530-11ef-9d99-8b05e0413af4.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpORmsxUVRWSGFreHpjRmszVFJDQkFSaklBU2dCTWdhQlFwaFJIUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpORmsxUVRWSGFreHpjRmszVFJDQkFSaklBU2dCTWdhQlFwaFJIUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "He was the first person to be diagnosed with a new sleep disorder. It led to a scientific breakthrough",
+      "snippet": "A man who acted out his dreams was the first case of a new sleep disorder that led investigators to one of the earliest signs of Parkinson's disease and ...",
+      "publisher": "CNN",
+      "timestamp": "1717837200000",
+      "newsUrl": "https://www.cnn.com/2024/06/08/health/violent-dreams-parkinsons-dementia-wellness/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1iVGRLYmtKTk1rNUdjVkp1VFJDZkF4ampCU2dLTWdZSlVwU3RxUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1iVGRLYmtKTk1rNUdjVkp1VFJDZkF4ampCU2dLTWdZSlVwU3RxUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Raw milk restrictions in Pa. could be relaxed despite health concerns",
+      "snippet": "The U.S. Food & Drug Administration says raw milk “can harbor dangerous germs that can pose serious health risks.”",
+      "publisher": "The Philadelphia Inquirer",
+      "timestamp": "1717837200000",
+      "newsUrl": "https://www.inquirer.com/news/pennsylvania/raw-milk-pa-nj-law-sales-20240608.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHliVWhsYWxWQmVrTlBhRTVPVFJDM0FSaVRBaWdCTWdhdE1vNXdtUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHliVWhsYWxWQmVrTlBhRTVPVFJDM0FSaVRBaWdCTWdhdE1vNXdtUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "After being diagnosed with MS, he started running marathons. It's helping reverse the disease's progression.",
+      "snippet": "When Derek Stefureac was diagnosed with multiple sclerosis, a chronic disease that affects the central nervous system, he was a smoker who never exercised.",
+      "publisher": "CBS News",
+      "timestamp": "1717844400000",
+      "newsUrl": "https://www.cbsnews.com/news/derek-stefureac-multiple-sclerosis-exercise-treatment-marathons/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRja1kwTXkxNGNYRm5ObXhEVFJDbUF4aUFCU2dLTWdZbFFKaU5wUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRja1kwTXkxNGNYRm5ObXhEVFJDbUF4aUFCU2dLTWdZbFFKaU5wUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Man catches terrifying disease 'from Biblical times' after eating contaminated lamb",
+      "snippet": "A Texas resident baffled doctors after tests revealed he'd contracted a rare bacterial infection on his ranch. The man, thought to be in his 50s, ...",
+      "publisher": "UNILAD",
+      "timestamp": "1717850453000",
+      "newsUrl": "https://www.unilad.com/news/health/texas-rancher-hospitalised-disease-eating-dead-lamb-260624-20240608",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUlaWFY2VHpGQmFXWm9RMEkwVFJDZkF4ampCU2dLTWdtQkFZekRrbVU4SndJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUlaWFY2VHpGQmFXWm9RMEkwVFJDZkF4ampCU2dLTWdtQkFZekRrbVU4SndJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rare fungal STI spotted in US for the 1st time",
+      "snippet": "A difficult-to-treat form of ringworm can spread via sex and has now been seen in the U.S..",
+      "publisher": "Livescience.com",
+      "timestamp": "1717795042000",
+      "newsUrl": "https://www.livescience.com/health/viruses-infections-disease/rare-fungal-sti-spotted-in-us-for-the-1st-time",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNOVmRSWldGZmNXTnViVkJtVFJDZkF4ampCU2dLTWdhUmhaQUt0Z1k=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNOVmRSWldGZmNXTnViVkJtVFJDZkF4ampCU2dLTWdhUmhaQUt0Z1k"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How to find quality furniture",
+      "snippet": "Whether you're decorating an entire home or just looking for a few key pieces, buying furniture is a big — and sometimes overwhelming — task.",
+      "publisher": "The Washington Post",
+      "timestamp": "1717858800000",
+      "newsUrl": "https://www.washingtonpost.com/home/2024/06/08/expert-advice-shop-for-furniture/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNU1hbWRoYmxCSFVGYzJkV1puVFJDX0F4aXVCU2dLTWc0WklJWVBLR1lHbGNqaWdzS0VMQQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iNkNnNU1hbWRoYmxCSFVGYzJkV1puVFJDX0F4aXVCU2dLTWc0WklJWVBLR1lHbGNqaWdzS0VMQQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Girl in Australia, 2, struck with H5N1 bird flu: WHO",
+      "snippet": "A two-and-a-half-year-old girl tested positive for H5N1 bird flu and needed hospital intensive care treatment in Australia after traveling to India, ...",
+      "publisher": "Medical Xpress",
+      "timestamp": "1717840779000",
+      "newsUrl": "https://medicalxpress.com/news/2024-06-girl-australia-struck-h5n1-bird.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNXdUWG80U1ZSVGFYSjROME5WVFJEMkF4amlCQ2dLTWdzQkFJU2dpR2NrMHJqRnlB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNXdUWG80U1ZSVGFYSjROME5WVFJEMkF4amlCQ2dLTWdzQkFJU2dpR2NrMHJqRnlB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Intense Exercise May Sabotage Weight Loss Efforts",
+      "snippet": "Summary: Intense exercise can reduce subsequent physical activity and body temperature, potentially leading to weight gain. The research, conducted on mice, ...",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717877226000",
+      "newsUrl": "https://neurosciencenews.com/exercise-weight-loss-neuroscience-26273/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRUbFJaWHpselVtVnVZM2RVVFJEM0FSanlBaWdLTWdhTkFZaUtSUVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRUbFJaWHpselVtVnVZM2RVVFJEM0FSanlBaWdLTWdhTkFZaUtSUVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Blood, earwax and tears are key indicators of your health",
+      "snippet": "While often overlooked, a dry scalp, stuffy ears and crusted eyes are key indicators of your health.",
+      "publisher": "CNN",
+      "timestamp": "1717804140000",
+      "newsUrl": "https://www.cnn.com/2024/06/07/health/earwax-eye-discharge-wellness-partner/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDVObU5JZWxSd2EwbzRjbk40VFJDZkF4amlCU2dLTWdtZFFvSXZvU0tUc3dB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDVObU5JZWxSd2EwbzRjbk40VFJDZkF4amlCU2dLTWdtZFFvSXZvU0tUc3dB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "World Brain Tumour Day 2024: Date, theme, history, significance and all you want to know",
+      "snippet": "World Brain Tumour Day is observed every June 8 to raise awareness about the deadly disease and need to support those suffering from it.",
+      "publisher": "Hindustan Times",
+      "timestamp": "1717762435000",
+      "newsUrl": "https://www.hindustantimes.com/lifestyle/health/world-brain-tumour-day-2024-date-theme-history-significance-and-all-you-want-to-know-101717761892376.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDNSVVpEZDIxZmRtczFTbFJmVFJDZkF4amlCU2dLTWdhaGhKVE1NUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDNSVVpEZDIxZmRtczFTbFJmVFJDZkF4amlCU2dLTWdhaGhKVE1NUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Tips to repel mosquitoes this summer",
+      "snippet": "MINNEAPOLIS — The first few weeks of unofficial summer in Minnesota have already been a rollercoaster — tornadoes, heat waves, cooldowns and rain... so much ...",
+      "publisher": "KARE11.com",
+      "timestamp": "1717799580000",
+      "newsUrl": "https://www.kare11.com/article/news/local/prevent-mosquitoes-this-summer-with-these-tips/89-0870fe90-e967-4188-a8e3-152e77df9a07",
+      "hasSubnews": false
+    },
+    {
+      "title": "Bird flu detected in Austin wastewater",
+      "snippet": "Austin Public Health announced Thursday that the Texas Epidemic Public Health Institute had detected traces of H5N1, or bird flu, in the city's wastewater, ...",
+      "publisher": "KXAN.com",
+      "timestamp": "1717796156000",
+      "newsUrl": "https://www.kxan.com/news/local/austin/bird-flu-detected-in-austin-wastewater/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVlakZNZG1KRmFteGlaV3hHVFJERUF4aW1CU2dLTWdZeElJeVJvQWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTVlakZNZG1KRmFteGlaV3hHVFJERUF4aW1CU2dLTWdZeElJeVJvQWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "What happens when you take too much caffeine",
+      "snippet": "Caffeine is an active ingredient in some of the world's favourite drinks and has a powerful effect on humans. What happens if you take too much?",
+      "publisher": "BBC.com",
+      "timestamp": "1717751103000",
+      "newsUrl": "https://www.bbc.com/future/article/20240605-what-happens-if-you-take-too-much-caffeine-and-how-much-is-too-much",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVOM2x1UlV0bGVXOVZTbGhZVFJDb0FSaXNBaWdCTWdheEk1SlFtUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVOM2x1UlV0bGVXOVZTbGhZVFJDb0FSaXNBaWdCTWdheEk1SlFtUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mediterranean Diet Can Lower Mortality Risk for Women, What to Know",
+      "snippet": "A new study found that sticking to the Mediterranean diet was linked with a decreased risk of all-cause mortality in women.",
+      "publisher": "AOL",
+      "timestamp": "1717763102000",
+      "newsUrl": "https://www.aol.com/mediterranean-diet-lower-mortality-risk-142705922.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVlOVWRuTVhoTlZ6Rk5NRFZ1VFJDb0FSaXNBaWdCTWdtQkFvZ25NbVUxUUFN=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVlOVWRuTVhoTlZ6Rk5NRFZ1VFJDb0FSaXNBaWdCTWdtQkFvZ25NbVUxUUFN"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "1 in 6 Who Quit Antidepressants Experience Symptoms",
+      "snippet": "A new study found about 1 in 6 who stop taking an antidepressant will experience 'discontinuation symptoms', but only 1 in 35 will have severe symptoms.",
+      "publisher": "Newsmax",
+      "timestamp": "1717778018000",
+      "newsUrl": "https://www.newsmax.com/health/health-news/antidepressants-stop-symptoms/2024/06/07/id/1167869/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iKENnNUZVMVkxYVVOMWVsVlNkMVJCVFJCa0dIZ29DaklHRlNLS1NaWUs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iKENnNUZVMVkxYVVOMWVsVlNkMVJCVFJCa0dIZ29DaklHRlNLS1NaWUs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "PSA: If you use cannabis you should also consume soy products.",
+      "snippet": "Bad news for me and other cannabis users. A recent Stanford study found that People who use marijuana have an increased risk of heart disease and heart ...",
+      "publisher": "Daily Kos",
+      "timestamp": "1717870669000",
+      "newsUrl": "https://www.dailykos.com/stories/2024/6/8/2245563/-PSA-If-you-use-cannabis-you-should-also-consume-soy-products",
+      "hasSubnews": false
+    },
+    {
+      "title": "Menopause treatments can help with hot flashes and other symptoms – but many people aren't aware of the latest advances",
+      "snippet": "The number of patients prescribed hormonal therapy plummeted after 2002, due to findings experts have since questioned. With better understanding, more and ...",
+      "publisher": "The Conversation Indonesia",
+      "timestamp": "1717764101000",
+      "newsUrl": "https://theconversation.com/menopause-treatments-can-help-with-hot-flashes-and-other-symptoms-but-many-people-arent-aware-of-the-latest-advances-230376",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZVa0ZYY1dKNE1GWTJjMEphVFJDbUFSaXdBaWdCTWdhQlFZQ3RHUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZVa0ZYY1dKNE1GWTJjMEphVFJDbUFSaXdBaWdCTWdhQlFZQ3RHUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How Many Steps Do You Need for Maximum Health Benefits?",
+      "snippet": "Because older people work harder for each step, they need fewer steps than young people to achieve maximum health benefits, a major study found.",
+      "publisher": "Barron's",
+      "timestamp": "1717880760000",
+      "newsUrl": "https://www.barrons.com/articles/how-many-steps-f66cac62",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJhamRmVmtacU5XUkVNbEZ5VFJDcUJCaXFCQ2dLTWdhWlU1S0xJUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJhamRmVmtacU5XUkVNbEZ5VFJDcUJCaXFCQ2dLTWdhWlU1S0xJUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "COVID-19 may be linked to rare cancers: Doctors",
+      "snippet": "Otherwise healthy people who've made it through COVID-19 are developing rare, serious cancers and often more than one type, according to doctors.",
+      "publisher": "NewsNation Now",
+      "timestamp": "1717802633000",
+      "newsUrl": "https://www.newsnationnow.com/health/coronavirus/covid-linked-to-rare-cancers-doctors/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVRNRU5EZFhWdGFVdERXVXBtVFJDZkF4ampCU2dLTWdrQkFwQkJIZWVCSlFN=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVRNRU5EZFhWdGFVdERXVXBtVFJDZkF4ampCU2dLTWdrQkFwQkJIZWVCSlFN"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "This Summer Health Risk Affects 1 in 10 Americans",
+      "snippet": "One in 10 Americans will suffer from kidney stones this summer due to dehydration and too much salt, fat, and sugar in their diet.",
+      "publisher": "Newsmax",
+      "timestamp": "1717782243000",
+      "newsUrl": "https://www.newsmax.com/health/health-news/kidney-stones-summer-dehydration/2024/06/07/id/1167883/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iKENnNVZORGR0Ymtwb1dqWldla1pHVFJCa0dIZ29DaklHb1FLTVVBVUc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iKENnNVZORGR0Ymtwb1dqWldla1pHVFJCa0dIZ29DaklHb1FLTVVBVUc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Residents warned of potential measles exposure at central New Jersey hospital",
+      "snippet": "The New Jersey Health Department is warning residents of a potential measles exposure.",
+      "publisher": "WPVI-TV",
+      "timestamp": "1717797097000",
+      "newsUrl": "https://6abc.com/post/residents-warned-potential-measles-exposure-penn-medicine-princeton/14922911/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhhemxDY2pnNU9UZHhORGROVFJDb0FSaXJBaWdCTWdhRk1wckZvZ2c=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhhemxDY2pnNU9UZHhORGROVFJDb0FSaXJBaWdCTWdhRk1wckZvZ2c"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Thirdhand smoke - lingering on carpets and furniture long after cigarette is out - can be harmful to kids",
+      "snippet": "We all know the facts on the dangers of smoking: It's is the leading cause of preventable death in the United States, causing 480,000 deaths each year.",
+      "publisher": "KABC-TV",
+      "timestamp": "1717828469000",
+      "newsUrl": "https://abc7.com/post/thirdhand-smoke-lingering-carpets-furniture-long-after-cigarette/14923410/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5RM0UwUzNGaE1VOXpRMnhrVFJDZkF4ampCU2dLTWdhUkVZQW40UUU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5RM0UwUzNGaE1VOXpRMnhrVFJDZkF4ampCU2dLTWdhUkVZQW40UUU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Microplastics in every human semen, sperm motility at risk: Study",
+      "snippet": "A representative image of small plastic pellets on the finger. iStock. Researchers have found microplastics in the every semen samples they tested.",
+      "publisher": "Interesting Engineering",
+      "timestamp": "1717844400000",
+      "newsUrl": "https://interestingengineering.com/science/microplastics-in-human-semen-sperm-risk",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVXR2hYUVhwVlltd3RhMEZwVFJDZkF4ampCU2dLTWdhWmdwQnRzUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVXR2hYUVhwVlltd3RhMEZwVFJDZkF4ampCU2dLTWdhWmdwQnRzUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rabid cat bites woman in Wake Forest",
+      "snippet": "The woman was bit near the intersection of U.S. Route 401 and Pulley Town Road in Wake Forest.",
+      "publisher": "WRAL News",
+      "timestamp": "1717777680000",
+      "newsUrl": "https://www.wral.com/story/rabid-cat-bites-woman-in-wake-forest/21471568/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVVVkZTWTJWVk9WTTRaMnBuVFJEb0FoaUFCU2dLTWdZUlVJcVdIQWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVVVkZTWTJWVk9WTTRaMnBuVFJEb0FoaUFCU2dLTWdZUlVJcVdIQWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Iron hands and other prostheses have been around for hundreds of years",
+      "snippet": "The human body today has many replaceable parts, ranging from artificial hearts to myoelectric feet. What makes this possible is not just complicated ...",
+      "publisher": "The Washington Post",
+      "timestamp": "1717855200000",
+      "newsUrl": "https://www.washingtonpost.com/health/2024/06/08/amputation-prostheses-limbs-civil-war/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNU1abVF3ZUVKQ2JVNUJWamhWVFJEWkF4aUpCU2dLTWd1UlFZN3lIT21oVU5tZ2V3=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNU1abVF3ZUVKQ2JVNUJWamhWVFJEWkF4aUpCU2dLTWd1UlFZN3lIT21oVU5tZ2V3"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "This stage of sleep is crucial for preventing Alzheimer's: new study",
+      "snippet": "The key to keeping your wits about you as you age may lie in shut-eye during midlife. A study found that people over 60 who didn't get enough slow-wave ...",
+      "publisher": "New York Post ",
+      "timestamp": "1717791120000",
+      "newsUrl": "https://nypost.com/2024/06/07/lifestyle/this-sleep-stage-is-crucial-in-preventing-alzheimers-study/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVkMGs0Y2tSWFMxUmlSR0ZzVFJERUF4aW5CU2dLTWdhcG9veFF2UVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVkMGs0Y2tSWFMxUmlSR0ZzVFJERUF4aW5CU2dLTWdhcG9veFF2UVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Lying To Your Therapist Is Being Superseded By Telling The Truth To Generative AI",
+      "snippet": "Surprisingly, people often lie to their therapist. The question now is whether people will lie or actually be bluntly truthful when using generative AI for ...",
+      "publisher": "Forbes",
+      "timestamp": "1717851600000",
+      "newsUrl": "https://www.forbes.com/sites/lanceeliot/2024/06/08/lying-to-your-therapist-is-being-superseded-by-telling-the-truth-to-generative-ai/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRNMlJaTFd4b2NHbHdWalJqVFJERUF4aW1CU2dLTWdZeEFZcnhtQWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRNMlJaTFd4b2NHbHdWalJqVFJERUF4aW1CU2dLTWdZeEFZcnhtQWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Is intermittent fasting better than counting calories? Maybe not, but you might stick with it",
+      "snippet": "Intermittent fasting, where people eat what they want, but only during certain daily windows of time, has skyrocketed in popularity in recent years.",
+      "publisher": "ABC News",
+      "timestamp": "1717763914000",
+      "newsUrl": "https://abcnews.go.com/Health/wireStory/intermittent-fasting-counting-calories-stick-110737572",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFNbVpaTkZOWWJ5MVpVeTAyVFJDZkF4ampCU2dLTWdZWkVKQXNJUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTFNbVpaTkZOWWJ5MVpVeTAyVFJDZkF4ampCU2dLTWdZWkVKQXNJUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Dermatologist-Loved Products For Thicker, Fuller Hair",
+      "snippet": "Experts suggest shampoos, treatments and other tools to help manage hair loss and excessive shedding.",
+      "publisher": "HuffPost",
+      "timestamp": "1717839900000",
+      "newsUrl": "https://www.huffpost.com/entry/products-for-hair-loss-dermatologist-ud_l_665a2353e4b08f9fa140ae02",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdPRlpWTXpVd2RWZzNhRVZxVFJDYUFoajBBeWdLTWdtUk1ZclVyT1NSeUFF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHdPRlpWTXpVd2RWZzNhRVZxVFJDYUFoajBBeWdLTWdtUk1ZclVyT1NSeUFF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Lyme Disease cases grow due to warm weather",
+      "snippet": "Doctors say to watch for Deer Ticks this summer as there is a higher risk of developing Lyme Disease.",
+      "publisher": "KARE11.com",
+      "timestamp": "1717767540000",
+      "newsUrl": "https://www.kare11.com/article/news/local/kare11-sunrise/lyme-disease-cases-growing-due-in-part-to-a-warm-weather-deer-ticks/89-a76c0317-b004-4dc7-8f3a-b54bbe73a794",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFPV05JZDIxdWRIQmtXREZNVFJDZkF4ampCU2dLTWdZMVVwUXhKUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVFPV05JZDIxdWRIQmtXREZNVFJDZkF4ampCU2dLTWdZMVVwUXhKUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists Discover Naturally Occurring Gut Molecule That Can Prevent and Treat the Flu",
+      "snippet": "Researchers at the State University of Campinas in Brazil and the Pasteur Institute in Lille, France, conducted experiments on mice and discovered that ...",
+      "publisher": "SciTechDaily",
+      "timestamp": "1717881246000",
+      "newsUrl": "https://scitechdaily.com/scientists-discover-naturally-occurring-gut-molecule-that-can-prevent-and-treat-the-flu/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhla00wV1RWYVdHaDRSM3BHVFJERUF4aW1CU2dLTWdZQkVZenlNQVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUhla00wV1RWYVdHaDRSM3BHVFJERUF4aW1CU2dLTWdZQkVZenlNQVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Thousands of Sources for New Antibiotics to Fight Superbugs Found Using AI–and Dozens Worked",
+      "snippet": "Hundreds of thousands of potential sources of new antibiotics have been found in the natural world using artificial intelligence.",
+      "publisher": "Good News Network",
+      "timestamp": "1717758016000",
+      "newsUrl": "https://www.goodnewsnetwork.org/thousands-of-sources-for-new-antibiotics-to-fight-superbugs-found-using-ai-and-dozens-worked/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpPVEpaVkVkdmRUbDRlbUp2VFJDa0F4amJCU2dLTWdZeEpZcXZGUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpPVEpaVkVkdmRUbDRlbUp2VFJDa0F4amJCU2dLTWdZeEpZcXZGUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Pandemic Reveals Unexpected Resilience in Isolated Seniors",
+      "snippet": "Socially connected older adults in England experienced a sharper decline in quality of life and increased loneliness during the pandemic compared to their ...",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717874951000",
+      "newsUrl": "https://neurosciencenews.com/social-isolation-resilience-26272/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9lRFZTU1haMFYyaFNSVnBsVFJERUF4aW1CU2dLTWdZUmVJNkhMZ2M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9lRFZTU1haMFYyaFNSVnBsVFJERUF4aW1CU2dLTWdZUmVJNkhMZ2M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "For Alzheimer’s patients, eating pomegranates could help alleviate symptoms, study says: ‘Promising results’",
+      "snippet": "Eating more pomegranates, strawberries and walnuts could help improve memory among Alzheimer's patients, a new study has found. Nutritionists react to the ...",
+      "publisher": "Fox News",
+      "timestamp": "1717759860000",
+      "newsUrl": "https://www.foxnews.com/health/alzheimers-patients-eating-pomegranates-could-help-alleviate-symptoms-study-promising-results",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRWa1JrUkMxQ1ozWlVPVFJCVFJDZkF4ampCU2dLTWdhRlZKSW9vZ2c=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRWa1JrUkMxQ1ozWlVPVFJCVFJDZkF4ampCU2dLTWdhRlZKSW9vZ2c"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Doctors are 'sounding the alarm' over energy drinks, linked to sudden heart attack",
+      "snippet": "Energy drinks are the go-to go go juice for many people looking to battle back fatigue and put a carbonated pep in their proverbial step, ...",
+      "publisher": "New York Post ",
+      "timestamp": "1717769644000",
+      "newsUrl": "https://nypost.com/2024/06/07/lifestyle/doctors-are-sounding-the-alarm-over-energy-drinks-linked-to-sudden-heart-attack/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUNTVnBDVTJrMWFsZHNSWGRmVFJERUF4aW1CU2dLTWdrQkFJSmlsQ1R3amdF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUNTVnBDVTJrMWFsZHNSWGRmVFJERUF4aW1CU2dLTWdrQkFJSmlsQ1R3amdF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Most women don’t know favorite drink causes cancer",
+      "snippet": "In our research, we were surprised to find that only 1 in 4 of these women knew of this risk factor for breast cancer. Even more concerning, 35% didn't ...",
+      "publisher": "OregonLive",
+      "timestamp": "1717876380000",
+      "newsUrl": "https://www.oregonlive.com/health/2024/06/most-women-dont-know-favorite-drink-causes-cancer.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdZbWd5YTJOUU4wWkNTbmgzVFJET0F4aVlCU2dLTWdrQkVKYkFHQ3V4UkFN=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHdZbWd5YTJOUU4wWkNTbmgzVFJET0F4aVlCU2dLTWdrQkVKYkFHQ3V4UkFN"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Want a Better Brain? Neuroscience Says Learning to Manage Stress Improves Cognition and Helps You Live Better Longer",
+      "snippet": "It's a compelling concept, and another good reason to do things that make you feel better.",
+      "publisher": "Inc.",
+      "timestamp": "1717838940000",
+      "newsUrl": "https://www.inc.com/bill-murphy-jr/want-a-better-brain-neuroscience-says-1-simple-habit-improves-cognition-helps-you-live-better-longer.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUxXQzFHUkRScVFqRmZYM2xVVFJEU0FoallCQ2dLTWdrZEpKYktGYXBrU1FJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUxXQzFHUkRScVFqRmZYM2xVVFJEU0FoallCQ2dLTWdrZEpKYktGYXBrU1FJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The 7 Best High-Protein Foods to Eat for Breakfast, According to Dietitians",
+      "snippet": "Increasing protein at breakfast helps you feel full, manages your blood sugar and improves heart health. These are the best high-protein foods to eat.",
+      "publisher": "EatingWell",
+      "timestamp": "1717844400000",
+      "newsUrl": "https://www.eatingwell.com/best-high-protein-foods-to-eat-for-breakfast-8659249",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWphRGxuT0hWdFZVVkNTSEZoVFJESEF4aWlCU2dLTWdhaFpKRE1LUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWphRGxuT0hWdFZVVkNTSEZoVFJESEF4aWlCU2dLTWdhaFpKRE1LUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "New bariatric surgery technique leads to drastic weight loss for North Texas man",
+      "snippet": "Doctors performed a new way of gastric bypass surgery that they say results in fewer incisions and faster recoveries.",
+      "publisher": "NBC DFW",
+      "timestamp": "1717815593000",
+      "newsUrl": "https://www.nbcdfw.com/news/health/bariatric-surgery-weight-loss-magnets/3562634/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDViRXBaY1VsWVNuSlJiVWhQVFJDZkF4ampCU2dLTWdtQkE0SndFYXQ3MVFB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDViRXBaY1VsWVNuSlJiVWhQVFJDZkF4ampCU2dLTWdtQkE0SndFYXQ3MVFB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Large US trial to test online programs for treating MS fatigue",
+      "snippet": "A large U.S. study will evaluate whether online programs can help people with multiple sclerosis manage their fatigue.",
+      "publisher": "Multiple Sclerosis News Today",
+      "timestamp": "1717781045000",
+      "newsUrl": "https://multiplesclerosisnewstoday.com/news-posts/2024/06/07/large-us-trial-test-online-programs-treating-ms-fatigue/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdSR2RTUzNOc2VHUlhaRGhDVFJEZUFoaThCU2dLTWdhcGRJNnRMUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdSR2RTUzNOc2VHUlhaRGhDVFJEZUFoaThCU2dLTWdhcGRJNnRMUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Epstein-Barr Virus Plays Critical Role in Multiple Sclerosis",
+      "snippet": "Epstein-Barr Virus (EBV) may cause multiple sclerosis (MS) through higher levels of immune cross-reactivity than previously thought.",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717788224000",
+      "newsUrl": "https://neurosciencenews.com/epstein-barr-virus-multiple-sclerosis-26268/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVVR0oyV0RWdk4xVmxRbkJqVFJERUF4aW1CU2dLTWdiQllKQzFxQWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVVR0oyV0RWdk4xVmxRbkJqVFJERUF4aW1CU2dLTWdiQllKQzFxQWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Unregulated drug 100 times stronger than fentanyl found in CNY",
+      "snippet": "The New York State Department of Health has issued a Public Health Alert after detecting a dangerous mix of drugs found in unregulated substances in the ...",
+      "publisher": "NEWS10 ABC",
+      "timestamp": "1717812867000",
+      "newsUrl": "https://www.news10.com/news/unregulated-drug-100-times-stronger-than-fentanyl-found-in-cny/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5OMDVvWTBKWWJVZFFlR1V5VFJDZkF4ampCU2dLTWdZSkFZem9EQWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5OMDVvWTBKWWJVZFFlR1V5VFJDZkF4ampCU2dLTWdZSkFZem9EQWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "My four month hospital saga finally coming to an end",
+      "snippet": "In early February I had a flare up of a MRSA outbreak, it caused a large pustule to form on my jaw that made it hard to eat, drink, or sleep.",
+      "publisher": "Daily Kos",
+      "timestamp": "1717858823000",
+      "newsUrl": "https://www.dailykos.com/stories/2024/6/8/2245492/-My-four-month-hospital-saga-finally-coming-to-an-end",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWphVVZyU0ZWcVdFNWxhM0ZCVFJDM0FSaVRBaWdCTWdZQlVZYU1OUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWphVVZyU0ZWcVdFNWxhM0ZCVFJDM0FSaVRBaWdCTWdZQlVZYU1OUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The truth about ‘ghost poos’ and how they’re a sign you’re either mega healthy or at risk of swollen veins...",
+      "snippet": "HAVE you ever taken a runaway poop?Elusive excretions, or whatever you call them, don't leave a trace on the loo paper or down the toilet bowl.Even wh.",
+      "publisher": "The US Sun",
+      "timestamp": "1717855200000",
+      "newsUrl": "https://www.the-sun.com/health/11575990/ghost-poos-meaning-truth-constipation-piles-healthy/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJkSGRLYnpCVlRXVmtNa3R5VFJDZkF4ampCU2dLTWdhcEJJaXV4UVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJkSGRLYnpCVlRXVmtNa3R5VFJDZkF4ampCU2dLTWdhcEJJaXV4UVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Doctors dismissed my symptoms as allergies, then I was diagnosed with CANCER on my 26th birthday - these are t",
+      "snippet": "A comedy writer was diagnosed with cancer on her birthday after initially mistaking her symptoms for bad allergies. Advertisement.",
+      "publisher": "Daily Mail",
+      "timestamp": "1717766787000",
+      "newsUrl": "https://www.dailymail.co.uk/health/article-13476923/kelsey-riddle-texas-doctors-allergies-diagnosis.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdjVUZvVXkxZmIydHZMVkJxVFJDZkF4ampCU2dLTWdZeFlZelZ0QVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdjVUZvVXkxZmIydHZMVkJxVFJDZkF4ampCU2dLTWdZeFlZelZ0QVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Night owls beware: Late bedtimes linked to higher risk of depression and anxiety",
+      "snippet": "Staying up late, even if you're a night owl, is linked to higher risks of depression and anxiety. This surprising study suggests that an earlier bedtime ...",
+      "publisher": "PsyPost",
+      "timestamp": "1717776669000",
+      "newsUrl": "https://www.psypost.org/night-owls-beware-late-bedtimes-linked-to-higher-risk-of-depression-and-anxiety/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpTRlZ3VlRGRVZtMVlPVkpxVFJDSEF4aVBCaWdLTWdhMUpJNlFIUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpTRlZ3VlRGRVZtMVlPVkpxVFJDSEF4aVBCaWdLTWdhMUpJNlFIUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Carl Sagan's future 'celebration of ignorance' prediction from 1995 was spookily spot on",
+      "snippet": "A quote from Carl Sagan's 1995 book, \"The Demon-Haunted World: Science as a Candle in the Dark,\" has people discussing his ability to see future challenges ...",
+      "publisher": "Upworthy",
+      "timestamp": "1717872517000",
+      "newsUrl": "https://www.upworthy.com/carl-sagans-1995-predictions-of-ignorance-and-pseudoscience-were-spookily-accurate",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhSMGx1ZVROV2RUaFFUak5PVFJERUF4aW1CU2dLTWdZUklaQ0hHZ28=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhSMGx1ZVROV2RUaFFUak5PVFJERUF4aW1CU2dLTWdZUklaQ0hHZ28"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "7 Foods to Avoid With High Blood Pressure, Doctors Say — Best Life",
+      "snippet": "According to doctors, these are the foods to avoid with high blood pressure, from fatty foods to those with a high sodium content.",
+      "publisher": "Best Life",
+      "timestamp": "1717755842000",
+      "newsUrl": "https://bestlifeonline.com/foods-to-avoid-with-high-blood-pressure/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUtiMHRrVFdWNWVGcHFNSGRRVFJEb0FoaUFCU2dLTWdhVkU0cHZGUXM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUtiMHRrVFdWNWVGcHFNSGRRVFJEb0FoaUFCU2dLTWdhVkU0cHZGUXM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Woman with anorexia 'had to get worse to get help'",
+      "snippet": "Rheanna Hazel wants support criteria reviewed after she had to lose more weight to qualify for help.",
+      "publisher": "BBC.com",
+      "timestamp": "1717829976000",
+      "newsUrl": "https://www.bbc.com/news/articles/c4n1yvy1vl6o",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVViMVpXVjI1eWNFVjZkSHBFVFJDZkF4ampCU2dLTWdZeEJKSndsUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVViMVpXVjI1eWNFVjZkSHBFVFJDZkF4ampCU2dLTWdZeEJKSndsUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Gavi board approves 2030 strategy; new vaccines; key decisions on vaccine sovereignty and health security initiatives",
+      "snippet": "The Gavi Board today approved the Vaccine Alliance's strategy for the five-year period running from 2026 to 2030.",
+      "publisher": "Gavi, the Vaccine Alliance",
+      "timestamp": "1717776996000",
+      "newsUrl": "https://www.gavi.org/news/media-room/gavi-board-approves-2030-strategy-new-vaccines-key-decisions-vaccine-sovereignty",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWxhR1UxYVRGYWNFRlRTMVl4VFJDM0FSaVRBaWdCTWdtQk00eHRzYVdhS2dJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWxhR1UxYVRGYWNFRlRTMVl4VFJDM0FSaVRBaWdCTWdtQk00eHRzYVdhS2dJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Brain 'Overgrowth' in Babies Linked to Autism",
+      "snippet": "Severe forms of autism could be linked to overgrowth of the brain's outer layer that starts while a baby is in the womb, a new study finds.",
+      "publisher": "Newsmax",
+      "timestamp": "1717762147000",
+      "newsUrl": "https://www.newsmax.com/health/health-news/brain-cerebral-cortex-larger/2024/06/07/id/1167839/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iKENnNDVSVmt3Y1hrMFdGcHpaVXBRVFJCa0dIZ29DaklHSFJDS3NDUUY=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iKENnNDVSVmt3Y1hrMFdGcHpaVXBRVFJCa0dIZ29DaklHSFJDS3NDUUY"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Viagra Shows Promise in Boosting Brain Blood Flow for Dementia Prevention",
+      "snippet": "A new study reveals that sildenafil (Viagra) enhances brain blood flow and improves blood vessel function in patients at risk of vascular dementia.",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717877933000",
+      "newsUrl": "https://neurosciencenews.com/viagra-dementia-neurology-26274/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJXR3hKYTI5UVIzRlVWR1ZIVFJEM0FSanlBaWdLTWdhZEVvaXNxUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJXR3hKYTI5UVIzRlVWR1ZIVFJEM0FSanlBaWdLTWdhZEVvaXNxUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "‘Natty or not?’: how steroids got big",
+      "snippet": "The long read: Once upon a time, it was only hardcore bodybuilders who pumped themselves up with testosterone. Today it is no longer niche.",
+      "publisher": "The Guardian",
+      "timestamp": "1717753920000",
+      "newsUrl": "https://www.theguardian.com/society/article/2024/jun/06/how-steroids-got-big-bodybuilding-influencers",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVlVRWxwZG05WE0waGZNMnhDVFJDUkF4ajhCU2dLTWdzQkFJUnBGYWt0bHdpMnVB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVlVRWxwZG05WE0waGZNMnhDVFJDUkF4ajhCU2dLTWdzQkFJUnBGYWt0bHdpMnVB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Some ultra-processed foods may be healthier than homemade: scientist",
+      "snippet": "Ultra-processed foods vary widely in their nutrition. In some cases, a store-bought stir fry may be better for you than homemade ice cream.",
+      "publisher": "Business Insider",
+      "timestamp": "1717784880000",
+      "newsUrl": "https://www.businessinsider.com/some-ultra-processed-foods-may-be-healthier-than-homemade-scientist-2024-6",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVBSbVYzWlVWNFpHcDNjRXRsVFJEZ0F4aUFCU2dLTWdrQkFJeUlFU2ROcFFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVBSbVYzWlVWNFpHcDNjRXRsVFJEZ0F4aUFCU2dLTWdrQkFJeUlFU2ROcFFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Are strawberries good for you? Vitamins, calories and benefits",
+      "snippet": "In addition to their antioxidant and dietary fiber content, strawberries contain protein, calcium, vitamin A, iron, magnesium and potassium.",
+      "publisher": "USA TODAY",
+      "timestamp": "1717840924000",
+      "newsUrl": "https://www.usatoday.com/story/life/health-wellness/2024/06/08/are-strawberries-good-for-you/73711792007/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNDVWVVJMWDBSUGRYQXhlWEZVVFJEekFoaVVCU2dLTWc0RkFJcUlKZVdaNTJwd2lsTGxGZw=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iNkNnNDVWVVJMWDBSUGRYQXhlWEZVVFJEekFoaVVCU2dLTWc0RkFJcUlKZVdaNTJwd2lsTGxGZw"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "I Tried Topicals Ingrown Hair Tonic",
+      "snippet": "Hi! I'm Ajani, a writer here at BuzzFeed, and I've barely clean-shaven my face in the last three years because I would get a bunch of unflattering ingrown ...",
+      "publisher": "BuzzFeed",
+      "timestamp": "1717784162000",
+      "newsUrl": "https://www.buzzfeed.com/ajanibazile/topicals-ingrown-hair-tonic",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpTV3h0TkVoMU5sbEZkV2R0VFJEMEJCam9BeWdLTWdZWk40WXFuZ2s=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpTV3h0TkVoMU5sbEZkV2R0VFJEMEJCam9BeWdLTWdZWk40WXFuZ2s"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "MDMA, Juul and a cardiovascular disease study. 3 health stories you may have missed — and why they matter",
+      "snippet": "Why did an FDA panel reject MDMA as a mental health treatment? What to know.",
+      "publisher": "Yahoo Life",
+      "timestamp": "1717837241000",
+      "newsUrl": "https://www.yahoo.com/lifestyle/mdma-juul-and-a-cardiovascular-disease-study-3-health-stories-you-may-have-missed--and-why-they-matter-090041164.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpSVUY0UzNNeE5UWkZhR3hYVFJDdUF4aUFCU2dLTWdZQmtKSk9PUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpSVUY0UzNNeE5UWkZhR3hYVFJDdUF4aUFCU2dLTWdZQmtKSk9PUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Is sugar to blame for non-alcoholic fatty liver?",
+      "snippet": "The evidence linking sugar, especially fructose, to non-alcoholic fatty liver disease is compelling. Reducing sugar intake can significantly improve l.",
+      "publisher": "The Times of India",
+      "timestamp": "1717824600000",
+      "newsUrl": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/is-sugar-to-blame-for-non-alcoholic-fatty-liver/articleshow/110665576.cms",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRaRTFXUkRCemNXRXlURTVzVFJDZkF4ampCU2dLTWdhZFk0NExxZ2M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRaRTFXUkRCemNXRXlURTVzVFJDZkF4ampCU2dLTWdhZFk0NExxZ2M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "FYI, Those Annoying White Strings On Bananas Actually Have A Purpose",
+      "snippet": "They're called phloem bundles, and knowing about them makes it a little harder to hate them so much.",
+      "publisher": "HuffPost",
+      "timestamp": "1717830258000",
+      "newsUrl": "https://www.huffpost.com/entry/fyi-those-annoying-white-strings-on-bananas-actually-have-a-purpose-ano_l_6661e9dde4b0c7a620db2bc5",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNTbFY0V200NFh6aEtiRjlXVFJDZkF4ampCU2dLTWdZUlFvd1RJUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNTbFY0V200NFh6aEtiRjlXVFJDZkF4ampCU2dLTWdZUlFvd1RJUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Brain's Oxygen Deprivation Mechanism Hinders Memory Formation",
+      "snippet": "Oxygen deprivation in the brain triggers a feedback loop involving glutamate and nitric oxide, causing anoxia induced long-term potentiation (aLTP).",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717788881000",
+      "newsUrl": "https://neurosciencenews.com/zltp-oxygen-memory-26269/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNPRE5MWlRsR2VrVjBXRXhGVFJERUF4aW1CU2dLTWdZWlZaU3NwUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNPRE5MWlRsR2VrVjBXRXhGVFJERUF4aW1CU2dLTWdZWlZaU3NwUWM"
+      },
+      "hasSubnews": false
+    }
+  ]
+}

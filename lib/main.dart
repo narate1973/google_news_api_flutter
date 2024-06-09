@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:google_new_api_test/home_page.dart';
+import 'package:google_new_api_test/main_page.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 void main() {
@@ -36,7 +36,7 @@ class MyApp extends HookWidget {
         ),
         useMaterial3: true,
       ),
-      home: MyHomePage(
+      home: MainPage(
         themeNotifier: themeMode,
         seedColor: seedColor,
       ),

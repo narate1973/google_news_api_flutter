@@ -1,0 +1,973 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "title": "SpaceX's Starship Rocket Successfully Completes 1st Return From Space",
+      "snippet": "The company achieved a key set of ambitious goals on the fourth test flight of a vehicle that is central to Elon Musk's vision of sending people to Mars.",
+      "publisher": "The New York Times",
+      "timestamp": "1717905981000",
+      "newsUrl": "https://www.nytimes.com/2024/06/06/science/spacex-starship-fourth-test-flight.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFZMUZWZFZneVh6RkZSRnBuVFJERUF4aW1CU2dLTWdhbE00N1BLUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFZMUZWZFZneVh6RkZSRnBuVFJERUF4aW1CU2dLTWdhbE00N1BLUWc"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "SpaceX wants to build 1 Starship megarocket a day with new Starfactory",
+          "snippet": "During a successful fourth flight test of Starship this week, SpaceX stated another big goal: Building one megarocket a day at its new Starfactory.",
+          "publisher": "Space.com",
+          "timestamp": "1717851607000",
+          "newsUrl": "https://www.space.com/spacex-starship-one-a-day-starfactory",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUZORm95TlRKRU5qSktibU5CVFJDZkF4ampCU2dLTWdQQjRRSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUZORm95TlRKRU5qSktibU5CVFJDZkF4ampCU2dLTWdQQjRRSQ"
+          }
+        },
+        {
+          "title": "China space watchers hail SpaceX Starship's 'breathtaking' test flight",
+          "snippet": "Chinese space enthusiasts and media outlets have highly praised Thursday's performance of SpaceX's Starship rocket, after both stages made it back to Earth ...",
+          "publisher": "South China Morning Post",
+          "timestamp": "1717732817000",
+          "newsUrl": "https://www.scmp.com/news/china/science/article/3265714/china-space-watchers-hail-spacex-starships-breathtaking-test-flight",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJZWEZJTkV0aFNUTlVRemc0VFJDcUJCaXFCQ2dLTWdZQkVJYXNLUVE=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJZWEZJTkV0aFNUTlVRemc0VFJDcUJCaXFCQ2dLTWdZQkVJYXNLUVE"
+          }
+        },
+        {
+          "title": "Starship's Successful Test Moves SpaceX One Step Closer to Mars",
+          "snippet": "SpaceX has completed a mostly successful fourth test of its revolutionary new Starship rocket, a key step toward returning humans to the Moon and, maybe one ...",
+          "publisher": "WIRED",
+          "timestamp": "1717693182000",
+          "newsUrl": "https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlNalpxT0VFM1YxTlZVelpFVFJERUF4aW1CU2dLTWdZdFZJaU9wUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlNalpxT0VFM1YxTlZVelpFVFJERUF4aW1CU2dLTWdZdFZJaU9wUVk"
+          }
+        },
+        {
+          "title": "SpaceX’s massive Super Heavy-Starship returns to Earth without exploding after first full test flight",
+          "snippet": "SpaceX's Super Heavy-Starship rocket launched from Texas on Thursday and returned to Earth without exploding in a landmark test for the company.",
+          "publisher": "Fox Business",
+          "timestamp": "1717696320000",
+          "newsUrl": "https://www.foxbusiness.com/technology/spacexs-massive-super-heavy-starship-returns-earth-without-exploding-first-full-test-flight",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlVbTVxYTFsNllsUXdkRTFIVFJDZkF4ampCU2dLTWdZQkFJSnJyUUk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWlVbTVxYTFsNllsUXdkRTFIVFJDZkF4ampCU2dLTWdZQkFJSnJyUUk"
+          }
+        },
+        {
+          "title": "SpaceX's fourth Starship test is the first one to reach splashdown",
+          "snippet": "The fourth Starship Super Heavy flight test has ended with a splashdown in the Indian Ocean. The vehicle launched from its pad in Texas at 8:50AM ET, ...",
+          "publisher": "The Verge",
+          "timestamp": "1717686846000",
+          "newsUrl": "https://www.theverge.com/2024/6/6/24172689/spacex-starship-fourth-flight-test-launch-success",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVRbWhtTFRsWVNrczNaRzl1VFJDcUJCaXFCQ2dLTWdhcEZZRHVGUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTVRbWhtTFRsWVNrczNaRzl1VFJDcUJCaXFCQ2dLTWdhcEZZRHVGUW8"
+          }
+        },
+        {
+          "title": "The World's Most Powerful Rocket Is One Step Closer to Mars",
+          "snippet": "On Thursday SpaceX's Starship—the spacecraft designed to ferry astronauts to the Moon and Mars—successfully survived a fiery reentry into Earth's atmosphere ...",
+          "publisher": "Popular Mechanics",
+          "timestamp": "1717704720000",
+          "newsUrl": "https://www.popularmechanics.com/space/rockets/a61019322/starship-test-flight/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVFNMGc0TlVoNmJteFFOSEZxVFJDcUJCaXBCQ2dLTWdPeE5RSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVFNMGc0TlVoNmJteFFOSEZxVFJDcUJCaXBCQ2dLTWdPeE5RSQ"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Apollo 8 astronaut William Anders who took iconic ‘Earthrise’ photo dies in plane crash",
+      "snippet": "William Anders, a NASA astronaut who was part of the Apollo 8 crew who became the first three people to circle the moon, has died in a plane crash.",
+      "publisher": "CNN",
+      "timestamp": "1717820520000",
+      "newsUrl": "https://www.cnn.com/2024/06/07/science/apollo-8-astronaut-william-anders-reportedly-killed-in-plane-crash/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURjRzV1ZWxaNU5WODFOVkJqVFJDZkF4ampCU2dLTWdhcFpaTE9xUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURjRzV1ZWxaNU5WODFOVkJqVFJDZkF4ampCU2dLTWdhcFpaTE9xUWM"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Apollo 8 astronaut behind iconic photo killed in plane crash",
+          "snippet": "SEATTLE – Apollo 8 astronaut William Anders, who was credited with taking one of the most iconic photos of the Earth and Moon, died Friday during a plane ...",
+          "publisher": "Fox Weather ",
+          "timestamp": "1717815840000",
+          "newsUrl": "https://www.foxweather.com/earth-space/apollo-mission-nasa-william-anders",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXlNa3BQVFhscmFrNHlYeTFJVFJDSEF4aVBCaWdLTWdZeFpKaHZLUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXlNa3BQVFhscmFrNHlYeTFJVFJDSEF4aVBCaWdLTWdZeFpKaHZLUWc"
+          }
+        },
+        {
+          "title": "NASA astronaut Bill Anders dies in plane crash in Washington | king5.com",
+          "snippet": "DEER HARBOR, Wash. — Former NASA Astronaut William \"Bill\" Anders was flying the plane that crashed in the waters of the San Juan Islands on Friday, his son, ...",
+          "publisher": "KING5.com",
+          "timestamp": "1717791480000",
+          "newsUrl": "https://www.king5.com/article/news/local/officials-respond-reported-plane-crash-near-orcas-island/281-c3eab84d-d797-4ae9-b5a5-5907ed07e93d",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1YelJqV0hKbFZrZEtTRTV3VFJDZkF4ampCU2dLTWdZaEpwUU1vZ2c=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1YelJqV0hKbFZrZEtTRTV3VFJDZkF4ampCU2dLTWdZaEpwUU1vZ2c"
+          }
+        },
+        {
+          "title": "William A. Anders, 90, Dies; Flew on First Manned Orbit of the Moon",
+          "snippet": "Maj. Gen. William A. Anders, who flew on the first manned space mission to orbit the moon, the Apollo 8 “Genesis flight” of Christmas Eve 1968, and took the ...",
+          "publisher": "The New York Times",
+          "timestamp": "1717807022000",
+          "newsUrl": "https://www.nytimes.com/2024/06/07/science/william-a-anders-dead.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpTMVl3TTJKVVNXMVhUMFV3VFJEZ0F4allCQ2dLTWdZeGRKaHdLUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpTMVl3TTJKVVNXMVhUMFV3VFJEZ0F4allCQ2dLTWdZeGRKaHdLUWc"
+          }
+        },
+        {
+          "title": "William Anders, ‘Earthrise’ Photographer on Apollo 8, Dies at 90",
+          "snippet": "William Anders, the US astronaut whose “Earthrise” photograph from lunar orbit captured humanity's humble place in the cosmos, punctuating the 1960s' race ...",
+          "publisher": "Bloomberg",
+          "timestamp": "1717810200000",
+          "newsUrl": "https://www.bloomberg.com/news/articles/2024-06-08/william-anders-earthrise-photographer-on-apollo-8-dies-at-90",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRiV0ZFWjAxeVZrZHNaMWxoVFJEVUF4aVBCU2dLTWdZRlE1S2xJUWc=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRiV0ZFWjAxeVZrZHNaMWxoVFJEVUF4aVBCU2dLTWdZRlE1S2xJUWc"
+          }
+        },
+        {
+          "title": "Apollo 8 astronaut, who captured “Earthrise” photo, dies in plane crash",
+          "snippet": "Maj. William Anders, 90, was solo piloting a small aircraft when a fatal accident took place northwest of Seattle. By Kelly McClure.",
+          "publisher": "Salon",
+          "timestamp": "1717814100000",
+          "newsUrl": "https://www.salon.com/2024/06/07/apollo-8-astronaut-captured-earthrise-photo-dies-in-plane-crash/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJkRmMwUjE5UFowcExURkY2VFJERUF4aW1CU2dLTWdZUlNKaUlJZ2s=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJkRmMwUjE5UFowcExURkY2VFJERUF4aW1CU2dLTWdZUlNKaUlJZ2s"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Boeing Starliner and SpaceX Starship missions both hit spaceflight milestones this week",
+      "snippet": "This week, marvel at the milestones of the Boeing Starliner and SpaceX Starship vehicles, dig into a teen T. rex discovery, spy an ancient “thunder bird,” ...",
+      "publisher": "CNN",
+      "timestamp": "1717858800000",
+      "newsUrl": "https://www.cnn.com/2024/06/08/science/starship-starliner-science-newsletter-wt-scn/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTJWamwxU1hRMmNrMTVkMTh0VFJDZkF4amlCU2dLTWdNQmFRQQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTJWamwxU1hRMmNrMTVkMTh0VFJDZkF4amlCU2dLTWdNQmFRQQ"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Watch: Boeing Starliner launches 1st crewed space mission with NASA astronauts",
+          "snippet": "Boeing's Starliner launched its first crewed mission to space on Wednesday morning, with NASA astronauts Butch Wilmore and Suni Williams on board.",
+          "publisher": "Yahoo! Voices",
+          "timestamp": "1717601667000",
+          "newsUrl": "https://www.yahoo.com/news/watch-boeing-starliner-launches-1st-crewed-space-mission-with-nasa-astronauts-151157128.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXJabTVxZW10bk9WbG5jRnBCVFJERUF4aW1CU2dLTWdtSlFKWkltbWsxU1FJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXJabTVxZW10bk9WbG5jRnBCVFJERUF4aW1CU2dLTWdtSlFKWkltbWsxU1FJ"
+          }
+        },
+        {
+          "title": "This Week In Space podcast: Episode 114 — Starliners & Starships",
+          "snippet": "On Episode 114 of This Week In Space, Rod and Tariq talk about the launches of Boeing's Starliner and SpaceX's Starship.",
+          "publisher": "Space.com",
+          "timestamp": "1717852032000",
+          "newsUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-114-starliners-starships",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdhVEJLYUVWS09YZFFNbU5MVFJDZkF4ampCU2dLTWdZTklvQklIUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdhVEJLYUVWS09YZFFNbU5MVFJDZkF4ampCU2dLTWdZTklvQklIUWM"
+          }
+        },
+        {
+          "title": "Here's what happened when Boeing Starliner reached the ISS, narrowly averting crisis",
+          "snippet": "Hurdling mid-flight helium leaks and jammed thrusters, quick-thinking NASA astronauts dock spacecraft.",
+          "publisher": "Salon",
+          "timestamp": "1717851660000",
+          "newsUrl": "https://www.salon.com/2024/06/08/heres-what-happened-when-boeing-starliner-reached-the-iss-narrowly-averting/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHdaVU4wV1cxRVNWSnJlR0pDVFJERUF4aW1CU2dLTWdOQm9nbw=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNHdaVU4wV1cxRVNWSnJlR0pDVFJERUF4aW1CU2dLTWdOQm9nbw"
+          }
+        },
+        {
+          "title": "NASA Crew Flight Test Astronauts to Call White House, NASA Leaders",
+          "snippet": "Following their safe arrival at the International Space Station, NASA astronauts Butch Wilmore and Suni Williams will participate in a pair of Earth to ...",
+          "publisher": "NASA",
+          "timestamp": "1717788930000",
+          "newsUrl": "https://www.nasa.gov/news-release/nasa-crew-flight-test-astronauts-to-call-white-house-nasa-leaders/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUZPVzlWT1ZCc2QwRTVOemhuVFJEdkF4anJCQ2dLTWdrTkFvcjFES3U1eEFJ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUZPVzlWT1ZCc2QwRTVOemhuVFJEdkF4anJCQ2dLTWdrTkFvcjFES3U1eEFJ"
+          }
+        },
+        {
+          "title": "Can Boeing Catch Up with SpaceX?",
+          "snippet": "The aerospace giant's long-delayed Starliner finally flies astronauts, while Elon Musk's enterprise pushes into the next frontier. The new space race is on.",
+          "publisher": "City Journal",
+          "timestamp": "1717787122000",
+          "newsUrl": "https://www.city-journal.org/article/can-boeing-catch-up-with-spacex",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXdZblozY0d4aFVYTk1lWGxOVFJDSEF4aVBCaWdLTWdNQlVBdw=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXdZblozY0d4aFVYTk1lWGxOVFJDSEF4aVBCaWdLTWdNQlVBdw"
+          }
+        }
+      ]
+    },
+    {
+      "title": "SpaceX lands Falcon 9 rocket for 300th time (video)",
+      "snippet": "SpaceX landed one of its Falcon 9 rockets for the 300th time tonight (June 7), notching the milestone during a Starlink satellite launch.",
+      "publisher": "Space.com",
+      "timestamp": "1717818300000",
+      "newsUrl": "https://www.space.com/spacex-starlink-launch-group-10-1",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZWWE5VVGpOQlh6Z3pNV05RVFJDZkF4ampCU2dLTWdhQklvSEU0Z0U=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZWWE5VVGpOQlh6Z3pNV05RVFJDZkF4ampCU2dLTWdhQklvSEU0Z0U"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "SpaceX Starship makes breakthrough ocean landing",
+          "snippet": "The SpaceX rocket descended broadly intact all the way to the sea surface for the first time.",
+          "publisher": "BBC.com",
+          "timestamp": "1717701525000",
+          "newsUrl": "https://www.bbc.com/news/articles/cp66ye6ep63o",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRXVkF3Y1ZSRFRVbG5jQzF5VFJDZkF4ampCU2dLTWdZQkVJQnJzUUk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRXVkF3Y1ZSRFRVbG5jQzF5VFJDZkF4ampCU2dLTWdZQkVJQnJzUUk"
+          }
+        },
+        {
+          "title": "SpaceX records 300th Falcon 9 booster landing after Friday launch",
+          "snippet": "\"Falcon 9 lands for the 300th time,\" SpaceX officials said in a 10:06 p.m. tweet that featured a 19-second video clip of the booster's fiery landing.",
+          "publisher": "Florida Today",
+          "timestamp": "1717815536000",
+          "newsUrl": "https://www.floridatoday.com/story/tech/science/space/2024/06/07/spacex-records-300th-falcon-9-booster-landing-after-friday-launch-from-cape-canaveral-florida/74013003007/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxURXhhVm1oUkxWVkxTekJsVFJEekFoaVVCU2dLTWdhWkZKcnJGUW8=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxURXhhVm1oUkxWVkxTekJsVFJEekFoaVVCU2dLTWdhWkZKcnJGUW8"
+          }
+        },
+        {
+          "title": "SpaceX launches 20 Starlink satellites on Falcon 9 flight from Vandenberg Space Force Base – Spaceflight Now",
+          "snippet": "SpaceX kicked off the weekend with the launch of another batch of its Starlink satellites. The mission, dubbed Starlink 8-8, added 20 more satellites to the ...",
+          "publisher": "Spaceflight Now",
+          "timestamp": "1717854075000",
+          "newsUrl": "https://spaceflightnow.com/2024/06/08/spacex-to-launch-20-starlink-satellites-on-falcon-9-flight-from-vandenberg-space-force-base/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXBOaTFZVWpaQmEydDJSWFpRVFJETUF4aWJCU2dLTWdrSkVZU0xGV09xaWdF=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXBOaTFZVWpaQmEydDJSWFpRVFJETUF4aWJCU2dLTWdrSkVZU0xGV09xaWdF"
+          }
+        },
+        {
+          "title": "Vandenberg SFB Sees Third Launch of Week with SpaceX Rocket's Liftoff | Local News",
+          "snippet": "SpaceX continued expanding the Starlink constellation's direct-to-cell capabilities by sending another 13 satellites plus seven others into orbit aboard a.",
+          "publisher": "Noozhawk",
+          "timestamp": "1717859953000",
+          "newsUrl": "https://www.noozhawk.com/vandenberg-sfb-sees-third-launch-of-week-with-spacex-rockets-liftoff/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU9VVlZRTXpKc2NGOWlVM1pDVFJDcUF4alJCU2dLTWdNWnNRSQ=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNU9VVlZRTXpKc2NGOWlVM1pDVFJDcUF4alJCU2dLTWdNWnNRSQ"
+          }
+        },
+        {
+          "title": "Starlink mission launches successfully from Cape Canaveral",
+          "snippet": "CAPE CANAVERAL SPACE FORCE STATION — The weather may have been a bit uncertain and the time may have been pushed back, but ultimately, Friday night's launch ...",
+          "publisher": "News 13 Orlando",
+          "timestamp": "1717777260000",
+          "newsUrl": "https://mynews13.com/fl/orlando/space/2024/06/07/spacex-starlink-10-1-mission",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9kVkJRYW5aVlVsZFpkRlU1VFJDb0FSaXJBaWdCTWdhQnNZREF5Z0k=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9kVkJRYW5aVlVsZFpkRlU1VFJDb0FSaXJBaWdCTWdhQnNZREF5Z0k"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Craft unfurls China's flag on the far side of the moon and lifts off with lunar rocks to bring home",
+      "snippet": "BEIJING (AP) — China said its lunar spacecraft unfurled the country's red and gold flag for the first time on the far side of the moon before part of the ...",
+      "publisher": "The Associated Press",
+      "timestamp": "1717482660000",
+      "newsUrl": "https://apnews.com/article/china-far-side-of-moon-probe-4f140a9c2bef8a5e5e919f1967080858",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxWMjV2V2xWa2VWbzJVR2N6VFJDNEF4alhCQ2dLTWdZdE00Q09JUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxWMjV2V2xWa2VWbzJVR2N6VFJDNEF4alhCQ2dLTWdZdE00Q09JUWs"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Chinese Lander Instrument Detects Negative Ions on Far Side of Moon",
+          "snippet": "An ESA scientific instrument dropped off by China's lunar lander detected negative ions on the far side of the Moon.",
+          "publisher": "Futurism",
+          "timestamp": "1717776709000",
+          "newsUrl": "https://futurism.com/the-byte/negative-ions-far-side-moon",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlYMUJrYW5FM1h6Rm9SbDlyVFJDUkF4ajhCU2dLTWdZeFpKS1BLUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlYMUJrYW5FM1h6Rm9SbDlyVFJDUkF4ajhCU2dLTWdZeFpKS1BLUWM"
+          }
+        },
+        {
+          "title": "Chang'e-6 spacecraft dock in lunar orbit ahead of journey back to Earth",
+          "snippet": "HELSINKI — An ascent vehicle docked with the Chang'e-6 service module Thursday, in a critical step towards bringing the first lunar far side samples to ...",
+          "publisher": "SpaceNews",
+          "timestamp": "1717669503000",
+          "newsUrl": "https://spacenews.com/change-6-spacecraft-dock-in-lunar-orbit-ahead-of-journey-back-to-earth/",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdiVmN6TjNZelRrSkdPVnBIVFJDWkF4anVCU2dLTWdhbFk0NXRMUVk=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdiVmN6TjNZelRrSkdPVnBIVFJDWkF4anVCU2dLTWdhbFk0NXRMUVk"
+          }
+        },
+        {
+          "title": "China's Chang'e-6 snagged the first samples from the farside of the moon",
+          "snippet": "China has become the first country to collect samples from the farside of the moon, hopefully providing scientists with new insights into the history and ...",
+          "publisher": "Science News Magazine",
+          "timestamp": "1717605900000",
+          "newsUrl": "https://www.sciencenews.org/article/change-6-first-samples-farside-moon",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHlOSFZIUzA0NU1YTlNSWGw0VFJDZkF4amlCU2dLTWdhZGhaVE1NUWM=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHlOSFZIUzA0NU1YTlNSWGw0VFJDZkF4amlCU2dLTWdhZGhaVE1NUWM"
+          }
+        },
+        {
+          "title": "China's Chang'e-6 transfers moon samples to spacecraft, set for return to Earth",
+          "snippet": "BEIJING (Reuters) -China's Chang'e-6 probe transferred samples it collected from the moon's far side to a spacecraft in lunar orbit on Thursday, state news ...",
+          "publisher": "Yahoo! Voices",
+          "timestamp": "1717665648000",
+          "newsUrl": "https://www.yahoo.com/news/chinas-change-6-transfers-moon-075128207.html",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpSMU55Y0ZKRVpqUmpWSEl5VFJDcUF4al9CQ2dLTWdZWkVJaXNvUVU=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpSMU55Y0ZKRVpqUmpWSEl5VFJDcUF4al9CQ2dLTWdZWkVJaXNvUVU"
+          }
+        },
+        {
+          "title": "1st AI selfie on moon's far side, China's Chang'e-6 rover creates history",
+          "snippet": "In a groundbreaking achievement, China's Chang'e-6 lunar mission has successfully clicked a “selfie” on the moon's far side.",
+          "publisher": "Interesting Engineering",
+          "timestamp": "1717672560000",
+          "newsUrl": "https://interestingengineering.com/space/change6-historic-selfie-on-moons-far-side",
+          "images": {
+            "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRja0pFT1ZwYVVIRndlVVZzVFJDZkF4ampCU2dLTWdhbEpKNk9tUWs=-w280-h168-p-df-rw",
+            "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRja0pFT1ZwYVVIRndlVVZzVFJDZkF4ampCU2dLTWdhbEpKNk9tUWs"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Webb Telescope Uncovers a Mysterious Carbon Treasure Trove Around Young Star",
+      "snippet": "Using the James Webb Space Telescope, scientists have discovered a rich variety of carbon molecules in a protoplanetary disk around a low-mass star, ...",
+      "publisher": "SciTechDaily",
+      "timestamp": "1717842709000",
+      "newsUrl": "https://scitechdaily.com/webb-telescope-uncovers-a-mysterious-carbon-treasure-trove-around-young-star/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWliRzV4TVVaTGFuVlVSblZJVFJEV0F4aU5CU2dLTWdhTllwS0txUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWliRzV4TVVaTGFuVlVSblZJVFJEV0F4aU5CU2dLTWdhTllwS0txUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists Working on Desperate Plan to Refreeze Arctic",
+      "snippet": "It sounds pretty out-there: to save the snowy Arctic from melting away due to global warming, some scientific experts have been working on plans to hack the ...",
+      "publisher": "Futurism",
+      "timestamp": "1717857045000",
+      "newsUrl": "https://futurism.com/the-byte/scientists-refreeze-arctic",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZWVFJWYTJWdlNqVmpiVGRJVFJEb0FoamdBeWdLTWdZQlpZb2tUZ1E=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZWVFJWYTJWdlNqVmpiVGRJVFJEb0FoamdBeWdLTWdZQlpZb2tUZ1E"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rare astronomical event will be visible from Earth for a week this year",
+      "snippet": "Get ready to look up! An exciting astronomical event is likely to occur in September, according to NASA. This event will be visible with the naked eye for ...",
+      "publisher": "MLive.com",
+      "timestamp": "1717848960000",
+      "newsUrl": "https://www.mlive.com/news/2024/06/rare-astronomical-event-will-be-visible-from-earth-for-a-week-this-year.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVBWRmwyTjNWaldtcEhVamh3VFJDZ0F4amhCU2dLTWdZQklvRG9HQWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVBWRmwyTjNWaldtcEhVamh3VFJDZ0F4amhCU2dLTWdZQklvRG9HQWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "NASA is commissioning 10 studies on Mars Sample Return—most are commercial",
+      "snippet": "SpaceX will show NASA how Starship could one day return rock samples from Mars.",
+      "publisher": "Ars Technica",
+      "timestamp": "1717806047000",
+      "newsUrl": "https://arstechnica.com/space/2024/06/nasa-is-commissioning-10-studies-on-mars-sample-return-most-are-commercial/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUdORWRhVDI4ek5qSXplbHBRVFJEVEF4aVFCU2dLTWdPQnNBbw=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUdORWRhVDI4ek5qSXplbHBRVFJEVEF4aVFCU2dLTWdPQnNBbw"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Where To See The Northern Lights Tonight",
+      "snippet": "Just one month after the northern lights put on a stunning display over the continental United States, the aurora borealis will make a return to Canada and ...",
+      "publisher": "Forbes",
+      "timestamp": "1717872851000",
+      "newsUrl": "https://www.forbes.com/sites/brianbushard/2024/06/08/northern-lights-when-and-where-to-see-aurora-borealis-tonight/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUlWVmt0U1ZOWVJUbFJVSGx2VFJDUEF4akZCU2dLTWdPZGtRWQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUlWVmt0U1ZOWVJUbFJVSGx2VFJDUEF4akZCU2dLTWdPZGtRWQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "‘We’re trying to find the shape of space’: scientists wonder if the universe is like a doughnut",
+      "snippet": "Rather than stretching to infinity and beyond, the universe may have a topology that can eventually be mapped.",
+      "publisher": "The Guardian",
+      "timestamp": "1717851600000",
+      "newsUrl": "https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRVRW8zWVhwbGVsbG1ibFV3VFJDUkF4ajhCU2dLTWdZeFVJR3g1QUE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRVRW8zWVhwbGVsbG1ibFV3VFJDUkF4ajhCU2dLTWdZeFVJR3g1QUE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The storied Hubble telescope has gone into 'safe mode.' Here's NASA's plan to keep it alive",
+      "snippet": "NASA is changing the way the Hubble Space Telescope operates to bypass an issue that keeps putting the space observatory into “safe mode” shutting down its ...",
+      "publisher": "Yahoo! Voices",
+      "timestamp": "1717791510000",
+      "newsUrl": "https://www.yahoo.com/news/nasa-change-way-operates-hubble-194309388.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNURaWE5PUm1WblNVbEZVRTUwVFJEb0FoaUFCU2dLTWdB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNURaWE5PUm1WblNVbEZVRTUwVFJEb0FoaUFCU2dLTWdB"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "At long last: Europe's new Ariane 6 rocket set to debut on July 9",
+      "snippet": "Europe's new Ariane 6 heavy-lift rocket is set to launch for the first time on July 9 after a series of delays.",
+      "publisher": "Space.com",
+      "timestamp": "1717855200000",
+      "newsUrl": "https://www.space.com/esa-ariane-6-rocket-first-launch-july-9",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWZNVVZsY3pOeFNHaFRWV1pSVFJDZkF4ampCU2dLTWdPbE1nQQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWZNVVZsY3pOeFNHaFRWV1pSVFJDZkF4ampCU2dLTWdPbE1nQQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "NASA Invites Media to Cover the Rollout of Artemis II Moon Rocket",
+      "snippet": "NASA is poised to reveal a significant milestone in its ambitious Artemis program with the rollout of the core stage of the Space Launch System rocket.",
+      "publisher": "The Daily Galaxy --Great Discoveries Channel",
+      "timestamp": "1717849802000",
+      "newsUrl": "https://dailygalaxy.com/2024/06/nasa-media-rollout-artemis-ii-moon-rocket/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhVbWx2Y0hoSlZrOW1OMkpXVFJDdkF4akhCU2dLTWdZSkVJeW5tUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhVbWx2Y0hoSlZrOW1OMkpXVFJDdkF4akhCU2dLTWdZSkVJeW5tUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Cosmic bombshell may change everything we know about the Milky Way galaxy",
+      "snippet": "According to the study, the last time the Milky Way collided with another galaxy, the Earth had already formed.",
+      "publisher": "Study Finds",
+      "timestamp": "1717775346000",
+      "newsUrl": "https://studyfinds.org/cosmic-bombshell-may-change-everything-we-know-about-the-milky-way-galaxy/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVdkVXRwV1dzeU1YTk1UVWxvVFJEQUFoajBBeWdLTWdPZE14QQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVdkVXRwV1dzeU1YTk1UVWxvVFJEQUFoajBBeWdLTWdPZE14QQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Neanderthals and humans interbred 47000 years ago for nearly 7000 years, research suggests",
+      "snippet": "DNA from prehistoric and modern-day people suggests that humans interbred with Neanderthals 47000 years ago for a period lasting 6800 years.",
+      "publisher": "Livescience.com",
+      "timestamp": "1717787457000",
+      "newsUrl": "https://www.livescience.com/archaeology/neanderthals-and-humans-interbred-47000-years-ago-for-nearly-7000-years-research-suggests",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBZMWRMV2t0SmExSlVWRnB6VFJDZkF4ampCU2dLTWdZcEZZck5GUW8=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBZMWRMV2t0SmExSlVWRnB6VFJDZkF4ampCU2dLTWdZcEZZck5GUW8"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Who owns the Moon? A new space race means it could be up for grabs",
+      "snippet": "We're in the midst of a Moon rush. A growing number of countries and companies have the lunar surface in their sights in a race for resources and space ...",
+      "publisher": "BBC.com",
+      "timestamp": "1717892242000",
+      "newsUrl": "https://www.bbc.com/news/articles/cxwwjlrk1mlo",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRUVkJrV2toVFEyNW1kRGt6VFJDZkF4ampCU2dLTWdhSkFhSUdEZ3c=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRUVkJrV2toVFEyNW1kRGt6VFJDZkF4ampCU2dLTWdhSkFhSUdEZ3c"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Largest known genome is within this plain plant on the forest floor, study says",
+      "snippet": "A new study identified the largest known genome of any organism in a fern found in Pacific islands. Its cells have more than 50 times the DNA as human cells ...",
+      "publisher": "CNN",
+      "timestamp": "1717771140000",
+      "newsUrl": "https://www.cnn.com/2024/06/07/science/largest-genome-fern-plant-scn/index.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBNelJ5VWpkWGJtNUVkVWx3VFJDZkF4amlCU2dLTWdZSkVvNEdvZ1k=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBNelJ5VWpkWGJtNUVkVWx3VFJDZkF4amlCU2dLTWdZSkVvNEdvZ1k"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Researchers discover Earth and space share the same turbulence",
+      "snippet": "In a paper published in Geophysical Research Letters, researchers have discovered that the turbulence in the thermosphere exhibits the same physical laws as ...",
+      "publisher": "Phys.org",
+      "timestamp": "1717782140000",
+      "newsUrl": "https://phys.org/news/2024-06-earth-space-turbulence.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNW9UVWd3TkU0elUzWnNTVk52VFJEc0FoakxCaWdLTWdNQkVBdw=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNW9UVWd3TkU0elUzWnNTVk52VFJEc0FoakxCaWdLTWdNQkVBdw"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mars: New Research Challenges Existence of Liquid Water Lake Under Planet's South Pole",
+      "snippet": "Recent studies have cast doubt on the presence of a liquid water lake beneath the ice cap at Mars' south pole.",
+      "publisher": "The Daily Galaxy --Great Discoveries Channel",
+      "timestamp": "1717855210000",
+      "newsUrl": "https://dailygalaxy.com/2024/06/mars-research-challenges-existence-water/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVZbFJET1cxSkxVbFdTakZNVFJDdkF4akhCU2dLTWdhWjhJSXRUUU0=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVZbFJET1cxSkxVbFdTakZNVFJDdkF4akhCU2dLTWdhWjhJSXRUUU0"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Giant viruses discovered living in Greenland's dark ice and red snow",
+      "snippet": "The giant viruses might infect algae that are increasing Greenland's ice melt. These viruses could help kill off the damaging algal blooms, ...",
+      "publisher": "Livescience.com",
+      "timestamp": "1717761068000",
+      "newsUrl": "https://www.livescience.com/planet-earth/giant-viruses-discovered-living-in-greenlands-dark-ice-and-red-snow",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVPRjgzYW5jMlNISlRiWFUzVFJDZkF4ampCU2dLTWdZaGRJaU51UVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVPRjgzYW5jMlNISlRiWFUzVFJDZkF4ampCU2dLTWdZaGRJaU51UVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Dear Prudence: My secret crush found out, and he's threatening to call the police.",
+      "snippet": "Dear Prudence,. I have long harbored what I thought was a harmless crush on a friend of mine (Jordan), but now another friend (Alex) has told Jordan and ...",
+      "publisher": "Slate",
+      "timestamp": "1717848000000",
+      "newsUrl": "https://slate.com/advice/2024/06/dear-prudence-crush-calling-police.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBkbnBXTVhad1gwaEVaVFJaVFJERUF4aW1CU2dLTWdZcEpZck9HUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBkbnBXTVhad1gwaEVaVFJaVFJERUF4aW1CU2dLTWdZcEpZck9HUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Prehistoric mini-ape discovered in Germany the smallest to ever live",
+      "snippet": "The bonobo is the world's smallest living great ape. Now scientists in Germany think they may have discovered the smallest great ape to ever live.",
+      "publisher": "BBC Discover Wildlife",
+      "timestamp": "1717779829000",
+      "newsUrl": "https://www.discoverwildlife.com/animal-facts/buronius-manfredschmidi-smallest-ape",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9kMm80UzFSMVVrMHhhSGsyVFJDNkFSaVBBaWdCTWdhdFpJNnZzUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9kMm80UzFSMVVrMHhhSGsyVFJDNkFSaVBBaWdCTWdhdFpJNnZzUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists Intrigued by Signal From Space Repeating Every Hour",
+      "snippet": "A repeating radio signal from deep space has scientists puzzled, because they can't fully explain what's emitting it. Their working hypothesis, as detailed ...",
+      "publisher": "Futurism",
+      "timestamp": "1717842655000",
+      "newsUrl": "https://futurism.com/the-byte/signal-space-repeating-every-hour",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVNkSE54WTJOWFgzbERaR2ROVFJDUkF4ajhCU2dLTWdrVkFvWk5KYVJ6NUFJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVNkSE54WTJOWFgzbERaR2ROVFJDUkF4ajhCU2dLTWdrVkFvWk5KYVJ6NUFJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "PACE Celebrates National Ocean Month With Colorful Views of the Planet",
+      "snippet": "What do you give to an ocean that has everything? This year, for National Ocean Month, NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite— is ...",
+      "publisher": "NASA",
+      "timestamp": "1717779600000",
+      "newsUrl": "https://www.nasa.gov/earth/pace-celebrates-national-ocean-month-with-colorful-views-of-the-planet/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBaMnBpVkhjMFNrTkVPVmRqVFJDZkF4ampCU2dLTWdhSkFvZ3dLUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBaMnBpVkhjMFNrTkVPVmRqVFJDZkF4ampCU2dLTWdhSkFvZ3dLUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Brain Cells May Actually Try to Predict The Future During Sleep",
+      "snippet": "The neurons firing inside the brain's memory center as we sleep might not only be revisiting past experiences. According to a new study, they could also be ...",
+      "publisher": "ScienceAlert",
+      "timestamp": "1717880725000",
+      "newsUrl": "https://www.sciencealert.com/brain-cells-may-actually-try-to-predict-the-future-during-sleep",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpkbmhLV21KaVVHSmxOVTUxVFJDRUFoaUNCU2dLTWdhTkZJaklJUVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpkbmhLV21KaVVHSmxOVTUxVFJDRUFoaUNCU2dLTWdhTkZJaklJUVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "At the Dawn of Time: MIT Physicists Link Dark Matter to “Super-Charged” Microscopic Black Holes",
+      "snippet": "In the first quintillionth of a second, the universe may have sprouted microscopic black holes with enormous amounts of nuclear charge, according to MIT ...",
+      "publisher": "SciTechDaily",
+      "timestamp": "1717791719000",
+      "newsUrl": "https://scitechdaily.com/at-the-dawn-of-time-mit-physicists-link-dark-matter-to-super-charged-microscopic-black-holes/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDJibEpyVUUxQ2QyOTZNM05DVFJERUF4aW1CU2dLTWdrQlVJYWtzR1BnVUFF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDJibEpyVUUxQ2QyOTZNM05DVFJERUF4aW1CU2dLTWdrQlVJYWtzR1BnVUFF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "NASA Planning Cutting-Edge Space Telescope to Find Alien Worlds Like Earth",
+      "snippet": "NASA are planning on building a telescope to hunt for habitable worlds.",
+      "publisher": "ScienceAlert",
+      "timestamp": "1717846520000",
+      "newsUrl": "https://www.sciencealert.com/nasa-planning-cutting-edge-space-telescope-to-find-alien-worlds-like-earth",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU1XRzUyYjJ4NWJXbEJaMWhrVFJEZ0Foam1CaWdLTWdtZFFwQk5wZWRFNXdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU1XRzUyYjJ4NWJXbEJaMWhrVFJEZ0Foam1CaWdLTWdtZFFwQk5wZWRFNXdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The first example of cellular origami | Stanford Report",
+      "snippet": "A side-by-side comparison of Lacrymaria olor, a remarkable ciliate with its “neck” extended and retracted. Researchers discovered origami-like folds make ...",
+      "publisher": "Stanford University News",
+      "timestamp": "1717745939000",
+      "newsUrl": "https://news.stanford.edu/stories/2024/06/the-first-example-of-cellular-origami",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZabFZ1TkUxbVpDMWphbXhCVFJERUF4aW1CU2dLTWdhSkI1Qm1qZ3M=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZabFZ1TkUxbVpDMWphbXhCVFJERUF4aW1CU2dLTWdhSkI1Qm1qZ3M"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "James Webb telescope finds carbon at the dawn of the universe, challenging our understanding of when life could have emerged",
+      "snippet": "The James Webb Space Telescope has found carbon in a galaxy just 350 million years after the Big Bang. That could mean life began much earlier too, ...",
+      "publisher": "Livescience.com",
+      "timestamp": "1717793666000",
+      "newsUrl": "https://www.livescience.com/space/cosmology/james-webb-telescope-finds-carbon-at-the-dawn-of-the-universe-challenging-our-understanding-of-when-life-could-have-emerged",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUJSMVpmVEZGcmRrWnROV2hEVFJDZkF4ampCU2dLTWdPSm1oWQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUJSMVpmVEZGcmRrWnROV2hEVFJDZkF4ampCU2dLTWdPSm1oWQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Arctic 'zombie fires' rising from the dead could unleash vicious cycle of warming",
+      "snippet": "Zombie fires that burn underground over winter may be a case of climate change-driven spontaneous combustion, new research reveals.",
+      "publisher": "Livescience.com",
+      "timestamp": "1717765837000",
+      "newsUrl": "https://www.livescience.com/planet-earth/climate-change/arctic-zombie-fires-rising-from-the-dead-could-unleash-vicious-cycle-of-warming",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUVTRTB3YlU1RlZWRTVkWEpLVFJDZ0F4amlCU2dLTWdNTmtCSQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUVTRTB3YlU1RlZWRTVkWEpLVFJDZ0F4amlCU2dLTWdNTmtCSQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Parenting advice: My son set out to tame the local squirrels. It's led to a rift I didn't expect.",
+      "snippet": "Slate Plus members get more Care and Feeding every week. Have a question about kids, parenting, or family life? Submit it here! Dear Care and Feeding,.",
+      "publisher": "Slate",
+      "timestamp": "1717848000000",
+      "newsUrl": "https://slate.com/advice/2024/06/backyard-squirrels-son-tame-parenting-advice.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVkblJ2TkZacllXZDROVVpJVFJERUF4aW1CU2dLTWdhaGc1QlBzUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVkblJ2TkZacllXZDROVVpJVFJERUF4aW1CU2dLTWdhaGc1QlBzUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Explosive 'devil comet' grows seemingly impossible 2nd tail after close flyby of Earth — but it's not what it seems",
+      "snippet": "Comet 12P/Pons-Brooks, also known as the devil comet, recently made its closest approach to Earth for more than 70 years. During this close encounter, ...",
+      "publisher": "Livescience.com",
+      "timestamp": "1717778108000",
+      "newsUrl": "https://www.livescience.com/space/comets/explosive-devil-comet-grows-seemingly-impossible-2nd-tail-after-close-flyby-of-earth-but-its-not-what-it-seems",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHdVak5tTjNoUmFIaGtOMlZFVFJDZkF4ampCU2dLTWdPaHhSQQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNHdVak5tTjNoUmFIaGtOMlZFVFJDZkF4ampCU2dLTWdPaHhSQQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Key Protein Essential for Smell and Survival Identified",
+      "snippet": "Summary: The Orco protein is crucial for the survival of olfactory neurons in ants. Mutating the orco gene in Harpegnathos saltator ants drastically reduced ...",
+      "publisher": "Neuroscience News",
+      "timestamp": "1717873199000",
+      "newsUrl": "https://neurosciencenews.com/orco-olfaction-apoptosis-26270/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZaR0pEZVdsTFdYZGpkSGhVVFJERUF4aW1CU2dLTWdZQkk0WlFGUVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVZaR0pEZVdsTFdYZGpkSGhVVFJERUF4aW1CU2dLTWdZQkk0WlFGUVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Siberia's 'gateway to hell' is now so big it can be seen from space",
+      "snippet": "One of the most striking natural formations on the planet, known as the 'Batagaika Crater', is getting so large due to climate change that it can be seen ...",
+      "publisher": "indy100",
+      "timestamp": "1717757926000",
+      "newsUrl": "https://www.indy100.com/science-tech/siberia-gateway-hell-batagaika-crater",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpSak5vWkRSS2RYTnNjV2RJVFJDZkF4ampCU2dLTWdZVkFwUkxsUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpSak5vWkRSS2RYTnNjV2RJVFJDZkF4ampCU2dLTWdZVkFwUkxsUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "American ingenuity taking US to new frontier in space: Former NASA exec",
+      "snippet": "Former NASA executive Ezinne Uzo-Okoro weighs in on the growth of the private space sector following the launch of Boeing's Starliner.",
+      "publisher": "Fox Business",
+      "timestamp": "1717844400000",
+      "newsUrl": "https://www.foxbusiness.com/media/american-ingenuity-taking-us-new-frontier-space-former-nasa-exec",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRSMk5TUTBFelUxSjFjV3BXVFJDZkF4ampCU2dLTWdZZEFJQXI0Z0U=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRSMk5TUTBFelUxSjFjV3BXVFJDZkF4ampCU2dLTWdZZEFJQXI0Z0U"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mysterious ‘hole’ on Mars excites enthusiasts, could shelter humans during expeditions",
+      "snippet": "Dust storms and temperature swings are said to be common on Mars. As humans aim to explore the planet, a mysterious pit on the side of an ancient volcano on ...",
+      "publisher": "The Indian Express",
+      "timestamp": "1717757115000",
+      "newsUrl": "https://indianexpress.com/article/technology/science/mysterious-hole-on-mars-excites-enthusiasts-could-shelter-humans-during-expeditions-9377716/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVliV0o2U2pOWWVqRnhhMUJIVFJDZkF4ampCU2dLTWdhbGhaTHNzUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVliV0o2U2pOWWVqRnhhMUJIVFJDZkF4ampCU2dLTWdhbGhaTHNzUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Long Island professor discovers new dinosaur in Zimbabwe: 'Big career moment'",
+      "snippet": "A Long Island professor is among researchers who discovered a new dinosaur species in Zimbabwe — the fourth ever uncovered in the African nation.",
+      "publisher": "New York Post ",
+      "timestamp": "1717792860000",
+      "newsUrl": "https://nypost.com/2024/06/07/lifestyle/long-island-professor-discovers-new-dinosaur-in-zimbabwe/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpNRjgyU1ZwQlRrbDVTRGRSVFJERUF4aW5CU2dLTWdrQkZKaG1vbWg3eGdJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXpNRjgyU1ZwQlRrbDVTRGRSVFJERUF4aW5CU2dLTWdrQkZKaG1vbWg3eGdJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Jupiter's raging gas cyclones may actually mirror Earth's oceans. Here's how",
+      "snippet": "Lia Siegelman, a physical oceanographer at UC San Diego's Scripps Institution of Oceanography, compares Jupiter's \"filaments\" to fronts in Earth's oceans ...",
+      "publisher": "Space.com",
+      "timestamp": "1717786801000",
+      "newsUrl": "https://www.space.com/jupiter-gas-cyclones-earth-oceans",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWFkRVF0TW1KbFZrMUxZMlZQVFJDMEFSakFBaWdLTWdPQk5CQQ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWFkRVF0TW1KbFZrMUxZMlZQVFJDMEFSakFBaWdLTWdPQk5CQQ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Tiny Overlooked Creatures May Have Triggered Explosion of Life on Earth",
+      "snippet": "A dazzling assortment of life's variety of flavors burst into existence on Earth roughly 480 million years ago.",
+      "publisher": "ScienceAlert",
+      "timestamp": "1717840995000",
+      "newsUrl": "https://www.sciencealert.com/tiny-overlooked-creatures-may-have-triggered-explosion-of-life-on-earth",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpaa0ZwVDBGM1EzaFFZV0ZRVFJEZ0Foam1CaWdLTWdZZEpZb3JGZ28=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpaa0ZwVDBGM1EzaFFZV0ZRVFJEZ0Foam1CaWdLTWdZZEpZb3JGZ28"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Arrokoth the 'space snowman' probably tastes like sweet soap",
+      "snippet": "Kuiper Belt Object Arrokoth, the farthest object ever explored by a spacecraft, likely tastes sweet — and soapy.",
+      "publisher": "Space.com",
+      "timestamp": "1717848024000",
+      "newsUrl": "https://www.space.com/arrokoth-space-snowman-red-hue-sugars",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRZbFZCY2twR2VEVmtTMFYxVFJDMEFSakFBaWdLTWdhUk1wQm9wUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRZbFZCY2twR2VEVmtTMFYxVFJDMEFSakFBaWdLTWdhUk1wQm9wUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Weekend reads: Major Alzheimer's paper slated for retraction; research dog breeder pleads guilty; biomedical retractions quadruple",
+      "snippet": "Would you consider a donation to support Weekend Reads, and our daily work? The week at Retraction Watch featured: 'A disturbing experience': Postdoc fights ...",
+      "publisher": "Retraction Watch",
+      "timestamp": "1717840800000",
+      "newsUrl": "https://retractionwatch.com/2024/06/08/weekend-reads-major-alzheimers-paper-slated-for-retraction-research-dog-breeder-pleads-guilty-biomedical-retractions-quadruple/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9NRlp4TFZNd1NrNTJVa2hSVFJEZ0F4aUFCU2dLTWdZTnM1Q29PUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9NRlp4TFZNd1NrNTJVa2hSVFJEZ0F4aUFCU2dLTWdZTnM1Q29PUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Why is Neptune's magnetic field so weird? An exotic molecule may be the answer",
+      "snippet": "An exotic molecule stabilized by intense pressure found in the icy depths of Neptune and Uranus could help explain a long-standing mystery.",
+      "publisher": "Space.com",
+      "timestamp": "1717783201000",
+      "newsUrl": "https://www.space.com/uranus-neptune-aquodiium-magnetic-fields",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTNiRFJIZEZCTFRURnVVR2hHVFJDZkF4ampCU2dLTWdtQmNJNkVybVl0cXdF=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTNiRFJIZEZCTFRURnVVR2hHVFJDZkF4ampCU2dLTWdtQmNJNkVybVl0cXdF"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Sperm Whale Asks Divers For Help Removing Trash Tangled In Its Mouth",
+      "snippet": "A sperm whale approached a group of divers, seemingly asking for help with a whole bunch of trash tangled in its mouth. Luckily, a diver was able to remove ...",
+      "publisher": "The Inertia",
+      "timestamp": "1717787138000",
+      "newsUrl": "https://www.theinertia.com/environment/sperm-whale-asks-divers-for-help-removing-trash-tangled-in-its-mouth/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJRa0UwVDFOVFNFTXpZMWN5VFJDRUF4aWVCU2dLTWdZWkJJcVFCUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUJRa0UwVDFOVFNFTXpZMWN5VFJDRUF4aWVCU2dLTWdZWkJJcVFCUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Nonreciprocal quantum batteries exhibit remarkable capacities and efficiency",
+      "snippet": "In physics, nonreciprocity occurs when a system's response varies depending on the direction in which waves or signals are propagating within it.",
+      "publisher": "Phys.org",
+      "timestamp": "1717849802000",
+      "newsUrl": "https://phys.org/news/2024-06-nonreciprocal-quantum-batteries-remarkable-capacities.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWZPVWx5TjNkWWMyUldUMnhuVFJDNkF4aTJCU2dLTWdrQklZaVFVYU9hU2dJ=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWZPVWx5TjNkWWMyUldUMnhuVFJDNkF4aTJCU2dLTWdrQklZaVFVYU9hU2dJ"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Shigir Idol: World's oldest wood sculpture has mysterious carved faces and once stood 17 feet tall",
+      "snippet": "Crafted out of the trunk of a larch tree, this towering figure features several human faces.",
+      "publisher": "Livescience.com",
+      "timestamp": "1717776143000",
+      "newsUrl": "https://www.livescience.com/archaeology/shigir-idol-worlds-oldest-wood-sculpture-has-mysterious-carved-faces-and-once-stood-17-feet-tall",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRVazU0ZWxGMlRIUTRTVW94VFJDMEFSakFBaWdLTWdZVkpZek5sUWs=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRVazU0ZWxGMlRIUTRTVW94VFJDMEFSakFBaWdLTWdZVkpZek5sUWs"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Bizarre egg-laying mammals once ruled Australia—then lost their teeth",
+      "snippet": "Outliers among mammals, monotremes lay eggs instead of giving birth to live young. Only two types of monotremes, the platypus and echidna, still exist, ...",
+      "publisher": "Ars Technica",
+      "timestamp": "1717784711000",
+      "newsUrl": "https://arstechnica.com/science/2024/06/bizarre-egg-laying-mammals-once-ruled-australia-then-lost-their-teeth/",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhjek55YWtwVmVVcHVWVVJDVFJERUF4aW5CU2dLTWdhUmxKTG50UVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhjek55YWtwVmVVcHVWVVJDVFJERUF4aW5CU2dLTWdhUmxKTG50UVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Massive 'El Gordo' galaxy cluster suggests dark matter smashes into itself",
+      "snippet": "El Gordo is a massive collection of colliding galaxies 7 billion light-years away. Its odd behavior could mean dark matter interacts with itself, ...",
+      "publisher": "Space.com",
+      "timestamp": "1717761601000",
+      "newsUrl": "https://www.space.com/dark-matter-self-interacting",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXljWEZuWDFkWFlXVklZMU4xVFJDZkF4ampCU2dLTWdNZGxBNA=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXljWEZuWDFkWFlXVklZMU4xVFJDZkF4ampCU2dLTWdNZGxBNA"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Saturday Citations: Praising dogs; the evolution of brown fat; how SSRIs relieve depression. Plus: Boeing's Starliner",
+      "snippet": "If there's one thing I've learned about dogs, it's that praise is super-effective for training; a new Hungarian study confirms these anecdotal findings and ...",
+      "publisher": "Phys.org",
+      "timestamp": "1717849802000",
+      "newsUrl": "https://phys.org/news/2024-06-saturday-citations-dogs-evolution-brown.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDVRM010VTJsWk1USnNVVE5CVFJEZkF4aUFCU2dLTWdhVlZKQ3JLUVk=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDVRM010VTJsWk1USnNVVE5CVFJEZkF4aUFCU2dLTWdhVlZKQ3JLUVk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Gravity Without Mass: UAH Study Proposes Alternative to Dark Matter",
+      "snippet": "A new study by Dr Richard Lieu of The University of Alabama in Huntsville (UAH) challenges our understanding of gravity, potentially offering an alternative ...",
+      "publisher": "AZoQuantum",
+      "timestamp": "1717770780000",
+      "newsUrl": "https://www.azoquantum.com/News.aspx?newsID=10305",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRhWGxxWVV4blRHTlRObHBaVFJDZkF4ampCU2dLTWdZcFZvanRLUWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRhWGxxWVV4blRHTlRObHBaVFJDZkF4ampCU2dLTWdZcFZvanRLUWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Study finds fresh water and key conditions for life appeared on Earth a half-billion years earlier than thought",
+      "snippet": "We need two ingredients for life to start on a planet: dry land and (fresh) water. Strictly, the water doesn't have to be fresh, but fresh water can only ...",
+      "publisher": "Phys.org",
+      "timestamp": "1717873201000",
+      "newsUrl": "https://phys.org/news/2024-06-fresh-key-conditions-life-earth.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNVbXA1YzB4M1NHbEViMGRzVFJEeEFoakFCaWdLTWdhZFE1QlBuUWc=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNVbXA1YzB4M1NHbEViMGRzVFJEeEFoakFCaWdLTWdhZFE1QlBuUWc"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Research team uses CRISPR/Cas9 to alter photosynthesis for the first time",
+      "snippet": "A team from the Innovative Genomics Institute at the University of California, Berkeley (UCB) has produced an increase in gene expression in a food crop by ...",
+      "publisher": "Phys.org",
+      "timestamp": "1717783201000",
+      "newsUrl": "https://phys.org/news/2024-06-team-crisprcas9-photosynthesis.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iOkNnNUlXRk5rVEVaV1FVa3pkak5aVFJERUF4aW1CU2dLTWhFbEFJeXRyV1dhMDJpTnVFNlZwdWZpQVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iOkNnNUlXRk5rVEVaV1FVa3pkak5aVFJERUF4aW1CU2dLTWhFbEFJeXRyV1dhMDJpTnVFNlZwdWZpQVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists record Earth's radio waves from the Moon",
+      "snippet": "On Feb. 22, a lunar lander named Odysseus touched down near the Moon's South Pole and popped out four antennas to record radio waves around the surface—a ...",
+      "publisher": "Phys.org",
+      "timestamp": "1717786469000",
+      "newsUrl": "https://phys.org/news/2024-06-scientists-earth-radio-moon.html",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTFiRmhtVEVSSUxUbE5hV2hVVFJEdkF4anJCQ2dLTWdZSmdJYXZzQVE=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTFiRmhtVEVSSUxUbE5hV2hVVFJEdkF4anJCQ2dLTWdZSmdJYXZzQVE"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists alarmed by discovery after sending robot under the 'Doomsday Glacier'",
+      "snippet": "A 2023 study found that the Thwaites Glacier, nicknamed the 'Doomsday Glacier', was degrading rapily.",
+      "publisher": "UNILAD",
+      "timestamp": "1717760429000",
+      "newsUrl": "https://www.unilad.com/technology/news/scientists-send-robot-under-doomsday-glacier-617798-20240607",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZWREpQWDJZMFNVSTVSemRIVFJDZkF4ampCU2dLTWdZQlVJcUN1UVU=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZWREpQWDJZMFNVSTVSemRIVFJDZkF4ampCU2dLTWdZQlVJcUN1UVU"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Scientists Have Discovered a New Way to Levitate Water",
+      "snippet": "If you flick a handful of droplets on a very hot pan, you can watch them skitter and dance about.",
+      "publisher": "ScienceAlert",
+      "timestamp": "1717803142000",
+      "newsUrl": "https://www.sciencealert.com/scientists-have-discovered-a-new-way-to-levitate-water",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVUVkZpY213M09EWk1RMmRLVFJDRUFoaUNCU2dLTWdZQmtKQjFPQWM=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUVUVkZpY213M09EWk1RMmRLVFJDRUFoaUNCU2dLTWdZQmtKQjFPQWM"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The Famous \"March Of Progress\" Image Is Wildly Wrong",
+      "snippet": "Creationists hate it, scientists loathe it even more, yet the “March of Progress” continues to be the defining image of human evolution.",
+      "publisher": "IFLScience",
+      "timestamp": "1717757936000",
+      "newsUrl": "https://www.iflscience.com/the-famous-march-of-progress-image-is-wildly-wrong-74557",
+      "images": {
+        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVRiM0JNWWxoSU1tZ3RYekpmVFJEUkF4aVRCU2dLTWdzQmNKQ1ZMR2lLN1VsdVpB=-w280-h168-p-df-rw",
+        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVRiM0JNWWxoSU1tZ3RYekpmVFJEUkF4aVRCU2dLTWdzQmNKQ1ZMR2lLN1VsdVpB"
+      },
+      "hasSubnews": false
+    }
+  ]
+}
