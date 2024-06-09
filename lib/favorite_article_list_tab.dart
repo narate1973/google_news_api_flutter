@@ -15,11 +15,9 @@ class FavoriteArticleListTab extends HookConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final articleStore = ref.watch(articleStoreProvider.notifier);
     final articleViewState = ref.watch(articleStoreProvider);
     final favoriteArticle = articleViewState.favoriteArticle;
 
-    useAutomaticKeepAlive(wantKeepAlive: true);
     return NestedScrollView(
       headerSliverBuilder: (context, _) {
         return <Widget>[
@@ -59,7 +57,11 @@ class FavoriteArticleListTab extends HookConsumerWidget {
             return ArticleCard(
               item: article,
               openBuilder: (context, onTap) {
-                return ArticleDetailPage(item: article);
+                return ArticlePageView(
+                  articles: favoriteArticle,
+                  article: article,
+                  scrollController: null,
+                );
               },
             );
           },

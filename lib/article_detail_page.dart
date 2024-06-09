@@ -7,18 +7,44 @@ import 'package:google_new_api_test/responses/responses.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:shimmer/shimmer.dart';
 
-class ArticleDetailPage extends HookConsumerWidget {
+class ArticlePageView extends HookConsumerWidget {
+  final List<ArticleItem> articles;
+  final ArticleItem article;
+  final ScrollController? scrollController;
+
+  const ArticlePageView({
+    super.key,
+    required this.articles,
+    required this.article,
+    required this.scrollController,
+  });
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final controller = usePageController(initialPage: articles.indexOf(article));
+
+    return PageView(
+      controller: controller,
+      onPageChanged: (index) {
+        scrollController?.jumpTo(index * 300);
+      },
+      children: articles.map((item) {
+        return _ArticleDetailPage(item: item);
+      }).toList(),
+    );
+  }
+}
+
+class _ArticleDetailPage extends HookConsumerWidget {
   final ArticleItem item;
 
-  const ArticleDetailPage({
-    super.key,
-    required this.item,
-  });
+  const _ArticleDetailPage({required this.item});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final articleViewState = ref.watch(articleStoreProvider);
     final isFavorite = articleViewState.favoriteArticle.any((element) => element == item);
+
     return SafeArea(
       child: Scaffold(
         body: Column(
@@ -104,6 +130,8 @@ class ArticleDetailPage extends HookConsumerWidget {
                     '20/05/1999',
                     style: Theme.of(context).textTheme.labelLarge,
                   ),
+                  const SizedBox(height: 16),
+                  const Divider(),
                   const SizedBox(height: 16),
                   Text(
                     item.snippet,

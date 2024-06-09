@@ -24,18 +24,10 @@ class MainPage extends HookConsumerWidget {
     final articleViewState = ref.watch(articleStoreProvider);
     final categories = articleViewState.articleCategories;
     final pageIndex = useState(0);
-    // final articleMap = useState<Map<String, ArticleResponse?>>(categories.asMap().map((key, value) {
-    //   return MapEntry(value, null);
-    // }));
 
     useEffect(() {
       WidgetsBinding.instance.addPostFrameCallback((_) async {
         await articleStore.init();
-        // final newsRepo = ref.read(newsRepoProvider);
-        // final response = await newsRepo.getNews(category: categories[0]);
-        // final mapCopy = Map<String, ArticleResponse?>.from(articleMap.value);
-        // mapCopy[categories[0]] = response;
-        // articleMap.value = mapCopy;
       });
       return null;
     }, []);

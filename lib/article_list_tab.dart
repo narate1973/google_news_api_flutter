@@ -4,9 +4,6 @@ import 'package:google_new_api_test/article_detail_page.dart';
 import 'package:google_new_api_test/article_store/article_store.dart';
 import 'package:google_new_api_test/components/article_card.dart';
 import 'package:google_new_api_test/components/setting_dialog.dart';
-import 'package:google_new_api_test/main_page.dart';
-import 'package:google_new_api_test/news_repo.dart';
-import 'package:google_new_api_test/responses/responses.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class ArticleListTab extends HookConsumerWidget {
@@ -25,18 +22,13 @@ class ArticleListTab extends HookConsumerWidget {
     final articleViewState = ref.watch(articleStoreProvider);
     final categories = articleViewState.articleCategories;
     final tabController = useTabController(initialLength: categories.length);
-    useAutomaticKeepAlive(wantKeepAlive: true);
 
     useEffect(() {
       tabController.addListener(() async {
-        // final currentArticle =
-        // if (article == null) {
         await articleStore.fetchArticle(categorySlug: categories[tabController.index]);
-        // }
       });
       return null;
     }, []);
-
 
     return NestedScrollView(
       headerSliverBuilder: (context, _) {
@@ -94,23 +86,30 @@ class ArticleListTab extends HookConsumerWidget {
             if (article?.isNotEmpty == true) {
               final response = article!;
 
-              return ListView.builder(
-                padding: EdgeInsets.zero,
-                itemCount: response.length,
-                itemBuilder: (context, index) {
-                  final item = response[index];
+              return HookBuilder(builder: (context) {
+                final scrollController = useScrollController();
 
-                  return ArticleCard(
-                    item: item,
-                    openBuilder: (context, VoidCallback onOpen) {
-                      return ArticleDetailPage(
-                        key: ValueKey(item.timestamp),
-                        item: item,
-                      );
-                    },
-                  );
-                },
-              );
+                return ListView.builder(
+                  controller: scrollController,
+                  padding: EdgeInsets.zero,
+                  itemCount: response.length,
+                  itemBuilder: (context, index) {
+                    final item = response[index];
+
+                    return ArticleCard(
+                      item: item,
+                      openBuilder: (context, VoidCallback onOpen) {
+                        return ArticlePageView(
+                          key: ValueKey(item.timestamp),
+                          article: item,
+                          articles: response,
+                          scrollController: scrollController,
+                        );
+                      },
+                    );
+                  },
+                );
+              });
             }
 
             return ListView.builder(
