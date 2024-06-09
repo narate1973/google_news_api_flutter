@@ -3,8 +3,6 @@ import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:google_new_api_test/article_list_tab.dart';
 import 'package:google_new_api_test/article_store/article_store.dart';
 import 'package:google_new_api_test/components/animated_fade_index_stack.dart';
-import 'package:google_new_api_test/news_repo.dart';
-import 'package:google_new_api_test/responses/responses.dart';
 import 'package:google_new_api_test/favorite_article_list_tab.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 

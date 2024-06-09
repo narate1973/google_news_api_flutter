@@ -47,6 +47,7 @@ class ArticleStore extends StateNotifier<ArticleViewState> {
       final articles = await newsRepo.getNews(category: _categories[0]);
       final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)..[_categories[0]] = articles.items;
       state = state.copyWith(articleMap: newArticles);
+      await appSharedPreference.setCachedArticles(state.articleMap);
     } catch (e, s) {}
   }
 
@@ -55,6 +56,7 @@ class ArticleStore extends StateNotifier<ArticleViewState> {
     final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)..[categorySlug] = articles.items;
 
     state = state.copyWith(articleMap: newArticles);
+    await appSharedPreference.setCachedArticles(state.articleMap);
   }
 
   Future<void> toggleFavorite(ArticleItem item) async {

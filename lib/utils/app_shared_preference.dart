@@ -17,15 +17,15 @@ class AppSharedPreference extends AppSharedPreferenceBase {
     if (articlesJson == null) {
       return {};
     }
-    final articles = (jsonDecode(articlesJson) as Map<String, List<Map<String, dynamic>>>).map((key, value) {
-      return MapEntry(key, value.map(ArticleItem.fromJson).toList());
+    final articles = (jsonDecode(articlesJson) as Map<String, dynamic>).map((key, value) {
+      return MapEntry(key, (value as List<dynamic>).map((value) => ArticleItem.fromJson(value as Map<String, dynamic>)).toList());
     });
     return articles;
   }
 
   Future<void> setCachedArticles(Map<String, List<ArticleItem>?> articlesMap) async {
     final articlesJson = articlesMap.map((key, article) {
-      return MapEntry(key, article?.map((value) => value.toJson()));
+      return MapEntry(key, article?.map((value) => value.toJson()).toList());
     });
     return await setString('articles', value: jsonEncode(articlesJson));
   }
@@ -36,7 +36,7 @@ class AppSharedPreference extends AppSharedPreferenceBase {
       return [];
     }
     final articles =
-        List<ArticleItem>.from((jsonDecode(articlesJson)['favorite_articles'] as List<Map<String, dynamic>>).map((e) {
+        List<ArticleItem>.from((jsonDecode(articlesJson)['articles'] as List<Map<String, dynamic>>).map((e) {
       return ArticleItem.fromJson(e);
     }).toList());
     return articles;
@@ -46,7 +46,7 @@ class AppSharedPreference extends AppSharedPreferenceBase {
     final articlesJson = {
       'articles': articles.map((e) => e.toJson()).toList(),
     };
-    return await setString('favorite_articles', value: articlesJson.toString());
+    return await setString('favorite_articles', value: jsonEncode(articlesJson));
   }
 }
 

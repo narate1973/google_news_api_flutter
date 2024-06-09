@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:google_new_api_test/main_page.dart';
+import 'package:google_new_api_test/utils/app_shared_preference.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 void main() {
@@ -14,6 +15,7 @@ class MyApp extends HookWidget {
   Widget build(BuildContext context) {
     final themeMode = useState(ThemeMode.dark);
     final seedColor = useState(Colors.deepOrange);
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
@@ -36,6 +38,28 @@ class MyApp extends HookWidget {
         ),
         useMaterial3: true,
       ),
+      builder: (context, child) {
+        return HookConsumer(
+          builder: (context, ref, consumerChild) {
+            final appSharedPreference = ref.watch(appSharedPreferenceProvider);
+            final isReady = useState(false);
+
+            useEffect(() {
+              () async {
+                await appSharedPreference.reload();
+                isReady.value = true;
+              }();
+              return null;
+            }, []);
+
+            if (!isReady.value) {
+              return const Center(child: CircularProgressIndicator());
+            }
+
+            return child!;
+          }
+        );
+      },
       home: MainPage(
         themeNotifier: themeMode,
         seedColor: seedColor,
