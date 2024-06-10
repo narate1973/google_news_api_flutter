@@ -6,22 +6,19 @@ import 'package:google_new_api_test/components/animated_fade_index_stack.dart';
 import 'package:google_new_api_test/favorite_article_list_tab.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-class MainPage extends HookConsumerWidget {
-  final ValueNotifier<ThemeMode> themeNotifier;
-  final ValueNotifier<Color> seedColor;
+final mainPageIndexValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<int>>((ref) {
+  return ValueNotifier(0);
+});
 
-  const MainPage({
-    super.key,
-    required this.themeNotifier,
-    required this.seedColor,
-  });
+class MainPage extends HookConsumerWidget {
+  const MainPage({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final articleStore = ref.watch(articleStoreProvider.notifier);
     final articleViewState = ref.watch(articleStoreProvider);
     final categories = articleViewState.articleCategories;
-    final pageIndex = useState(0);
+    final pageIndex = ref.watch(mainPageIndexValueNotifierProvider);
 
     useEffect(() {
       WidgetsBinding.instance.addPostFrameCallback((_) async {
@@ -39,13 +36,9 @@ class MainPage extends HookConsumerWidget {
       body: AnimatedFadeIndexedStack(
         duration: const Duration(milliseconds: 300),
         index: pageIndex.value,
-        children: [
-          ArticleListTab(themeNotifier: themeNotifier, seedColor: seedColor),
-          FavoriteArticleListTab(
-            onBrowseArticle: () {
-              pageIndex.value = 0;
-            },
-          ),
+        children: const [
+          ArticleListTab(),
+          FavoriteArticleListTab(),
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(

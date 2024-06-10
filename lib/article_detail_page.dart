@@ -10,13 +10,11 @@ import 'package:shimmer/shimmer.dart';
 class ArticlePageView extends HookConsumerWidget {
   final List<ArticleItem> articles;
   final ArticleItem article;
-  final ScrollController? scrollController;
 
   const ArticlePageView({
     super.key,
     required this.articles,
     required this.article,
-    required this.scrollController,
   });
 
   @override
@@ -25,9 +23,6 @@ class ArticlePageView extends HookConsumerWidget {
 
     return PageView(
       controller: controller,
-      onPageChanged: (index) {
-        scrollController?.jumpTo(index * 300);
-      },
       children: articles.map((item) {
         return _ArticleDetailPage(item: item);
       }).toList(),

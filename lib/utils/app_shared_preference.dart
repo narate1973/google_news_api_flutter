@@ -36,7 +36,7 @@ class AppSharedPreference extends AppSharedPreferenceBase {
       return [];
     }
     final articles =
-        List<ArticleItem>.from((jsonDecode(articlesJson)['articles'] as List<Map<String, dynamic>>).map((e) {
+        List<ArticleItem>.from((jsonDecode(articlesJson)['articles'] as List).map((e) {
       return ArticleItem.fromJson(e);
     }).toList());
     return articles;

@@ -8,13 +8,22 @@ void main() {
   runApp(const ProviderScope(child: MyApp()));
 }
 
-class MyApp extends HookWidget {
+final themeValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<ThemeMode>>((ref) {
+  return ValueNotifier(ThemeMode.system);
+});
+
+final seedColorValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<Color>>((ref) {
+  return ValueNotifier(Colors.deepOrange);
+});
+
+
+class MyApp extends HookConsumerWidget {
   const MyApp({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    final themeMode = useState(ThemeMode.dark);
-    final seedColor = useState(Colors.deepOrange);
+  Widget build(BuildContext context, WidgetRef ref) {
+    final themeMode = ref.watch(themeValueNotifierProvider);
+    final seedColor = ref.watch(seedColorValueNotifierProvider);
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
@@ -60,9 +69,7 @@ class MyApp extends HookWidget {
           }
         );
       },
-      home: MainPage(
-        themeNotifier: themeMode,
-        seedColor: seedColor,
+      home: const MainPage(
       ),
     );
   }

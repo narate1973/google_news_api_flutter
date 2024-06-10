@@ -20,14 +20,14 @@ class _NewsLocalRepo implements NewsRepo {
 
   @override
   Future<ArticleResponse> getNews({required String category}) async {
-    await Future.delayed(const Duration(milliseconds: 200));
-    final response = await rootBundle.loadString('asset/mock_data/${category.toLowerCase()}_data.json');
-    return ArticleResponse.fromJson(jsonDecode(response));
+    throw UnimplementedError();
+    // await Future.delayed(const Duration(milliseconds: 200));
+    // final response = await rootBundle.loadString('asset/mock_data/${category.toLowerCase()}_data.json');
+    // return ArticleResponse.fromJson(jsonDecode(response));
   }
 }
 
 class _NewsRemoteRepo implements NewsRepo {
-
   _NewsRemoteRepo();
 
   @override
