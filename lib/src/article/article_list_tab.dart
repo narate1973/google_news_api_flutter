@@ -1,41 +1,35 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:google_new_api_test/article_detail_page.dart';
-import 'package:google_new_api_test/article_store/article_store.dart';
-import 'package:google_new_api_test/components/article_card.dart';
-import 'package:google_new_api_test/components/setting_dialog.dart';
+import 'package:google_new_api_test/core/app_store.dart';
+import 'package:google_new_api_test/src/article/article_detail_page.dart';
+import 'package:google_new_api_test/src/article/article_store/article_store.dart';
+import 'package:google_new_api_test/core/components/article_card.dart';
+import 'package:google_new_api_test/core/components/setting_dialog.dart';
 import 'package:google_new_api_test/main.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-class ArticleListTab extends HookConsumerWidget {
+class ArticleListTab extends AppHookConsumerWidget<ArticleStore, ArticleViewState> {
   const ArticleListTab({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  AutoDisposeAppStateNotifierProvider<ArticleStore, ArticleViewState> get stateNotifierProvider => articleStoreProvider;
+
+  @override
+  Widget buildWidget(
+    BuildContext context,
+    WidgetRef ref,
+    ArticleViewState state,
+    StoreDispatch dispatch,
+  ) {
     final themeNotifier = ref.watch(themeValueNotifierProvider);
     final seedColor = ref.watch(seedColorValueNotifierProvider);
-    final articleStore = ref.watch(articleStoreProvider.notifier);
-    final articleViewState = ref.watch(articleStoreProvider);
-    final categories = articleViewState.articleCategories;
+    final categories = state.articleCategories;
     final tabController = useTabController(initialLength: categories.length);
 
     useEffect(() {
       tabController.addListener(() async {
-        try {
-          await articleStore.fetchArticle(categorySlug: categories[tabController.index]);
-        } catch (e) {
-          print('fetchArticle error');
-          Fluttertoast.showToast(
-            msg: e.toString(),
-            toastLength: Toast.LENGTH_LONG,
-            gravity: ToastGravity.BOTTOM,
-            timeInSecForIosWeb: 1,
-            backgroundColor: Theme.of(context).colorScheme.error,
-            textColor: Theme.of(context).colorScheme.onError,
-            fontSize: 16.0,
-          );
-        }
+        await dispatch(ArticleFetched(categories[tabController.index]));
       });
       return null;
     }, []);
@@ -92,13 +86,13 @@ class ArticleListTab extends HookConsumerWidget {
           categories.length,
           (index) {
             final category = categories[index];
-            final article = articleViewState.articleMap[category];
+            final article = state.articleMap[category];
             if (article?.isNotEmpty == true) {
               return ListView.builder(
                 padding: EdgeInsets.zero,
                 itemCount: article!.length,
                 itemBuilder: (context, index) {
-                  final item = article![index];
+                  final item = article[index];
 
                   return ArticleCard(
                     item: item,
@@ -106,7 +100,7 @@ class ArticleListTab extends HookConsumerWidget {
                       return ArticlePageView(
                         key: ValueKey(item.timestamp),
                         article: item,
-                        articles: article!,
+                        articles: article,
                       );
                     },
                   );

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:google_new_api_test/article_detail_page.dart';
-import 'package:google_new_api_test/article_store/article_store.dart';
-import 'package:google_new_api_test/components/article_card.dart';
+import 'package:google_new_api_test/src/article/article_detail_page.dart';
+import 'package:google_new_api_test/src/article/article_store/article_store.dart';
+import 'package:google_new_api_test/core/components/article_card.dart';
 import 'package:google_new_api_test/main_page.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 

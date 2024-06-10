@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:google_new_api_test/responses/responses.dart';
+import 'package:google_new_api_test/src/article/data/responses/responses.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 final appSharedPreferenceProvider = Provider<AppSharedPreference>((ref) {

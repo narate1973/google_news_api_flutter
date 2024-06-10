@@ -2,12 +2,13 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:google_new_api_test/article_store/article_store.dart';
-import 'package:google_new_api_test/responses/responses.dart';
+import 'package:google_new_api_test/core/app_store.dart';
+import 'package:google_new_api_test/src/article/article_store/article_store.dart';
+import 'package:google_new_api_test/src/article/data/responses/responses.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:shimmer/shimmer.dart';
 
-class ArticlePageView extends HookConsumerWidget {
+class ArticlePageView extends HookWidget {
   final List<ArticleItem> articles;
   final ArticleItem article;
 
@@ -18,7 +19,7 @@ class ArticlePageView extends HookConsumerWidget {
   });
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  Widget build(BuildContext context) {
     final controller = usePageController(initialPage: articles.indexOf(article));
 
     return PageView(
@@ -30,13 +31,16 @@ class ArticlePageView extends HookConsumerWidget {
   }
 }
 
-class _ArticleDetailPage extends HookConsumerWidget {
+class _ArticleDetailPage extends AppHookConsumerWidget<ArticleStore, ArticleViewState> {
   final ArticleItem item;
 
   const _ArticleDetailPage({required this.item});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  AutoDisposeAppStateNotifierProvider<ArticleStore, ArticleViewState> get stateNotifierProvider => articleStoreProvider;
+
+  @override
+  Widget buildWidget(BuildContext context, WidgetRef ref, ArticleViewState state, StoreDispatch dispatch) {
     final articleViewState = ref.watch(articleStoreProvider);
     final isFavorite = articleViewState.favoriteArticle.any((element) => element == item);
 
@@ -85,9 +89,9 @@ class _ArticleDetailPage extends HookConsumerWidget {
                   child: Padding(
                     padding: const EdgeInsets.only(top: 8, right: 8),
                     child: IconButton(
-                      onPressed: () {
+                      onPressed: () async {
                         HapticFeedback.mediumImpact();
-                        ref.read(articleStoreProvider.notifier).toggleFavorite(item);
+                        await dispatch(ArticleFavoriteToggled(item));
                       },
                       icon: Container(
                         padding: const EdgeInsets.all(8),

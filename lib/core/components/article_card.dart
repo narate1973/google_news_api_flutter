@@ -1,7 +1,7 @@
 import 'package:animations/animations.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:google_new_api_test/responses/responses.dart';
+import 'package:google_new_api_test/src/article/data/responses/responses.dart';
 import 'package:shimmer/shimmer.dart';
 
 class ArticleCard extends StatelessWidget {

@@ -1,21 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
+import 'package:google_new_api_test/core/components/app_toast.dart';
+import 'package:google_new_api_test/core/connection_checker.dart';
 import 'package:google_new_api_test/main_page.dart';
-import 'package:google_new_api_test/utils/app_shared_preference.dart';
+import 'package:google_new_api_test/core/app_shared_preference.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 void main() {
+  ConnectionStatusSingleton connectionStatus = ConnectionStatusSingleton.getInstance();
+  connectionStatus.initialize();
   runApp(const ProviderScope(child: MyApp()));
 }
-
-final themeValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<ThemeMode>>((ref) {
-  return ValueNotifier(ThemeMode.system);
-});
-
-final seedColorValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<Color>>((ref) {
-  return ValueNotifier(Colors.deepOrange);
-});
-
 
 class MyApp extends HookConsumerWidget {
   const MyApp({super.key});
@@ -48,11 +43,11 @@ class MyApp extends HookConsumerWidget {
         useMaterial3: true,
       ),
       builder: (context, child) {
-        return HookConsumer(
-          builder: (context, ref, consumerChild) {
+        return AppToast.scope(
+          child: HookConsumer(builder: (context, ref, consumerChild) {
             final appSharedPreference = ref.watch(appSharedPreferenceProvider);
             final isReady = useState(false);
-
+          
             useEffect(() {
               () async {
                 await appSharedPreference.reload();
@@ -60,17 +55,24 @@ class MyApp extends HookConsumerWidget {
               }();
               return null;
             }, []);
-
+          
             if (!isReady.value) {
               return const Center(child: CircularProgressIndicator());
             }
-
+          
             return child!;
-          }
+          }),
         );
       },
-      home: const MainPage(
-      ),
+      home: const MainPage(),
     );
   }
 }
+
+final themeValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<ThemeMode>>((ref) {
+  return ValueNotifier(ThemeMode.system);
+});
+
+final seedColorValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<Color>>((ref) {
+  return ValueNotifier(Colors.deepOrange);
+});
