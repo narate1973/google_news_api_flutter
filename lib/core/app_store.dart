@@ -15,6 +15,11 @@ abstract class AppEvent extends Equatable {
   bool get stringify => true;
 }
 
+class AppExceptions {
+  final String message;
+  const AppExceptions(this.message);
+}
+
 typedef DispatcherResult = ({dynamic result, Object? error});
 
 extension DispatcherResultUtils on DispatcherResult {
@@ -53,6 +58,11 @@ abstract class AppHookConsumerWidget<STORE extends AppStateNotifier<AppEvent, ST
 
         if (await ConnectionStatusSingleton.getInstance().checkConnection() == false) {
           AppToast.general(message: 'No internet connection. Please try again.').show(context);
+          return (result: null, error: e);
+        }
+
+        if (e is AppExceptions) {
+          AppToast.negative(message: e.message).show(context);
           return (result: null, error: e);
         }
 

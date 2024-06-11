@@ -48,14 +48,14 @@ class ArticleStore extends AppStateNotifier<ArticleEvent, ArticleViewState> {
           articleCategories: _categories,
           articleMap: cachedArticles,
         );
-        final articles = await newsRepo.getNews(category: _categories[0]);
+        final articles = await newsRepo.getNewsByCategory(category: _categories[0]);
         final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)..[_categories[0]] = articles.items;
         state = state.copyWith(articleMap: newArticles);
         await appSharedPreference.setCachedArticles(state.articleMap);
         break;
 
-      case ArticleFetched():
-        final articles = await newsRepo.getNews(category: intent.categorySlug);
+      case ArticleFetchedByCategory():
+        final articles = await newsRepo.getNewsByCategory(category: intent.categorySlug);
         final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)
           ..[intent.categorySlug] = articles.items;
         state = state.copyWith(articleMap: newArticles);

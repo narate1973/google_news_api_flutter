@@ -1,64 +1,61 @@
 import 'dart:convert';
 import 'dart:io';
-
 import 'package:flutter/services.dart';
 import 'package:google_new_api_test/core/app_dart_define.dart';
+import 'package:google_new_api_test/core/app_http_client.dart';
+import 'package:google_new_api_test/core/app_store.dart';
 import 'package:google_new_api_test/src/article/data/responses/responses.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:http/http.dart' as http;
 
 final newsRepoProvider = Provider<NewsRepo>((ref) {
-  // return const _NewsRemoteRepo();
-  return const _NewsMockRepo();
+  if (AppDartDefine.useMockData) {
+    return const _NewsMockRepo();
+  }
+  return NewsRemoteRepo(ref.watch(appHttpProvider));
 });
 
 abstract class NewsRepo {
   const NewsRepo();
 
-  Future<ArticleResponse> getNews({required String category});
+  Future<ArticleResponse> getNewsByCategory({required String category});
 }
 
 class _NewsMockRepo implements NewsRepo {
   const _NewsMockRepo();
 
   @override
-  Future<ArticleResponse> getNews({required String category}) async {
+  Future<ArticleResponse> getNewsByCategory({required String category}) async {
     await Future.delayed(const Duration(milliseconds: 200));
     final response = await rootBundle.loadString('asset/mock_data/${category.toLowerCase()}_data.json');
     return ArticleResponse.fromJson(jsonDecode(response));
   }
 }
 
-class _NewsRemoteRepo implements NewsRepo {
-  const _NewsRemoteRepo();
+class NewsRemoteRepo implements NewsRepo {
+  final AppHttpClient appHttpClient;
+
+  const NewsRemoteRepo(
+    this.appHttpClient,
+  );
 
   @override
-  Future<ArticleResponse> getNews({required String category}) async {
-    final uri = Uri.https(AppDartDefine.googleNewsDomain, '/${category.toLowerCase()}', {'lr': 'en-US'});
-    final request = http.Request('GET', uri);
-    request.headers.addAll({
-      'User-Agent': 'Mozilla/5.1',
-      'x-rapidapi-host': 'google-news13.p.rapidapi.com',
-      'x-rapidapi-key': AppDartDefine.rapidApiKey,
-    });
-    final response = await request.send();
-    return _handleResponse(response).then(articleResponseFromJson);
-  }
+  Future<ArticleResponse> getNewsByCategory({required String category}) async {
+    try {
+      final response = await appHttpClient.get(path: '/${category.toLowerCase()}', query: {'lr': 'en-US'});
+      return ArticleResponse.fromJson(jsonDecode(response));
+    } catch (e) {
+      if (e is HttpException) {
+        final message = jsonDecode(e.message)['message'] as String?;
+        if (message?.contains('exceeded') == true) {
+          throw const AppExceptions('API limit exceeded, please review your plan');
+        }
 
-  Future<String> _handleResponse(http.StreamedResponse response) async {
-    final data = await response.stream.bytesToString();
-    if (response.statusCode >= 200 && response.statusCode < 300) {
-      return data;
-    } else if (response.statusCode >= 300 && response.statusCode < 400) {
-      throw HttpException(
-        jsonDecode(data)['message'] as String? ?? data,
-        uri: response.request?.url,
-      );
-    } else {
-      throw HttpException(
-        jsonDecode(data)['message'] as String? ?? data,
-        uri: response.request?.url,
-      );
+        if (message != null) {
+          throw AppExceptions(message);
+        }
+        rethrow;
+      }
+      rethrow;
     }
   }
 }

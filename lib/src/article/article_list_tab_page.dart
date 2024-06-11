@@ -28,7 +28,7 @@ class ArticleListTabPage extends AppHookConsumerWidget<ArticleStore, ArticleView
 
     useEffect(() {
       tabController.addListener(() async {
-        await dispatch(ArticleFetched(categories[tabController.index]));
+        await dispatch(ArticleFetchedByCategory(categories[tabController.index]));
       });
       return null;
     }, []);
@@ -120,3 +120,4 @@ class ArticleListTabPage extends AppHookConsumerWidget<ArticleStore, ArticleView
     );
   }
 }
+

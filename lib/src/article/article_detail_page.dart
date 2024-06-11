@@ -24,7 +24,7 @@ class ArticleDetailPage extends HookConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final controller = usePageController(initialPage: articles.indexOf(article));
     final appSharedPreference = ref.watch(appSharedPreferenceProvider);
-    final showSwipeTutorial = useState(true);
+    final showSwipeTutorial = useState(appSharedPreference.showSwipeTutorial);
 
     useEffect(() {
       () async {

@@ -11,10 +11,10 @@ class ArticleInitialized extends ArticleEvent {
   List<Object?> get props => [];
 }
 
-class ArticleFetched extends ArticleEvent {
+class ArticleFetchedByCategory extends ArticleEvent {
   final String categorySlug;
 
-  const ArticleFetched(this.categorySlug);
+  const ArticleFetchedByCategory(this.categorySlug);
 
   @override
   List<Object?> get props => [categorySlug];
