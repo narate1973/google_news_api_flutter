@@ -41,10 +41,10 @@ class ArticleStore extends AppStateNotifier<ArticleEvent, ArticleViewState> {
   AppStateNotifierResult mapIntentToState(ArticleEvent intent) async {
     switch (intent) {
       case ArticleInitialized():
-        final favoriteArticle = appSharedPreference.favoriteArticle;
+        final cachedFavoriteArticle = appSharedPreference.favoriteArticle;
         final cachedArticles = appSharedPreference.cachedArticles;
         state = state.copyWith(
-          favoriteArticle: favoriteArticle,
+          favoriteArticle: cachedFavoriteArticle,
           articleCategories: _categories,
           articleMap: cachedArticles,
         );
@@ -52,8 +52,8 @@ class ArticleStore extends AppStateNotifier<ArticleEvent, ArticleViewState> {
         final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)..[_categories[0]] = articles.items;
         state = state.copyWith(articleMap: newArticles);
         await appSharedPreference.setCachedArticles(state.articleMap);
-
         break;
+
       case ArticleFetched():
         final articles = await newsRepo.getNews(category: intent.categorySlug);
         final newArticles = Map<String, List<ArticleItem>?>.from(state.articleMap)
@@ -61,6 +61,7 @@ class ArticleStore extends AppStateNotifier<ArticleEvent, ArticleViewState> {
         state = state.copyWith(articleMap: newArticles);
         await appSharedPreference.setCachedArticles(state.articleMap);
         break;
+
       case ArticleFavoriteToggled():
         final favoriteArticle = state.favoriteArticle.toList();
         if (favoriteArticle.contains(intent.article)) {

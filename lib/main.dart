@@ -7,6 +7,7 @@ import 'package:google_new_api_test/core/app_shared_preference.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   ConnectionStatusSingleton connectionStatus = ConnectionStatusSingleton.getInstance();
   connectionStatus.initialize();
   runApp(const ProviderScope(child: MyApp()));
@@ -29,7 +30,6 @@ class MyApp extends HookConsumerWidget {
         colorScheme: ColorScheme.fromSeed(
           brightness: Brightness.light,
           seedColor: seedColor.value,
-          // seedColor: Colors.deepPurple,
         ),
         useMaterial3: true,
       ),
@@ -38,7 +38,6 @@ class MyApp extends HookConsumerWidget {
         colorScheme: ColorScheme.fromSeed(
           brightness: Brightness.dark,
           seedColor: seedColor.value,
-          // seedColor: Colors.deepPurple,
         ),
         useMaterial3: true,
       ),

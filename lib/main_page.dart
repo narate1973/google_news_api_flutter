@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:google_new_api_test/core/app_store.dart';
 import 'package:google_new_api_test/src/article/article_store/article_store.dart';
-import 'package:google_new_api_test/src/article/article_list_tab.dart';
+import 'package:google_new_api_test/src/article/article_list_tab_page.dart';
 import 'package:google_new_api_test/core/components/animated_fade_index_stack.dart';
-import 'package:google_new_api_test/src/article/favorite_article_list_tab.dart';
+import 'package:google_new_api_test/src/article/favorite_article_list_tab_page.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 final mainPageIndexValueNotifierProvider = ChangeNotifierProvider.autoDispose<ValueNotifier<int>>((ref) {
@@ -44,8 +44,8 @@ class MainPage extends AppHookConsumerWidget<ArticleStore, ArticleViewState> {
         duration: const Duration(milliseconds: 300),
         index: pageIndex.value,
         children: const [
-          ArticleListTab(),
-          FavoriteArticleListTab(),
+          ArticleListTabPage(),
+          FavoriteArticleListTabPage(),
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(

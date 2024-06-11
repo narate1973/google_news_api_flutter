@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:google_new_api_test/src/article/article_detail_page.dart';
 import 'package:google_new_api_test/src/article/article_store/article_store.dart';
-import 'package:google_new_api_test/core/components/article_card.dart';
+import 'package:google_new_api_test/src/article/widget/article_card.dart';
 import 'package:google_new_api_test/main_page.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-class FavoriteArticleListTab extends HookConsumerWidget {
-  const FavoriteArticleListTab({super.key});
+class FavoriteArticleListTabPage extends HookConsumerWidget {
+  const FavoriteArticleListTabPage({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -55,7 +55,7 @@ class FavoriteArticleListTab extends HookConsumerWidget {
             return ArticleCard(
               item: article,
               openBuilder: (context, onTap) {
-                return ArticlePageView(
+                return ArticleDetailPage(
                   articles: favoriteArticle,
                   article: article,
                 );

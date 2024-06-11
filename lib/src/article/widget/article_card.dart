@@ -1,7 +1,8 @@
 import 'package:animations/animations.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:google_new_api_test/core/components/app_network_image.dart';
 import 'package:google_new_api_test/src/article/data/responses/responses.dart';
+import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
 
 class ArticleCard extends StatelessWidget {
@@ -41,55 +42,7 @@ class ArticleCard extends StatelessWidget {
                   children: [
                     ClipRRect(
                       borderRadius: BorderRadius.circular(12),
-                      child: Builder(builder: (context) {
-                        if (item.images?.thumbnail == null) {
-                          return ColoredBox(
-                            color: Theme.of(context).colorScheme.surfaceContainerLowest,
-                            child: const SizedBox(
-                              height: 200,
-                              width: double.infinity,
-                            ),
-                          );
-                        }
-
-                        return CachedNetworkImage(
-                          key: key,
-                          maxHeightDiskCache: 600,
-                          maxWidthDiskCache: 600,
-                          imageUrl: item.images?.thumbnail ?? '',
-                          imageBuilder: (context, imageProvider) {
-                            return Container(
-                              width: double.infinity,
-                              height: 200,
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(12),
-                                color: Colors.white,
-                                image: DecorationImage(
-                                  image: imageProvider,
-                                  fit:  BoxFit.cover,
-                                ),
-                              ),
-                            );
-                          },
-                          placeholder: (context, url) {
-                            return const SizedBox(width: double.infinity, height: 200);
-                          },
-                          errorWidget: (context, url, error) {
-                            return ClipRRect(
-                              borderRadius: BorderRadius.circular(12),
-                              child: Shimmer.fromColors(
-                                baseColor: Theme.of(context).colorScheme.secondaryContainer.withOpacity(0.5),
-                                highlightColor: Theme.of(context).colorScheme.secondaryContainer,
-                                child: Container(
-                                  height: 200,
-                                  width: double.infinity,
-                                  color: Theme.of(context).colorScheme.secondaryContainer,
-                                ),
-                              ),
-                            );
-                          },
-                        );
-                      }),
+                      child: AppNetworkImage(imageUrl: item.images?.thumbnail ?? '', height: 200),
                     ),
                     Padding(
                       padding: const EdgeInsets.all(16.0),
@@ -103,7 +56,12 @@ class ArticleCard extends StatelessWidget {
                             overflow: TextOverflow.ellipsis,
                           ),
                           const SizedBox(height: 2),
-                          Text('20/03/1999', style: Theme.of(context).textTheme.bodyLarge),
+                          Text(
+                            DateFormat('dd/MM/yyyy').format(
+                              DateTime.fromMillisecondsSinceEpoch(int.parse(item.timestamp)),
+                            ),
+                            style: Theme.of(context).textTheme.bodyLarge,
+                          ),
                           const SizedBox(height: 12),
                           Text(
                             item.snippet,

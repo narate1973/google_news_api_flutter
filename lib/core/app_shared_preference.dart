@@ -12,6 +12,14 @@ final appSharedPreferenceProvider = Provider<AppSharedPreference>((ref) {
 class AppSharedPreference extends AppSharedPreferenceBase {
   AppSharedPreference() : super();
 
+  bool get showSwipeTutorial {
+    return getBool('show_swipe_tutorial', defaultValue: true)!;
+  }
+
+  Future<void> setShowSwipeTutorial() async {
+    return await setBool('show_swipe_tutorial', value: false);
+  }
+
   Map<String, List<ArticleItem>?> get cachedArticles {
     final articlesJson = getString('articles');
     if (articlesJson == null) {

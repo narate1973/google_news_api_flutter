@@ -1,16 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_new_api_test/core/app_store.dart';
 import 'package:google_new_api_test/src/article/article_detail_page.dart';
 import 'package:google_new_api_test/src/article/article_store/article_store.dart';
-import 'package:google_new_api_test/core/components/article_card.dart';
+import 'package:google_new_api_test/src/article/widget/article_card.dart';
 import 'package:google_new_api_test/core/components/setting_dialog.dart';
 import 'package:google_new_api_test/main.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-class ArticleListTab extends AppHookConsumerWidget<ArticleStore, ArticleViewState> {
-  const ArticleListTab({super.key});
+class ArticleListTabPage extends AppHookConsumerWidget<ArticleStore, ArticleViewState> {
+  const ArticleListTabPage({super.key});
 
   @override
   AutoDisposeAppStateNotifierProvider<ArticleStore, ArticleViewState> get stateNotifierProvider => articleStoreProvider;
@@ -97,7 +96,7 @@ class ArticleListTab extends AppHookConsumerWidget<ArticleStore, ArticleViewStat
                   return ArticleCard(
                     item: item,
                     openBuilder: (context, VoidCallback onOpen) {
-                      return ArticlePageView(
+                      return ArticleDetailPage(
                         key: ValueKey(item.timestamp),
                         article: item,
                         articles: article,

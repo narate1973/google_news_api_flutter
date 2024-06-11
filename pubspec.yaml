@@ -38,6 +38,7 @@ dependencies:
   http: ^1.2.1
   intl: ^0.18.1
   hooks_riverpod: ^2.5.1
+  flutter_swipe_tutorial: ^1.1.0
   flutter_hooks: ^0.20.5
   freezed_annotation: ^2.2.0
   json_annotation: ^4.8.1
