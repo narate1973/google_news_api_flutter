@@ -1,12 +1,12 @@
 # google_new_api_test
 
-## To setup
+# To setup
 ```
 make setup
 ```
 
-## To run
-# make sure to add argument 
+# To run
+## make sure to add argument 
 ```
 --dart-define-from-file=configuration/configuration.json
 ```
